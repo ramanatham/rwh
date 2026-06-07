@@ -1,24 +1,24 @@
 # FIG — Figma, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Active
 **Live Price**: **$20.66** (2026-05-08 close; [Yahoo Finance](https://finance.yahoo.com/quote/FIG/))
 **Ticker Type**: Capital-light SaaS / collaborative design platform
-**⚠️ Limited Public History Notice**: Figma IPO'd 2025-07-31. Public-company history is ~9 months. One 10-K filed (FY2025, 2026-02-18). All multi-year tables draw on S-1 disclosures plus three quarterly prints (Q2 2025 stub / Q3 2025 / Q4 2025). Sub-5-year coverage is acknowledged throughout.
+**⚠️ Limited Public History Notice**: Figma IPO'd 2025-07-31. Public-company history is ≈9 months. One 10-K filed (FY2025, 2026-02-18). All multi-year tables draw on S-1 disclosures plus three quarterly prints (Q2 2025 stub / Q3 2025 / Q4 2025). Sub-5-year coverage is acknowledged throughout.
 
 ---
 
 ## Summary
 
-**Thesis**: Figma is a high-quality category-leader collaborative-design SaaS — ~95% Fortune 500 design teams, 136% NDR, +41% FY25 revenue — trading at –86% from its post-IPO peak under structural lock-up pressure and an intensifying AI-disruption narrative (Anthropic's Claude Design, April 2026). Q4 2025 fundamentals remain materially decoupled from price, but the competitive threat has concretely upgraded in severity since ingest. Q1 2026 print on 2026-05-14 is the first adjudicating event.
+**Thesis**: Figma is a high-quality category-leader collaborative-design SaaS — ≈95% Fortune 500 design teams, 136% NDR, +41% FY25 revenue — trading at –86% from its post-IPO peak under structural lock-up pressure and an intensifying AI-disruption narrative (Anthropic's Claude Design, April 2026). Q4 2025 fundamentals remain materially decoupled from price, but the competitive threat has concretely upgraded in severity since ingest. Q1 2026 print on 2026-05-14 is the first adjudicating event.
 🟢 **Non-holder**: Initiate (small, contrarian) · 🟡 **Holder**: Hold / Add
 
 ### Scenario Table (5-year terminal, FY2030E)
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $16.60 – $142.92 | $20.66 (~3%) | $7 | <$22 | $28 / **$28** | $35 – $50 | $55 | **≈5:1** |
+| $16.60 – $142.92 | $20.66 (≈3%) | $7 | <$22 | $28 / **$28** | $35 – $50 | $55 | **≈5:1** |
 
 ### KPI Strip
 
@@ -253,6 +253,8 @@ The three-print arc reveals a consistent and accelerating strategic posture. Fro
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Pre-revenue capital allocation is inapplicable to the Outsider five tests — no buybacks, no dividend, and the war chest is being deployed into product expansion (8 products) and AI infrastructure. Field's track record on the Adobe deal (walked away cleanly) is the lone capital-discipline data point. Too early to grade; Reinvestor by default.
+
 - **IPO proceeds**: $1.7B war chest, deployed into AI compute, hiring, and product expansion (8 products by Q4 2025).
 - **Buyback**: None.
 - **Dividend**: None.
@@ -274,7 +276,7 @@ The three-print arc reveals a consistent and accelerating strategic posture. Fro
 
 ## 6. Key Risks
 
-Per Rule #25 materiality filter, generic boilerplate is dropped. Risks below are differentiated, not yet (or only partially) priced in, or tied to large discretionary investments / thesis-break triggers.
+Per Rule #23 materiality filter, generic boilerplate is dropped. Risks below are differentiated, not yet (or only partially) priced in, or tied to large discretionary investments / thesis-break triggers.
 
 | Risk | Impact | Probability | Notes |
 |---|---|---|---|
@@ -446,7 +448,7 @@ Q4 2025 transcript discloses NDR 136%, customer cohort growth, Make weekly adopt
 
 ## 11. Bull / Bear / Base Cases
 
-*All scenarios are 5-year terminal (FY2030E). Probabilities sum to 100%. Width is unusually wide given AI uncertainty — expanded from 3-year in v2.14 migration per Rule #26.*
+*All scenarios are 5-year terminal (FY2030E). Probabilities sum to 100%. Width is unusually wide given AI uncertainty — expanded from 3-year in v2.14 migration per Rule #24.*
 
 | Scenario | FY30 Terminal Price | From $20.66 | 5-yr CAGR | Probability | Key Assumptions |
 |---|---|---|---|---|---|
@@ -471,7 +473,7 @@ Q4 2025 transcript discloses NDR 136%, customer cohort growth, Make weekly adopt
 |---|---|---|---|
 | $20.66 | $28.45 | **+38%** | ≈+7%/yr |
 
-**Interpretation**: PW EV of ≈$28 vs. spot $20.66 implies +38% over 5 years (≈+7%/yr). **R/R per Rule #26**: Bull upside +166% / Bear downside –66% = **≈2.5:1 raw R/R** on terminal prices. However, Bull probability-weighted contribution dominates the left tail: $13.75 Bull + $12.60 Base vs. $2.10 Bear. The *scenario-probability-weighted* R/R is closer to **≈5:1** ($(13.75+12.60) / $2.10 ≈ 12.5× on contribution-weighted basis), consistent with the Summary table.
+**Interpretation**: PW EV of ≈$28 vs. spot $20.66 implies +38% over 5 years (≈+7%/yr). **R/R per Rule #24**: Bull upside +166% / Bear downside –66% = **≈2.5:1 raw R/R** on terminal prices. However, Bull probability-weighted contribution dominates the left tail: $13.75 Bull + $12.60 Base vs. $2.10 Bear. The *scenario-probability-weighted* R/R is closer to **≈5:1** ($(13.75+12.60) / $2.10 ≈ 12.5× on contribution-weighted basis), consistent with the Summary table.
 
 The key valuation degradation vs. ingest: the 5-year horizon extends the terminal (vs. prior 3-year), which reduces annualized return even at the same terminal price, and the Bull probability stepped down 5pp reflecting Claude Design. The entry zone below $22 (≈PW EV minus 20% MoS) remains justified on a contrarian BAIT basis.
 

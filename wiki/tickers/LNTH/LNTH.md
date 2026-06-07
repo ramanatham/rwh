@@ -1,6 +1,6 @@
 # LNTH — Lantheus Holdings, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Paused — since 2026-05-10
 **Live Price**: **$86.15** on 2026-05-10 — [Yahoo Finance](https://finance.yahoo.com/quote/LNTH/)
@@ -466,7 +466,7 @@ Primary-source edges:
 
 **Entry-zone R/R**: Using $78 (top of entry zone) as reference — Bull +99% / Bear –49% = **≈2.0:1**. Better but still below the 3:1 threshold. Best R/R is at ≈$65 entry (Bull +138% / Bear –38% = **≈3.6:1**).
 
-**Horizon**: 5 years (FY2030 terminal, per Rule #26). Near-term inflection points are FY2027 (revenue re-acceleration) and FY2028 (pipeline revenue ramp visibility).
+**Horizon**: 5 years (FY2030 terminal, per Rule #24). Near-term inflection points are FY2027 (revenue re-acceleration) and FY2028 (pipeline revenue ramp visibility).
 
 ---
 

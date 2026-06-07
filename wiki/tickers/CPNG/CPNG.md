@@ -1,6 +1,6 @@
 # CPNG — Coupang, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Active
 **Live Price**: **$16.98** (2026-05-10, –1.39%) — [Yahoo Finance](https://finance.yahoo.com/quote/CPNG)
@@ -16,27 +16,27 @@
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $16.74 – $34.08 | $16.98 (~2%) | $9 | <$18 | $22 / **$24** | $28 – $34 | $36 | **~3:1** (Bear –47% / Bull +112%; rises to ~4:1 with Bull+ $48) |
+| $16.74 – $34.08 | $16.98 (≈2%) | $9 | <$18 | $22 / **$24** | $28 – $34 | $36 | **≈3:1** (Bear –47% / Bull +112%; rises to ≈4:1 with Bull+ $48) |
 
 ### KPI Strip
 
 | BAIT | Moat | FY26E P/E | FCF Yield (TTM) | Short int. | Next catalyst |
 |---|---|---|---|---|---|
-| **Double** (B+A) | **Wide (Korea) / Narrow (rest)** | ~35x | ~1% (TTM FCF compressed) | ~2.9% of float | Q2 2026 print (~Aug 4, 2026) |
+| **Double** (B+A) | **Wide (Korea) / Narrow (rest)** | ≈35x | ≈1% (TTM FCF compressed) | ≈2.9% of float | Q2 2026 print (≈Aug 4, 2026) |
 
 ### Why / Why not / Next read
 
 🟢 **Why**:
 - 80% of WOW membership decline recovered by April; monthly Korea growth improved Jan → Feb → Mar — trough is demonstrably behind
-- Wide-moat Korean logistics infrastructure irreplicable; gross-margin engine held through Q1 (27.0% vs. 29.2% Q4 LY — the ~228 bps delta is the voucher/underutilization drag, not structural)
+- Wide-moat Korean logistics infrastructure irreplicable; gross-margin engine held through Q1 (27.0% vs. 29.2% Q4 LY — the ≈228 bps delta is the voucher/underutilization drag, not structural)
 - $16.98 approaches 52-wk low $16.74 — at this level EV/Revenue ≈0.87x and the base case ($22) offers +30%, Bull ($36) +112%; net cash $5B+ funds all 2026 DO burn without dilution
 
 ⚠️ **Why not**:
 - Management deferred margin expansion to 2027: Q2 guide implies another 300–400 bps contraction; 18+ months of EBITDA compression is a long time to hold a depressed multiple
-- Q1 EBITDA: $29M — if Q2 also guides to near-zero, consensus FY2026E EBITDA estimates of ~$1.7–2.0B look stale and will compress further
+- Q1 EBITDA: $29M — if Q2 also guides to near-zero, consensus FY2026E EBITDA estimates of ≈$1.7–2.0B look stale and will compress further
 - Farfetch **entirely absent** from Q1 transcript — first time since acquisition; either stabilized (benign) or management is managing a quiet deterioration (bear risk)
 
-📅 **Next read**: Q2 2026 print (~Aug 4, 2026) — does Korea Product Commerce CC growth reach double-digits? Does DO burn track $950M–$1B guide? Is Farfetch mentioned at all?
+📅 **Next read**: Q2 2026 print (≈Aug 4, 2026) — does Korea Product Commerce CC growth reach double-digits? Does DO burn track $950M–$1B guide? Is Farfetch mentioned at all?
 
 ---
 
@@ -213,6 +213,8 @@ The Korean e-commerce market is fragmented across listing marketplaces (Naver-le
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: Capital has flowed into building an insurmountable Korean logistics moat and expanding into Taiwan — IRR on that reinvestment is visible in the structural margin trajectory. Buybacks modest ($243M utilized vs. $1B authorization); no dividend. Build-don't-buy logic is Outsider-consistent when the reinvestment IRR is this high, though the Farfetch acquisition and measured pace on buybacks leave the profile in Reinvestor rather than Outsider territory.
+
 - **Korea logistics build-out**: ≈$10B+ cumulative; world-class moat
 - **Taiwan expansion (2022+)**: ≈$400M+ cumulative; own last-mile covers "vast majority" of volume
 - **Farfetch acquisition (January 2024)**: ≈$500M + debt; first positive YoY growth Q4 2025; silent in Q1 2026
@@ -244,11 +246,11 @@ FY2021–FY2024: "Build the moat — absorb GAAP losses for long-duration logist
 
 ## 6. Key Risks
 
-Filtered for risks material to the investment decision per Rule #25. Universal boilerplate excluded.
+Filtered for risks material to the investment decision per Rule #23. Universal boilerplate excluded.
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |---|---|---|---|---|
-| ⚠️ **EBITDA trough deeper / longer than guided — DO burn does not taper in 2027** *(Rule #25(d))* | High | 35% | **Partially priced in** | Q1 adj EBITDA $29M vs. $382M a year ago. Management guided Q2 EBITDA margin –300–400 bps YoY and deferred expansion to 2027. If FY2027 does not see meaningful EBITDA inflection, the $950M–$1B DO burn extends and re-prices the multiple toward Bear case ($9–11). |
+| ⚠️ **EBITDA trough deeper / longer than guided — DO burn does not taper in 2027** *(Rule #23(d))* | High | 35% | **Partially priced in** | Q1 adj EBITDA $29M vs. $382M a year ago. Management guided Q2 EBITDA margin –300–400 bps YoY and deferred expansion to 2027. If FY2027 does not see meaningful EBITDA inflection, the $950M–$1B DO burn extends and re-prices the multiple toward Bear case ($9–11). |
 | ⚠️ **Farfetch silent deterioration** | Medium-High | 30% | **Not priced in** | Farfetch was not mentioned in Q1 2026 transcript — first time since acquisition. Either performance is benign (stabilized), or management is managing a quiet deterioration. If Farfetch slips back to negative YoY growth, the turnaround narrative is invalidated and the $500M acquisition cost becomes an impairment trigger. |
 | ⚠️ **Korea engagement recovery proves slower than guided** | High | 25% | **Partially priced in** | 80% WOW membership recovery by April is encouraging; but Q1 Product Commerce CC growth of +5% is still weak, and Q2 guides +9–10% total CC (not segment-level). If Q2 Korea Product Commerce CC does not reach high-single-digits, breach overhang is multi-year, not 2-quarter. |
 | ⚠️ **Korean demographic / consumer-confidence headwind** | Medium | 60% (long horizon) | Partially | Korean fertility ≈0.78; population peaks ≈2030. Caps long-term Korean retail TAM. Already in consensus. |

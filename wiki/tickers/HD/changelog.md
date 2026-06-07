@@ -4,6 +4,42 @@ Append-only. Most recent entry first.
 
 ---
 
+## [2026-05-31] — Q1 FY2026 Earnings (Post-Print Workflow B)
+
+**Trigger**: Q1 FY2026 earnings reported May 19, 2026; pre-print binary resolved positively. Full Workflow B section-refresh.
+**Sources reviewed**:
+- [HD IR Q1 FY2026 earnings](https://ir.homedepot.com/financial-reports/quarterly-earnings/2026) — Q1 revenue, comps, EPS, guidance
+- [StockAnalysis HD forecast](https://stockanalysis.com/stocks/hd/forecast/) — post-Q1 consensus update
+- [MarketBeat analyst ratings](https://www.marketbeat.com/stocks/NYSE/HD/forecast/) — post-Q1 rating changes
+- [Yahoo Finance HD quote](https://finance.yahoo.com/quote/HD/) — live price ~$320 (2026-05-31)
+- Research: GMS close date (Sep 4, 2025), Mingledorff's HVAC close (May 11, 2026), SRS cross-sell ~$400M/yr
+
+### What Changed
+- **§1 — quarterly table**: Q1 FY2026 column added — Revenue $41.77B (+4.8%), comps +0.6%/US+0.4%, adj EPS $3.43 (beat $3.41E)
+- **§4 — capital allocation**: GMS marked closed (Sep 4, 2025); Mingledorff's HVAC added (closed May 11, 2026); Q1 FY2026 debt repayment noted ($1.4B LTD + $1.0B short-term)
+- **§5 — strategic initiatives**: SRS row updated — GMS closed Sep 4, Mingledorff's closed May 11, cross-sell ~$400M/yr
+- **§8 — valuation**: Snapshot re-anchored to ~$320 (P/E ~21×, FCF yield ~3.9%, div yield ~2.9%, mkt cap ~$319B); Valuation Verdict updated post-Q1
+- **§9 — catalyst/sentiment**: Full refresh — price ~$320 (post-Q1 +7.5%), 52-wk range $289.10–$426.75, post-Q1 analyst consensus (median ~$370, 10+ firms cut targets, all held Buy/OW), Mingledorff's close noted, upcoming catalysts updated (Q1 ✅ delivered; Q2 ~Aug 2026)
+- **§10 — BAIT**: B downgraded Moderate (panic unwound post-print); T upgraded Moderate (binary resolved, floor validated); verdict Double (B+A) maintained
+- **§11 — scenarios**: Spot updated to $320; R/R ≈2.0:1; scenarios unchanged
+- **§12 — PW EV**: Spot $320; upside to PW EV +18%; 5-yr IRR ≈6.2% total; R/R ≈2.0:1
+- **§13 — recommendation**: Pre-Q1 binary framing replaced with post-Q1 positioning; non-holder Initiate/Watch (prefer $290–305 pullback); Q1 thesis-break trigger removed (resolved positively); next trigger Q2 FY2026 ~Aug 2026
+- **Header / Key Stats / Summary**: Updated throughout (price ~$320, P/E ~21×, R/R ~2.0:1, schema v3.0)
+
+### Thesis Status
+- **Overall**: **Strengthened** — Q1 binary resolved positively; comps +0.6%, adj EPS beat, FY2026 guidance fully reaffirmed; GMS/Mingledorff's integration on track; big-ticket comps +0.8% (first positive in quarters)
+- **BAIT delta**: Double (B+A) maintained; Behavioral B softened (panic unwound); Technical T improved (floor validated)
+- **Price target delta**: Bull $530 | Base $395 | Bear $215 — **unchanged** (Q1 confirmed base-case trajectory)
+- **Catalyst & Sentiment delta**: Post-Q1 median analyst target ≈$370; convergence with PW EV $377; debate now recovery-pace not binary
+
+### Recommendation
+- **For a non-holder**: 🟡 **Initiate / Watch** — Q1 resolved positively; at $320 (top of $280–$320 entry zone); prefer pullbacks to $290–$305 for better MoS; initiate now on housing-recovery conviction
+- **For a current holder**: 🟡 **Hold; add on weakness** — thesis intact; no thesis-break triggered
+
+**Next review trigger**: 📅 **Q2 FY2026 earnings (~August 2026)** — SRS fully in comp base; first full-period read on SRS organic comps and GMS margin trajectory.
+
+---
+
 ## [2026-05-18] — Price Action + Analyst Target Cluster (Pre-Q1 De-Risking)
 
 **Trigger**: User question — is the recent HD price decline an opportunity or a threat? Material −7.5% slide to a fresh 52-wk low + a mid-May analyst price-target cluster ahead of the May 19 Q1 FY2026 print. Q1 FY2026 **not yet reported** (scheduled May 19, 2026 — tomorrow).

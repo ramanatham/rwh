@@ -1,6 +1,6 @@
 # CELH — Celsius Holdings, Inc.
 
-> **Schema**: v2.14
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-10
 > **Status**: Active
 > **Live Price Verified**: **$32.29** as of 2026-05-08 close ([MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/CELH/)) | intraday range 2026-05-10: $32.08–$35.60
@@ -10,22 +10,22 @@
 
 ## Summary
 
-**Thesis**: Multi-brand functional-beverage platform (CELSIUS + Alani Nu + Rockstar) under PepsiCo's exclusive U.S. distribution at ~9× FY26E EV/EBITDA after a –52% drawdown — **Narrow-but-strengthening moat** (PepsiCo captaincy + multi-brand cohort coverage). Q1 2026 confirmed the portfolio thesis: consolidated revenue beat at $782.6M (+138% YoY), Alani Nu at +60% pro forma. The unresolved concern is CELSIUS-brand deceleration to +6% YoY, which keeps the bull case conditional on fizz-free expansion and SKU reset completion.
+**Thesis**: Multi-brand functional-beverage platform (CELSIUS + Alani Nu + Rockstar) under PepsiCo's exclusive U.S. distribution at ≈9× FY26E EV/EBITDA after a –52% drawdown — **Narrow-but-strengthening moat** (PepsiCo captaincy + multi-brand cohort coverage). Q1 2026 confirmed the portfolio thesis: consolidated revenue beat at $782.6M (+138% YoY), Alani Nu at +60% pro forma. The unresolved concern is CELSIUS-brand deceleration to +6% YoY, which keeps the bull case conditional on fizz-free expansion and SKU reset completion.
 
-🟢 **Non-holder: Watch / Initiate small** — Q1 confirmed growth pace; PW EV $52 vs. $32 spot (~4.2:1 R/R). Entry zone active. CELSIUS-brand deceleration is the residual uncertainty.
+🟢 **Non-holder: Watch / Initiate small** — Q1 confirmed growth pace; PW EV $52 vs. $32 spot (≈4.2:1 R/R). Entry zone active. CELSIUS-brand deceleration is the residual uncertainty.
 🟡 **Holder: Hold** — thesis intact; gross-margin recovery paced to H2 2026; no thesis-break triggers hit.
 
 | 52-wk Range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $31.80 – $66.74 | $32.29 (~2nd %ile) | $20 | $30–$36 | $48 / **$52** | $60–$70 | $80 | **≈4.2:1** |
+| $31.80 – $66.74 | $32.29 (≈2nd %ile) | $20 | $30–$36 | $48 / **$52** | $60–$70 | $80 | **≈4.2:1** |
 
 | BAIT | Moat | FY26E EV/EBITDA | FCF Yield (est.) | Short Int. | Next Catalyst |
 |---|---|---|---|---|---|
-| Triple (B Strong + A Mod + T Mod) | Narrow-Strengthening | **~9×** | ~3–4% *[Est.]* | **10.5% float** | Q2 2026 earnings |
+| Triple (B Strong + A Mod + T Mod) | Narrow-Strengthening | **≈9×** | ≈3–4% *[Est.]* | **10.5% float** | Q2 2026 earnings |
 
 🟢 **Why own**: (1) Alani Nu +60% pro forma in Q1 confirms portfolio thesis — not just acquisition arithmetic; (2) 20.9% U.S. energy $ share across 3 brands is durable platform, not fad; (3) gross margin guided back to low-50s in H2 2026 — $200M+ EBIT step-up at consensus revenue.
 🟢 **Why own**: (4) PepsiCo captaincy centralizes inventory and shelf execution — structural fix for 2024 destocking recurrence.
-🟢 **Why own**: (5) 10× FY26E EV/EBITDA vs. Monster at ~22× — discount wider than fundamentals justify if FY26 execution holds.
+🟢 **Why own**: (5) 10× FY26E EV/EBITDA vs. Monster at ≈22× — discount wider than fundamentals justify if FY26 execution holds.
 ⚠️ **Why not**: (1) CELSIUS brand at +6% YoY — lowest since PepsiCo deal; fizz-free expansion thesis untested at scale.
 ⚠️ **Why not**: (2) Gross margin 48.3% in Q1 — still 400 bps below prior-year; CFO guided Q2 as "side-step" before H2 recovery; commodity risk (aluminum, LME) unresolved.
 ⚠️ **Why not**: (3) No quantitative FY2026 guidance provided; cannibalization Q&A deflected, not resolved.
@@ -38,13 +38,13 @@
 
 Celsius Holdings (NASDAQ: CELH) is a multi-brand functional and energy beverage platform built on three differentiated brands distributed exclusively in the U.S. by PepsiCo:
 
-- **CELSIUS** — original "fitness energy" / better-for-you positioning (~44% of Q1 2026 revenue)
-- **Alani Nu** — female-skewed, influencer-led; acquired April 2025 for ~$1.8B gross / $1.65B net of tax assets (~47% of Q1 2026 revenue)
-- **Rockstar** — PepsiCo's value-tier brand; transitioning into the CELH platform during 2026 (~9% of Q1 2026 revenue)
+- **CELSIUS** — original "fitness energy" / better-for-you positioning (≈44% of Q1 2026 revenue)
+- **Alani Nu** — female-skewed, influencer-led; acquired April 2025 for ≈$1.8B gross / $1.65B net of tax assets (≈47% of Q1 2026 revenue)
+- **Rockstar** — PepsiCo's value-tier brand; transitioning into the CELH platform during 2026 (≈9% of Q1 2026 revenue)
 
-Q1 2026 total revenue was **$782.6M** (+138% YoY), representing a record first quarter. CELH-distributed portfolio captured **~20.9% U.S. dollar share** of energy drinks in Q1 2026 (CELSIUS 9.9%, Alani Nu 9.0%, Rockstar 2.0%), placing it #3 behind Red Bull (~35–40%) and Monster (~30%) ([Statista](https://www.statista.com/statistics/306864/market-share-of-leading-energy-drink-brands-in-the-us-based-on-case-volume-sales/)).
+Q1 2026 total revenue was **$782.6M** (+138% YoY), representing a record first quarter. CELH-distributed portfolio captured **≈20.9% U.S. dollar share** of energy drinks in Q1 2026 (CELSIUS 9.9%, Alani Nu 9.0%, Rockstar 2.0%), placing it #3 behind Red Bull (≈35–40%) and Monster (≈30%) ([Statista](https://www.statista.com/statistics/306864/market-share-of-leading-energy-drink-brands-in-the-us-based-on-case-volume-sales/)).
 
-The strategic logic is **portfolio-leverage**: a single distribution force (PepsiCo) selling three differentiated brands to non-overlapping cohorts, plus emerging adjacencies (Alani Nu hydration sticks, protein, wellness powders). PepsiCo's August 2025 incremental $585M investment (raising its stake to ~11%) and explicit **"category captain"** designation centralized distribution, inventory planning, and retail execution across CELH's portfolio.
+The strategic logic is **portfolio-leverage**: a single distribution force (PepsiCo) selling three differentiated brands to non-overlapping cohorts, plus emerging adjacencies (Alani Nu hydration sticks, protein, wellness powders). PepsiCo's August 2025 incremental $585M investment (raising its stake to ≈11%) and explicit **"category captain"** designation centralized distribution, inventory planning, and retail execution across CELH's portfolio.
 
 ---
 
@@ -67,16 +67,16 @@ Q2 and June shelf-reset data are the next swing variables: they reveal whether C
 | % from 52-Wk High | **–52%** | Major drawdown |
 | Market Cap | **≈$8.28B** | [Fintel, 2026-05-08](https://fintel.io/s/us/celh) |
 | Q1 2026 Revenue | $782.6M | +138% YoY; record Q1 |
-| Q1 2026 Adj EPS | $0.41 | Beat $0.29–$0.30 consensus by ~$0.11 |
+| Q1 2026 Adj EPS | $0.41 | Beat $0.29–$0.30 consensus by ≈$0.11 |
 | Q1 2026 Adj EBITDA | $195.5M | 25.0% margin (+380 bps YoY) |
 | Q1 2026 Gross Margin | 48.3% | –400 bps YoY; +90 bps seq |
 | CELSIUS brand Q1 revenue | $348M | +6% YoY — key concern |
-| Alani Nu Q1 revenue | $368.1M | ~60% pro forma YoY |
+| Alani Nu Q1 revenue | $368.1M | ≈60% pro forma YoY |
 | Rockstar Q1 revenue | $66.6M | Stabilization year |
 | U.S. Energy $ Share (Q1'26) | 20.9% | CELSIUS 9.9% / Alani 9.0% / Rockstar 2.0% |
 | FY26E Revenue (consensus) | $3.45B | Analyst consensus ([StockAnalysis](https://stockanalysis.com/stocks/celh/forecast/)) |
-| FY26E Adj EBITDA (consensus) | ~$1.67B *[Analyst consensus]* | ~48% FY growth — requires H2 margin step-up |
-| FY26E EV/EBITDA | **~9×** | At $32.29 and $8.28B market cap |
+| FY26E Adj EBITDA (consensus) | ≈$1.67B *[Analyst consensus]* | ≈48% FY growth — requires H2 margin step-up |
+| FY26E EV/EBITDA | **≈9×** | At $32.29 and $8.28B market cap |
 | Analyst Consensus | **Strong Buy** | 20 Buy / 4 Hold; mean target $62.47–$63.89 ([StockAnalysis](https://stockanalysis.com/stocks/celh/forecast/)) |
 | Implied Upside to Mean Target | **+93–97%** | $32.29 → $62–64 |
 | Short Interest | **10.5% of float** (20.69M shares) | Down from 11.71% prior; [Fintel, 2026-05-08](https://fintel.io/s/us/celh) |
@@ -90,7 +90,7 @@ Q2 and June shelf-reset data are the next swing variables: they reveal whether C
 
 **Today**: Celsius is no longer the disruptor — it is the category co-leader. The transformation has three legs:
 
-1. **2022 PepsiCo deal** — exclusive U.S. distribution + ~$550M PIPE locked in shelf access most challengers cannot replicate.
+1. **2022 PepsiCo deal** — exclusive U.S. distribution + ≈$550M PIPE locked in shelf access most challengers cannot replicate.
 2. **2025 Alani Nu acquisition** ($1.8B gross) — added a fast-growing female-skewed brand to expand cohort reach without cannibalizing CELSIUS.
 3. **2026 PepsiCo captaincy + Rockstar transfer** — PepsiCo handed Rockstar entirely to CELH and centralized distribution, inventory planning, and retail execution across the multi-brand portfolio.
 
@@ -104,10 +104,10 @@ The platform thesis is whether these three integrated assets compound — Monste
 |---|---|---|---|---|---|---|
 | Revenue | $314M | $653M | $1.32B | $1.36B | $2.50B | **$3.45B** *[Analyst consensus]* ([StockAnalysis](https://stockanalysis.com/stocks/celh/forecast/)) |
 | YoY Growth | — | +108% | +102% | +3% | +84% | +38% |
-| Gross Margin | ~40% | ~41% | ~48% | ~50% | ~46% | **low 50s (H2-weighted)** (mgmt — Langhans, Q1'26 call) |
-| Adj EBITDA | ~$10M | ~$110M | ~$310M | ~$320M | ~$650M *[Estimate]* | ~$1.67B *[Analyst consensus]* |
-| Adj EBITDA Margin | ~3% | ~17% | ~24% | ~24% | ~26% *[Est.]* | **~48%** *[consensus — requires H2 step-up]* |
-| GAAP Net Income | $14M | $84M | $227M | ~$215M | ~$310M *[Estimate]* | ~$440M *[consensus]* |
+| Gross Margin | ≈40% | ≈41% | ≈48% | ≈50% | ≈46% | **low 50s (H2-weighted)** (mgmt — Langhans, Q1'26 call) |
+| Adj EBITDA | ≈$10M | ≈$110M | ≈$310M | ≈$320M | ≈$650M *[Estimate]* | ≈$1.67B *[Analyst consensus]* |
+| Adj EBITDA Margin | ≈3% | ≈17% | ≈24% | ≈24% | ≈26% *[Est.]* | **≈48%** *[consensus — requires H2 step-up]* |
+| GAAP Net Income | $14M | $84M | $227M | ≈$215M | ≈$310M *[Estimate]* | ≈$440M *[consensus]* |
 
 *FY2025 reflects Alani Nu consolidation from April 1, 2025 and Rockstar from August 28, 2025. FY2024 +3% YoY was PepsiCo inventory destocking, not end-consumer demand collapse. ([Q4 2025 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/), [Q4 2024 PR](https://ir.celsiusholdingsinc.com/news/news-details/2025/Celsius-Holdings-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx))*
 
@@ -116,15 +116,15 @@ The platform thesis is whether these three integrated assets compound — Monste
 | Quarter | Revenue | YoY | Adj EPS | Gross Margin | Notes |
 |---|---|---|---|---|---|
 | Q3 2025 | $725M | +173% | — | — | First full Alani Nu quarter; PepsiCo channel re-stocking ([Q3 2025 PR](https://ir.celsiusholdingsinc.com/news/news-details/2025/)) |
-| Q4 2025 | $721.6M | +117% | $0.26 vs. $0.21 cons | ~46–47% | ~20% U.S. energy $ share; $40M buybacks + $200M debt paydown ([Q4 2025 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/)) |
-| **Q1 2026** | **$782.6M** | **+138%** | **$0.41 vs. $0.29–0.30 cons** | **48.3%** | Record Q1; CELSIUS +6% YoY; Alani Nu ~60% pf YoY; Rockstar $66.6M ([Q1 2026 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/Celsius-Holdings-Reports-First-Quarter-2026-Financial-Results/default.aspx)) |
+| Q4 2025 | $721.6M | +117% | $0.26 vs. $0.21 cons | ≈46–47% | ≈20% U.S. energy $ share; $40M buybacks + $200M debt paydown ([Q4 2025 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/)) |
+| **Q1 2026** | **$782.6M** | **+138%** | **$0.41 vs. $0.29–0.30 cons** | **48.3%** | Record Q1; CELSIUS +6% YoY; Alani Nu ≈60% pf YoY; Rockstar $66.6M ([Q1 2026 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/Celsius-Holdings-Reports-First-Quarter-2026-Financial-Results/default.aspx)) |
 
 ### Brand Revenue Detail — Q1 2026
 
 | Brand | Q1 2026 Revenue | YoY Growth | Notes |
 |---|---|---|---|
 | CELSIUS | $348M | +6% YoY | SKU rationalization + fizz-free ramp |
-| Alani Nu | $368.1M | ~60% pro forma YoY | First full PepsiCo distribution quarter |
+| Alani Nu | $368.1M | ≈60% pro forma YoY | First full PepsiCo distribution quarter |
 | Rockstar Energy | $66.6M | — (acquired Aug 2025) | Stabilization year; integration H1 2026 |
 | **Total** | **$782.6M** | **+138% YoY** | |
 
@@ -132,9 +132,9 @@ The platform thesis is whether these three integrated assets compound — Monste
 
 Across the 5-year MD&A arc, three drivers explain the FY2024 stall and FY2025 reacceleration:
 
-- **2021–2023**: Revenue tripled twice in succession on PepsiCo onboarding inventory build-out + DSD channel breadth gains. Gross margin expanded from ~40% to ~48% on volume leverage.
+- **2021–2023**: Revenue tripled twice in succession on PepsiCo onboarding inventory build-out + DSD channel breadth gains. Gross margin expanded from ≈40% to ≈48% on volume leverage.
 - **FY2024**: Revenue grew only +3% YoY with a Q3 2024 YoY decline — first since the PepsiCo deal. Management explicitly attributed this to **PepsiCo inventory destocking**, not end-consumer demand collapse: scanner data continued to grow double-digits while shipped revenue lagged.
-- **FY2025**: Alani Nu + Rockstar consolidation drove the +84% rebound; **gross margin compressed to ~46%** on integration costs (DSD transition, dual-distribution overlap, co-pack consolidation). Management guided gross margin **back to "low 50s" in FY2026**, now paced to H2 2026 with Q2 "side-step" caveat.
+- **FY2025**: Alani Nu + Rockstar consolidation drove the +84% rebound; **gross margin compressed to ≈46%** on integration costs (DSD transition, dual-distribution overlap, co-pack consolidation). Management guided gross margin **back to "low 50s" in FY2026**, now paced to H2 2026 with Q2 "side-step" caveat.
 - **The PepsiCo captaincy framework (Aug 2025)**: centralized inventory planning across CELSIUS + Alani Nu + Rockstar reduces the recurrence risk of the 2024 destocking event — Q1 2026 print showed no scanner-versus-shipment mismatch.
 
 *Source: [Q4 2025 transcript (Motley Fool, 2026-02-26)](https://www.fool.com/earnings/call-transcripts/2026/02/26/celsius-celh-q4-2025-earnings-call-transcript/); [Q1 2026 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/Celsius-Holdings-Reports-First-Quarter-2026-Financial-Results/default.aspx); [Q1 2026 transcript (Motley Fool, 2026-05-07)](https://www.fool.com/earnings/call-transcripts/2026/05/07/celsius-celh-q1-2026-earnings-transcript/); 10-K HTML re-fetch [link pending].*
@@ -146,9 +146,9 @@ Across the 5-year MD&A arc, three drivers explain the FY2024 stall and FY2025 re
 **Rating: Narrow-and-Strengthening** — brand portfolio + PepsiCo captaincy distribution scale, with replication risk from MNST and emerging entrants but a real structural gap that no other multi-brand challenger can match in U.S. energy.
 
 **Sources of moat**:
-- 🟢 **PepsiCo captaincy distribution** (most durable): Exclusive U.S. partnership; ~1M+ retail doors; **category-captain status as of Aug 2025** centralizes shelf execution + inventory planning. No challenger of CELH's scale has equivalent shelf access.
+- 🟢 **PepsiCo captaincy distribution** (most durable): Exclusive U.S. partnership; ≈1M+ retail doors; **category-captain status as of Aug 2025** centralizes shelf execution + inventory planning. No challenger of CELH's scale has equivalent shelf access.
 - 🟢 **Three-brand cohort coverage**: CELSIUS = fitness/wellness; Alani Nu = female lifestyle / influencer; Rockstar = traditional/value. Differentiated positioning minimizes cannibalization within the portfolio.
-- 🟡 **Pricing premium**: CELSIUS retails ~$0.50–1.00 above Monster; sustained price gap signals brand power.
+- 🟡 **Pricing premium**: CELSIUS retails ≈$0.50–1.00 above Monster; sustained price gap signals brand power.
 - 🟡 **Alani Nu cultural mindshare**: Influencer-led growth (Kim K, lifestyle creators) with strong flavor-rotation LTO strategy; cohort retention high but **brand-equity half-life shorter** than traditional staples.
 - 🟡 **Vertical integration**: Co-packer acquisition + manufacturing line expansion (capacity comes online H2 2026) provides cost leverage.
 
@@ -160,21 +160,21 @@ Across the 5-year MD&A arc, three drivers explain the FY2024 stall and FY2025 re
 
 ### Competitive Landscape
 
-The U.S. energy-drink category is concentrated; the top five brands hold ~85% of $ share ([Statista](https://www.statista.com/statistics/306864/market-share-of-leading-energy-drink-brands-in-the-us-based-on-case-volume-sales/)).
+The U.S. energy-drink category is concentrated; the top five brands hold ≈85% of $ share ([Statista](https://www.statista.com/statistics/306864/market-share-of-leading-energy-drink-brands-in-the-us-based-on-case-volume-sales/)).
 
 | Competitor | Approx U.S. $ Share | Distributor | Read on Moat / Threat |
 |---|---|---|---|
-| **Red Bull** (private, Austrian) | ~35–40% | Direct + multiple | Category leader; brand strength + global distribution; threat to international expansion specifically |
-| **Monster Beverage (MNST)** | ~30% | Coca-Cola system | Closest direct margin comp; female-skewed sub-brands (Reign) press Alani Nu's flank; well-capitalized escalation risk |
-| **CELH portfolio (CELSIUS + Alani Nu + Rockstar)** | ~20.9% (Q1'26) | **PepsiCo** | Subject company |
-| **Bang Energy** | ~3–4% (post-bankruptcy) | KDP | Diminished post-Vital Pharm bankruptcy; KDP-distributed; not a primary threat |
-| **Ghost** (private) | ~2–3% | KDP | Lifestyle-influencer brand; shares overlap with Alani Nu's cohort; growing but smaller |
-| **C4 Energy / Nutrabolt** (private) | ~2–3% | Mixed | Performance positioning; pre-workout overlap with CELSIUS |
-| **5-Hour Energy** | ~3% | Direct + DSD | Shot format; non-overlapping use occasion |
+| **Red Bull** (private, Austrian) | ≈35–40% | Direct + multiple | Category leader; brand strength + global distribution; threat to international expansion specifically |
+| **Monster Beverage (MNST)** | ≈30% | Coca-Cola system | Closest direct margin comp; female-skewed sub-brands (Reign) press Alani Nu's flank; well-capitalized escalation risk |
+| **CELH portfolio (CELSIUS + Alani Nu + Rockstar)** | ≈20.9% (Q1'26) | **PepsiCo** | Subject company |
+| **Bang Energy** | ≈3–4% (post-bankruptcy) | KDP | Diminished post-Vital Pharm bankruptcy; KDP-distributed; not a primary threat |
+| **Ghost** (private) | ≈2–3% | KDP | Lifestyle-influencer brand; shares overlap with Alani Nu's cohort; growing but smaller |
+| **C4 Energy / Nutrabolt** (private) | ≈2–3% | Mixed | Performance positioning; pre-workout overlap with CELSIUS |
+| **5-Hour Energy** | ≈3% | Direct + DSD | Shot format; non-overlapping use occasion |
 
 **How CELH's moat differs**:
 - 🟢 **Multi-brand cohort coverage with one distribution force** is the structural differentiator. No competitor has 3 brands targeted at non-overlapping cohorts under a single category-captain DSD relationship.
-- 🟢 **Female-cohort under-penetration**: Alani Nu reached $368M in Q1 2026 at ~60% pro forma growth — share Monster did not previously contest.
+- 🟢 **Female-cohort under-penetration**: Alani Nu reached $368M in Q1 2026 at ≈60% pro forma growth — share Monster did not previously contest.
 - 🟢 **Pricing premium sustained**: evidence the brand power is real, not a price-driven share grab.
 
 **Tail risk read**: The most credible competitive threat is **Monster + KDP coordinating** — MNST acquiring or licensing a female-skewed brand for KDP distribution would create a near-symmetric competitor. Also monitor Rothschild/Redburn's concern about international expansion difficulty (initiated May 6, 2026 at $47 / Neutral). Monitor MNST M&A activity and KDP partnership announcements as leading indicators.
@@ -187,15 +187,17 @@ The U.S. energy-drink category is concentrated; the top five brands hold ~85% of
 
 **CFO**: **Jarrod Langhans** — handles capital markets, integration, and PepsiCo coordination.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: First sizeable buyback executed "at the lows" (Q4 2025, $40M with $260M remaining authorization) + Alani Nu at <2× revenue (accretive, bold-but-disciplined M&A) + debt paydown post-acquisition — early but coherent Singleton-pattern signals; too short a track record to call Outsider outright.
+
 **Capital allocation track record**:
 
 | Action | Date | Detail | Read |
 |---|---|---|---|
-| **PepsiCo PIPE** | Aug 2022 | ~$550M @ ~$75 conversion | Diluted but unlocked U.S. distribution moat — accretive on net |
+| **PepsiCo PIPE** | Aug 2022 | ≈$550M @ ≈$75 conversion | Diluted but unlocked U.S. distribution moat — accretive on net |
 | **Alani Nu acquisition** | Apr 2025 | $1.8B gross / $1.65B net | Generated $368M in Q1 2026 alone at +60% pro forma — implied <2× revenue paid; accretive |
-| **PepsiCo follow-on investment** | Aug 2025 | ~$585M; PEP stake to ~11% | Validates platform thesis; accompanied by Rockstar transfer + captaincy designation |
+| **PepsiCo follow-on investment** | Aug 2025 | ≈$585M; PEP stake to ≈11% | Validates platform thesis; accompanied by Rockstar transfer + captaincy designation |
 | **Q4 2025 share repurchase** | Q4 2025 | **$40M repurchased; $260M remaining authorization** | First sizeable buyback execution at the lows |
-| **Q4 2025 debt paydown** | Q4 2025 | **~$200M debt reduction** | Balance sheet de-risking post-Alani Nu |
+| **Q4 2025 debt paydown** | Q4 2025 | **≈$200M debt reduction** | Balance sheet de-risking post-Alani Nu |
 | **Dividend** | — | None | Capital priority is M&A + buybacks |
 
 ### Recent Management Commentary — Primary Source Synthesis
@@ -205,11 +207,11 @@ CELH is **Pattern C** — no standalone annual shareholder letter. Management fr
 #### Key quotes mapped to investment relevance
 
 **From Q1 2026 call (2026-05-07)**:
-- **Gross margin cadence** *(Langhans, [Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/celsius-celh-q1-2026-earnings-transcript/))*: *"Q2 is probably more of a side-step-type activity and then Q3 and Q4, where you're going to see the stair step."* — Defers the ~600bps GM recovery to H2 2026; commodity headwinds (Midwest aluminum, LME, winter freight) still elevated.
+- **Gross margin cadence** *(Langhans, [Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/07/celsius-celh-q1-2026-earnings-transcript/))*: *"Q2 is probably more of a side-step-type activity and then Q3 and Q4, where you're going to see the stair step."* — Defers the ≈600bps GM recovery to H2 2026; commodity headwinds (Midwest aluminum, LME, winter freight) still elevated.
 - **Alani Nu flavor strategy** *(Fieldly, Q1 2026 call)*: *"Cherry Bomb and Lime Slush reinforces that the flavor rotation strategy is working"* — LTO cadence as seasonal consumer moments; reduces risk of flavour fatigue.
 - **Rockstar positioning** *(Fieldly, Q1 2026 call)*: characterized 2026 as *"stabilization year"* with integration completion H1 2026.
 - **CELSIUS fizz-free rationale** *(Fieldly, Q1 2026 call)*: attributed +6% YoY to SKU rationalization timing; fizz-free platform (non-carbonated functional format) as the renewed growth vector.
-- **Alani Nu integration synergies** *(Langhans, Q1 2026 call)*: ~$50M in targeted synergies achieved; shelf resets "largely in place by June."
+- **Alani Nu integration synergies** *(Langhans, Q1 2026 call)*: ≈$50M in targeted synergies achieved; shelf resets "largely in place by June."
 - **Cannibalization deflect** *(Fieldly, Q1 2026 call Q&A)*: pivoted to portfolio framing, emphasized differentiated consumer bases and distribution channels rather than directly addressing cannibalization data.
 
 **From Q4 2025 call (2026-02-26)**:
@@ -235,7 +237,7 @@ CELH is **Pattern C** — no standalone annual shareholder letter. Management fr
 1. **CELSIUS fizz-free platform expansion** — Non-carbonated functional format targets new occasions (morning, pre-workout without carbonation); management's answer to +6% brand deceleration. SKU rationalization wrapping in Q1/Q2 2026 headwinds.
 2. **Alani Nu June shelf resets + ongoing distribution gains** — Full PepsiCo DSD integration complete Q1 2026; shelf resets "largely in place by June"; +100%+ distribution point gains still phasing through scanner data.
 3. **Rockstar stabilization → growth (2H 2026+)** — Integration complete H1 2026; $66.6M Q1 baseline; positioned as value-tier complement under PepsiCo captaincy.
-4. **Alani Nu international rollout (late 2026)** — Largest single-brand growth lever not in consensus. Phased rollout begins late 2026; CELSIUS already in ~10 international markets.
+4. **Alani Nu international rollout (late 2026)** — Largest single-brand growth lever not in consensus. Phased rollout begins late 2026; CELSIUS already in ≈10 international markets.
 5. **Manufacturing footprint optimization** — New capacity lines coming online H2 2026; margin tailwind as vertical integration matures.
 6. **Adjacencies** — Hydration sticks, powders, protein, wellness; TAM extension within "functional beverage."
 
@@ -247,12 +249,12 @@ Filtered per materiality rules — boilerplate dropped; risks below are differen
 
 | # | Risk | Impact | Probability | Notes |
 |---|---|---|---|---|
-| 1 | **PepsiCo distribution renegotiation or strategic pivot** | Critical | 10% | Differentiated risk — distribution concentration is unique to CELH at this scale. **Not priced in** at ~9× FY26E EBITDA. Tied to thesis-break trigger. |
+| 1 | **PepsiCo distribution renegotiation or strategic pivot** | Critical | 10% | Differentiated risk — distribution concentration is unique to CELH at this scale. **Not priced in** at ≈9× FY26E EBITDA. Tied to thesis-break trigger. |
 | 2 | **CELSIUS-brand growth structurally impaired** — +6% in Q1 2026 signals SKU-ration or cohort loss | High | 40% | Q1 print elevated this probability from 30%. Fizz-free thesis is management's answer; unproven. **Tied to thesis-break trigger** (<5% for 2 consecutive quarters). |
 | 3 | **Alani Nu pro-forma growth decelerates rapidly below +30%** | High | 40% | Q1 at +60% is strong but partly reflects distribution-reset one-time lift; normalization pace is the open question. |
 | 4 | **Gross margin fails to recover to low-50s in H2 2026** — commodity headwinds persist | High | 45% | Midwest aluminum premiums + LME + freight cited on Q1 call; Q2 "side-step" confirms no near-term relief. **Tied to thesis-break trigger** (>300bps contraction 2 consecutive quarters). Partially priced. |
 | 5 | **MNST launches "Alani Nu killer" with KDP-equivalent distribution** | High | 25% | Differentiated competitive risk. **Not priced in.** |
-| 6 | **Premium-valuation compression on growth normalization** | High | 50% | Even on solid execution, ~9× FY26E EV/EBITDA re-rates lower if growth slows below $3.45B consensus. Partially priced after –52% drawdown. |
+| 6 | **Premium-valuation compression on growth normalization** | High | 50% | Even on solid execution, ≈9× FY26E EV/EBITDA re-rates lower if growth slows below $3.45B consensus. Partially priced after –52% drawdown. |
 | 7 | **Cannibalization — Alani Nu taking CELSIUS cohort, not adding** | Medium-High | 35% | Management deflected direct question on Q1 call; elevated from prior read. Key watch item for Q2. |
 | 8 | **Aluminum costs and Midwest premiums fail to moderate through 2026** | Medium | 40% | Explicitly cited as Q1/Q2 gross-margin headwind; compresses recovery timeline. |
 | 9 | **Influencer / brand-equity erosion (Alani Nu)** | Medium | 25% | Social-driven brands have shorter half-lives; Alani Nu's value is partially in retention. |
@@ -264,7 +266,7 @@ Filtered per materiality rules — boilerplate dropped; risks below are differen
 
 ## Section 7 — Industry-Specific Macro Analysis
 
-**TAM**: U.S. energy drinks ~$22B in 2024, projected to reach ~$41B by 2033 (~8% CAGR per [openPR/industry research](https://www.openpr.com/news/4463710/energy-drinks-market-size-us-98-5-billion-2025-to-us-174-8)). Global ~$98B → ~$175B over the same window. The "better-for-you / functional" sub-segment grows ~12–15% CAGR vs. ~5% for total energy.
+**TAM**: U.S. energy drinks ≈$22B in 2024, projected to reach ≈$41B by 2033 (≈8% CAGR per [openPR/industry research](https://www.openpr.com/news/4463710/energy-drinks-market-size-us-98-5-billion-2025-to-us-174-8)). Global ≈$98B → ≈$175B over the same window. The "better-for-you / functional" sub-segment grows ≈12–15% CAGR vs. ≈5% for total energy.
 
 **Structural drivers**:
 1. **Health-conscious migration** from sugary mainstream to functional energy — multi-year secular tailwind.
@@ -285,20 +287,20 @@ Filtered per materiality rules — boilerplate dropped; risks below are differen
 
 | Metric | Value | Notes |
 |---|---|---|
-| EV / Revenue (FY2025) | ~3.3× | Modest net debt post-Alani Nu + Q4 paydown |
-| EV / Revenue (FY2026E) | **~2.4×** | $3.45B consensus |
-| EV / EBITDA (FY2026E) | **~9×** | ~$1.67B *[Analyst consensus]* — sharp vs. 10× prior |
-| P/E (FY2026E) | **~19–20×** | On ~$440M net income consensus |
-| FCF yield (FY26E) | ~3–4% | *[Estimate]* |
+| EV / Revenue (FY2025) | ≈3.3× | Modest net debt post-Alani Nu + Q4 paydown |
+| EV / Revenue (FY2026E) | **≈2.4×** | $3.45B consensus |
+| EV / EBITDA (FY2026E) | **≈9×** | ≈$1.67B *[Analyst consensus]* — sharp vs. 10× prior |
+| P/E (FY2026E) | **≈19–20×** | On ≈$440M net income consensus |
+| FCF yield (FY26E) | ≈3–4% | *[Estimate]* |
 
 ### Peer Comparison
 
 | Company | EV/Revenue (NTM) | EV/EBITDA (NTM) | Notes |
 |---|---|---|---|
-| **CELH** | ~2.4× | **~9×** | Multi-brand functional; growth |
-| MNST (Monster) | ~6× | ~22× | Larger, more mature, higher margin |
-| KO (Coca-Cola) | ~6.5× | ~22× | Mega-cap stable platform |
-| KDP (Keurig Dr Pepper) | ~3× | ~14× | Comparable hybrid; CSD + energy distributor |
+| **CELH** | ≈2.4× | **≈9×** | Multi-brand functional; growth |
+| MNST (Monster) | ≈6× | ≈22× | Larger, more mature, higher margin |
+| KO (Coca-Cola) | ≈6.5× | ≈22× | Mega-cap stable platform |
+| KDP (Keurig Dr Pepper) | ≈3× | ≈14× | Comparable hybrid; CSD + energy distributor |
 
 **Assessment**: After the –52% drawdown, CELH trades at a meaningful discount to MNST on every multiple. The gap is wider than the fundamentals warrant **if** (a) Alani Nu pro-forma growth sustains +40%+ through FY2026, (b) CELSIUS reaccelerates via fizz-free expansion, and (c) gross margin recovers to low-50s in H2 2026 as guided. The Q1 2026 print confirmed (a) and (c) trajectory but left (b) unresolved. Sell-side mean target $62–64 (+93–97% to spot) implies the platform thesis is largely intact in analyst models — the market is pricing in a deceleration scenario the consensus rejects.
 
@@ -326,7 +328,7 @@ Filtered per materiality rules — boilerplate dropped; risks below are differen
 ### Short Interest
 - **20.69M shares short = 10.5% of float** ([Fintel, 2026-05-08](https://fintel.io/s/us/celh))
 - Prior period: 22.47M (April 15 FINRA data per MarketBeat) = 8.26% float (slight discrepancy in float calculation across sources; trend is unambiguously **down** from 39M peak in Feb 2025)
-- Days to cover: ~3.6 days
+- Days to cover: ≈3.6 days
 - Direction: **declining** — bullish signal; covering pattern as price approaches 52-wk low
 
 ### Insider Activity (Last 90 Days)
@@ -339,7 +341,7 @@ Filtered per materiality rules — boilerplate dropped; risks below are differen
 - 📉 **[2026-05-07–08]** Post-earnings reaction: stock fell –5.6% on CELSIUS brand +6% and gross margin miss vs. prior-year level ([TradingView](https://www.tradingview.com/news/stockstory:780c07e04094b:0-why-celsius-celh-shares-are-sliding-today/))
 - 🟢 **[2026-05-06]** Rothschild & Co Redburn initiated coverage $47 / Neutral — new coverage, international skepticism ([Benzinga](https://www.benzinga.com/quote/CELH/analyst-ratings))
 - 🟡 **[2026-04-18]** CFO RSU tax-withholding Form 4 — routine ([OpenInsider](http://openinsider.com/CELH))
-- 🟢 **[2026-02-26]** Q4 2025 / FY2025 results: Q4 rev $721.6M (+117%); FY $2.5B; Adj EPS $0.26 vs. $0.21 cons; ~20% U.S. $ share; $40M buyback + $200M debt paydown ([Q4 2025 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/); [Q4 2025 transcript](https://www.fool.com/earnings/call-transcripts/2026/02/26/celsius-celh-q4-2025-earnings-call-transcript/))
+- 🟢 **[2026-02-26]** Q4 2025 / FY2025 results: Q4 rev $721.6M (+117%); FY $2.5B; Adj EPS $0.26 vs. $0.21 cons; ≈20% U.S. $ share; $40M buyback + $200M debt paydown ([Q4 2025 PR](https://ir.celsiusholdingsinc.com/news/news-details/2026/); [Q4 2025 transcript](https://www.fool.com/earnings/call-transcripts/2026/02/26/celsius-celh-q4-2025-earnings-call-transcript/))
 
 ### Upcoming Catalysts
 
@@ -364,7 +366,7 @@ Stock at –52% from 52-wk high, trading 1.5% above 52-wk low. Q1 2026 beat on r
 - CELSIUS +6% is below expectation; the "fizz-free platform" thesis needs Q2 data to validate
 - Gross margin at 48.3% is 90bps sequentially improved; H2 2026 recovery is real but commodity-dependent
 - $50M Alani Nu synergies achieved is meaningful de-risking of integration cost overhang
-- *Limit*: ~9× FY26E EV/EBITDA isn't deep-value cheap vs. MNST at 22×; the discount is earned by uncertainty. Analytical edge = "discounting CELSIUS recovery that may be real" rather than "obvious mispricing"
+- *Limit*: ≈9× FY26E EV/EBITDA isn't deep-value cheap vs. MNST at 22×; the discount is earned by uncertainty. Analytical edge = "discounting CELSIUS recovery that may be real" rather than "obvious mispricing"
 
 ### I — Informational: **Moderate**
 - Q1 brand revenue split (CELSIUS $348M / Alani $368M / Rockstar $66.6M) is primary-source detail not yet widely modeled
@@ -386,24 +388,24 @@ Stock at –52% from 52-wk high, trading 1.5% above 52-wk low. Q1 2026 beat on r
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 5-year (2031) terminal prices per Rule #26. Probabilities sum to 100%.*
+*All scenarios are 5-year (2031) terminal prices per Rule #24. Probabilities sum to 100%.*
 
 ### 🟢 Bull Case — $85 by 2031 (+163% from $32.29, ≈21% CAGR) — **Probability: 28%**
-- FY2030 revenue $6.0B (CAGR ~20%); Alani Nu international ramps to $1B+; CELSIUS fizz-free adds net new occasions; Rockstar earns full contribution
-- Adj EBITDA margin 28–30% → ~$1.7B+ EBITDA
-- Multiple expands to ~14× EV/EBITDA on platform re-validation
+- FY2030 revenue $6.0B (CAGR ≈20%); Alani Nu international ramps to $1B+; CELSIUS fizz-free adds net new occasions; Rockstar earns full contribution
+- Adj EBITDA margin 28–30% → ≈$1.7B+ EBITDA
+- Multiple expands to ≈14× EV/EBITDA on platform re-validation
 - "Next Monster" narrative crystallizes; MNST-equivalent multiple partially awarded
 
 ### 🟡 Base Case — $50 by 2031 (+55% from $32.29, ≈9% CAGR) — **Probability: 47%**
-- FY2030 revenue $4.5B (CAGR ~12%); Alani Nu sustains +25–30% pro forma; CELSIUS reaccelerates modestly via fizz-free; Rockstar contributes $400M+
-- Adj EBITDA margin 25–27% → ~$1.1–1.2B EBITDA
-- Multiple compresses to ~11× EV/EBITDA as growth normalizes from acquisition-driven highs
+- FY2030 revenue $4.5B (CAGR ≈12%); Alani Nu sustains +25–30% pro forma; CELSIUS reaccelerates modestly via fizz-free; Rockstar contributes $400M+
+- Adj EBITDA margin 25–27% → ≈$1.1–1.2B EBITDA
+- Multiple compresses to ≈11× EV/EBITDA as growth normalizes from acquisition-driven highs
 
 ### 🔴 Bear Case — $18 by 2031 (–44% from $32.29, ≈–11% CAGR) — **Probability: 25%**
 - CELSIUS structurally stalled; Alani Nu pro-forma decelerates to +15–20% by 2027; cannibalization confirmed
 - MNST + KDP competitive escalation compresses Alani Nu margin
 - Gross margin fails to recover past 49%; EBITDA margin contracts to 20% on $3.5B revenue
-- Multiple compresses to ~6× on $700M EBITDA — severe re-rating
+- Multiple compresses to ≈6× on $700M EBITDA — severe re-rating
 
 ---
 
@@ -422,21 +424,21 @@ Stock at –52% from 52-wk high, trading 1.5% above 52-wk low. Q1 2026 beat on r
 
 **R/R = (Bull upside) ÷ (Bear downside)** = ($85 – $32.29) ÷ ($32.29 – $18) = $52.71 ÷ $14.29 = **≈3.7:1** at current spot. From PW EV ($52): ($85 – $52) ÷ ($52 – $18) = $33 ÷ $34 = **≈1:1** (symmetric around PW EV — confirms $32 is well below fair value).
 
-**Interpretation**: Q1 2026 nudged Bear probability up (CELSIUS deceleration) and Bull probability slightly down vs. prior (GM cadence delayed), but PW EV remains ~$52 — the entry zone ($30–$36) is still intact. The key scenario inflection comes from Q2 2026 data on CELSIUS fizz-free + Alani Nu pro-forma sustain.
+**Interpretation**: Q1 2026 nudged Bear probability up (CELSIUS deceleration) and Bull probability slightly down vs. prior (GM cadence delayed), but PW EV remains ≈$52 — the entry zone ($30–$36) is still intact. The key scenario inflection comes from Q2 2026 data on CELSIUS fizz-free + Alani Nu pro-forma sustain.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Celsius is a **multi-brand functional-beverage platform with a structural PepsiCo distribution moat**, trading at ~9× FY26E EV/EBITDA after a –52% drawdown, with a confirmed Alani Nu +60% pro forma print in Q1 2026, offset by CELSIUS-brand deceleration to +6% that keeps the bull case conditional on fizz-free execution.
+**Thesis in one sentence**: Celsius is a **multi-brand functional-beverage platform with a structural PepsiCo distribution moat**, trading at ≈9× FY26E EV/EBITDA after a –52% drawdown, with a confirmed Alani Nu +60% pro forma print in Q1 2026, offset by CELSIUS-brand deceleration to +6% that keeps the bull case conditional on fizz-free execution.
 
-**For a non-holder**: 🟢 **Watch / Initiate small** — PW EV $52 vs. spot $32 (~3.7:1 R/R) is attractive. Entry zone is active. CELSIUS-brand trajectory and Q2 gross-margin "side-step" are known near-term headwinds; size accordingly. The June shelf-reset data and Q2 print are the next inflection points.
+**For a non-holder**: 🟢 **Watch / Initiate small** — PW EV $52 vs. spot $32 (≈3.7:1 R/R) is attractive. Entry zone is active. CELSIUS-brand trajectory and Q2 gross-margin "side-step" are known near-term headwinds; size accordingly. The June shelf-reset data and Q2 print are the next inflection points.
 
 **For a current holder**: 🟡 **Hold** — thesis intact; Q1 confirmed Alani Nu; CELSIUS deceleration is concerning but not yet a thesis-break (fizz-free expansion needs a quarter to show in scanner data). No thesis-break triggers hit. Adding is reasonable for high conviction; acknowledge that the gross-margin recovery is H2-paced and Q2 will likely be another subdued print.
 
-🎯 **Attractive entry zone**: **$30 – $36** (rationale: ~9× FY26E EV/EBITDA; near 52-wk-low support; bear case being priced in)
+🎯 **Attractive entry zone**: **$30 – $36** (rationale: ≈9× FY26E EV/EBITDA; near 52-wk-low support; bear case being priced in)
 
-🎯 **Trim zone**: **$60 – $70** (rationale: re-test of analyst consensus targets; ~15–17× FY26E EV/EBITDA; sell-side base case in price)
+🎯 **Trim zone**: **$60 – $70** (rationale: re-test of analyst consensus targets; ≈15–17× FY26E EV/EBITDA; sell-side base case in price)
 
 🔴 **Exit / avoid zone**: **>$85** (rationale: requires bull-case multi-year execution fully reflected)
 
@@ -447,7 +449,7 @@ Stock at –52% from 52-wk high, trading 1.5% above 52-wk low. Q1 2026 beat on r
 - ⚠️ **PepsiCo announces material change in distribution terms or strategic distance**
 - ⚠️ **MNST acquires / launches a clear "Alani Nu killer" with KDP-equivalent distribution**
 - ⚠️ **FY26 revenue guide issued and below $3.2B** (implying consensus cut >7%)
-- ✅ ~~Q1 2026 print misses revenue or EPS materially~~ — **DE-RISKED 2026-05-07**: $782.6M revenue beat + $0.41 Adj EPS beat vs. $0.29–$0.30 consensus
+- ✅ ≈≈Q1 2026 print misses revenue or EPS materially≈≈ — **DE-RISKED 2026-05-07**: $782.6M revenue beat + $0.41 Adj EPS beat vs. $0.29–$0.30 consensus
 - ⚠️ **Multi-quarter Nielsen scanner trend below mid-single-digit category growth for CELSIUS or Alani Nu**
 - ⚠️ **Cannibalization confirmed by management or scanner data** — Alani Nu cohort overlap with CELSIUS >30%
 

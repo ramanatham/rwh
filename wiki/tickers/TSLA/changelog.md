@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-05-31] — v3.0 Conciseness Rewrite
+
+**Trigger**: Schema v3.0 content-compliance pass — applying Rule #20 (synthesis over transcription), Rule #26 (state-once discipline, per-section word budgets), and v3.0 structural requirements.
+
+### What Changed
+- **Summary**: Converted from 11-bullet legacy format to v3.0 4-part format (thesis + verb line + scenario table + KPI strip + Why/Why not/Next read).
+- **§3 Moat & Landscape**: Consolidated 4 sub-tables (EV 14-row, Robotaxi 6-row, Energy 6-row, Humanoid 6-row) into 1 combined 6-row landscape table + concise differentiator prose.
+- **§4 RMC**: Collapsed 5-Year Strategic Framework Arc table to 2-sentence synthesis; reduced verbatim quote blocks from 5 to 2 key quotes.
+- **§6 Key Risks**: Cut from 10 rows to 6; collapsed 5-year evolution from 2 paragraphs to 2 sentences.
+- **§8 Valuation**: Removed speculative SOTP table (wide range uninformative at this stage; §11 scenarios are the better framework).
+- **§13 Recommendation**: Cut thesis-break triggers from 10 to 6 most critical.
+- **Sources**: Consolidated from 17-item appendix to inline footnote block.
+
+### Thesis Status
+- **Overall**: Unchanged — same thesis, same scenarios, same R/R (≈1.4:1)
+- **Price target delta**: Bull $700 | Base $360 | Bear $150 | PW EV ≈$393 — unchanged
+
+### Recommendation
+- **For a non-holder**: Watch — initiate only on pullback to $280–320
+- **For a current holder**: Hold
+
+**Next review trigger**: Q2 2026 earnings ≈July 22, 2026.
+
+---
+
 ## [2026-04-26] — v2.9 Retrofit (schema migration v2.5 → v2.9)
 
 **Trigger**: Single-ticker serial retrofit applying v2.6 (shareholder-letter primary-source synthesis) + v2.7 (5-year baselines + Pattern B quarterly-letter substitution) + v2.8 (synthesis discipline, materiality filter, R/R reconciliation) + v2.9 (15→13-section consolidation).

@@ -1,6 +1,6 @@
 # AMCR — Amcor plc
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Active
 **Live Price**: $39.93 (close 2026-05-08) — [Yahoo Finance](https://finance.yahoo.com/quote/AMCR)
@@ -16,20 +16,20 @@
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $36.67 – $50.94 | $39.93 (~14%) | $28 | <$44 | $58 / **$57** | $60 – $75 | $85 | **≈6:1** |
+| $36.67 – $50.94 | $39.93 (≈14%) | $28 | <$44 | $58 / **$57** | $60 – $75 | $85 | **≈6:1** |
 
 ### KPI Strip
 
 | BAIT | Moat | FY26E P/E | Div Yield | Net Debt / EBITDA | Next catalyst |
 |---|---|---|---|---|---|
-| **Double** (B+A) | **Narrow** (scale + switching costs) | **≈9.4x** | **6.5%** | **3.8x** (target: 3.4–3.5x YE) | Q4 FY2026 print + full-year results (~Aug 2026) |
+| **Double** (B+A) | **Narrow** (scale + switching costs) | **≈9.4x** | **6.5%** | **3.8x** (target: 3.4–3.5x YE) | Q4 FY2026 print + full-year results (≈Aug 2026) |
 
 ### Why / Why not / Next read
 
 🟢 **Why**:
 - 6.5% dividend yield with multi-decade unbroken payment history; $2.60/share annual dividend well-covered by $3.56 post-split adj. EPS trajectory
 - Berry synergy execution ahead of schedule: $170M YTD through Q3 FY2026 vs. $260M full-year target, now raised to $270M; path to $650M by FY2028 intact
-- Post-merger scale creates purchasing power, customer stickiness, and geographic coverage no single-segment peer can match; combined ~$22B revenue is 2–3x nearest flexible-packaging competitor
+- Post-merger scale creates purchasing power, customer stickiness, and geographic coverage no single-segment peer can match; combined ≈$22B revenue is 2–3x nearest flexible-packaging competitor
 
 ⚠️ **Why not**:
 - Leverage at 3.8x adjusted EBITDA well above 2.5–3.0x long-term target; covenant risk rises if volumes deteriorate further or FCF misses
@@ -67,7 +67,7 @@ The market appears to price ≈60–70% probability on the former (10.5x EV/EBIT
 - **Dividend**: $0.65/quarter → $2.60 annual → **6.51% yield** at $39.93; 51-yr unbroken payment history
 - **FY2025 (Jun 30, 2025)**: Revenue $15.0B (+10%) · Adj EBITDA $2.19B (+13%) · Adj EBIT $1.72B · Adj EPS (pre-split) 71.2¢ = **$3.56 post-split** · Adj FCF $926M
 - **FY2026E guidance (post-Q3)**: Adj EPS $3.98–$4.03 · FCF $1.5–$1.6B · Capex $850–900M
-- **TTM revenue**: ≈$22.2B (12-month run-rate including ~full-year Berry)
+- **TTM revenue**: ≈$22.2B (12-month run-rate including ≈full-year Berry)
 - **Leverage**: 3.8x adj. EBITDA Q3 FY2026; target 3.4–3.5x by Jun 30, 2026; long-term 2.5–3.0x
 - **Net debt**: ≈$15.2B (includes ≈$7.4B Berry debt assumed at close)
 - **EV/EBITDA (TTM)**: ≈10.5x; **EV/EBITDA (FY26E)**: ≈9.4x *[Analyst consensus]*
@@ -241,6 +241,8 @@ Stephen Scherger replacing previous CFO Michael Casamento (who departed with Del
 
 ### Capital Allocation Track Record
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: 51-year unbroken dividend record treated as "inviolable commitment"; buybacks paused during the Berry integration; capital returns prioritize dividend continuity over opportunistic repurchase timing — the Dividend Aristocrat archetype, excellent steward but the opposite of Thorndike's countercyclical-buyback profile.
+
 | Event | Year | Assessment |
 |---|---|---|
 | Bemis acquisition | 2019 | **Win** — ≈$6.8B; expanded Americas Flexibles presence; synergies delivered; EPS accretive by FY2022 |
@@ -291,7 +293,7 @@ Notable Q3 FY2026 Q&A quotes (from [Motley Fool transcript, May 6, 2026](https:/
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |---|---|---|---|---|
-| **Berry integration execution failure** | High | Medium | Partially | Multi-billion synergy bet per Rule #25(d). $307M integration charges already absorbed; remaining execution risk is operational (plant consolidation, workforce reduction, system migration). If synergy run-rate falls 30%+ below $650M target, FY2028 FCF trajectory collapses. *Not fully priced in — market assigning ≈10.5x EV/EBITDA vs. peer range 8–12x suggests moderate confidence.* |
+| **Berry integration execution failure** | High | Medium | Partially | Multi-billion synergy bet per Rule #23(d). $307M integration charges already absorbed; remaining execution risk is operational (plant consolidation, workforce reduction, system migration). If synergy run-rate falls 30%+ below $650M target, FY2028 FCF trajectory collapses. *Not fully priced in — market assigning ≈10.5x EV/EBITDA vs. peer range 8–12x suggests moderate confidence.* |
 | **Leverage / covenant risk** | High | Low-Medium | Partially | 3.8x net debt/EBITDA (Q3 FY2026) vs. 2.5–3.0x long-term target. If adj. EBITDA misses by 10% for two consecutive quarters while FCF is consumed by integration/capex, debt covenants may tighten. $14.1B total debt outstanding per FY2025 10-K. **Specifically differentiated vs. peers — most packaging peers carry 2–3x leverage.** |
 | **Volume weakness persisting beyond cycle** | High | Medium | Partial | Comparable volumes –1.5% in Q3 FY2026 on both segments. Healthcare destocking cited since FY2023. If end-market volume recovery stalls (recession scenario), synergy benefits are partially offset by fixed-cost deleverage. *Thesis-break trigger: if volumes remain negative for 4+ consecutive quarters.* |
 | **North America Beverage divestiture fails or is value-destructive** | Medium | Medium | Not priced | NA Beverage is ≈$1.5B revenue; if sold at <5x EBIT (below the 6x achieved on prior disposals), proceeds disappoint the deleveraging story. JV structure (vs. outright sale) delays cash receipt and complicates reporting. |
@@ -300,7 +302,7 @@ Notable Q3 FY2026 Q&A quotes (from [Motley Fool transcript, May 6, 2026](https:/
 | **Currency / FX translation risk** | Medium | High | Mostly priced | ≈55–60% of revenue generated outside USD. Strong USD is a persistent EPS headwind (FX-neutral vs. reported gap commonly 2–3pp). Partially offset by natural hedging (costs in same currencies). Historical pattern: management guides constant-currency, then reports FX headwinds at year-end. |
 | **Plastics regulatory / substitution risk** | Medium (long-term) | Medium (5–10yr) | Not priced | Regulatory pressure on single-use plastics (EU, UK, California) and consumer preference for paper/glass/aluminum creates substitution risk for flexible plastic packaging over a 10–15 year horizon. Amcor's sustainability R&D and PPWR compliance positioning are the hedge, but structural demand shift cannot be ruled out. **Tied to thesis-break monitoring over longer horizon.** |
 
-**Risk Factor Evolution Synthesis** (FY2021–FY2025): The most significant shift in Amcor's risk profile across the 5-year 10-K window was the April 2025 Berry merger, which introduced three new material risks that were absent pre-combination: integration execution (Rule #25(d)), step-up in leverage from 3.1x to 4.7x/3.8x adj., and the PPWR compliance burden proportional to expanded EU Flexible operations. Pre-Berry, Amcor's disclosed risk profile was comparatively benign — cyclical volume exposure, FX, raw-material timing — consistent across FY2021–FY2024. Post-Berry, the integration and leverage risks now dominate the near-term investment decision. Simultaneously, the FY2024 10-K introduced a dedicated sustainability/regulatory risk section for plastic packaging regulation that was peripheral in FY2021–FY2022, reflecting genuine regulatory escalation (PPWR, US state-level plastics bills, UK plastic packaging tax effective 2022).
+**Risk Factor Evolution Synthesis** (FY2021–FY2025): The most significant shift in Amcor's risk profile across the 5-year 10-K window was the April 2025 Berry merger, which introduced three new material risks that were absent pre-combination: integration execution (Rule #23(d)), step-up in leverage from 3.1x to 4.7x/3.8x adj., and the PPWR compliance burden proportional to expanded EU Flexible operations. Pre-Berry, Amcor's disclosed risk profile was comparatively benign — cyclical volume exposure, FX, raw-material timing — consistent across FY2021–FY2024. Post-Berry, the integration and leverage risks now dominate the near-term investment decision. Simultaneously, the FY2024 10-K introduced a dedicated sustainability/regulatory risk section for plastic packaging regulation that was peripheral in FY2021–FY2022, reflecting genuine regulatory escalation (PPWR, US state-level plastics bills, UK plastic packaging tax effective 2022).
 
 ---
 
@@ -314,7 +316,7 @@ The global flexible packaging market was valued at ≈$202B in 2024, growing at 
 
 | Variable | Direction (Q3 FY2026) | Sensitivity to Amcor EBITDA | Notes |
 |---|---|---|---|
-| Consumer staples volume | Slightly negative (-1.5% comp) | High (~60-70% correlation) | Food/bev defensiveness offsets industrial/beauty weakness; healthcare re-stocking ongoing |
+| Consumer staples volume | Slightly negative (-1.5% comp) | High (≈60-70% correlation) | Food/bev defensiveness offsets industrial/beauty weakness; healthcare re-stocking ongoing |
 | Raw material costs (resins / polymers) | Moderating from 2022 peaks | Medium (pass-through, but lag) | Oil/gas derivatives; PE/PP prices now lower = margin improvement for non-pass-through portions |
 | USD/EUR (and AUD, BRL, GBP) | USD strengthening | Medium headwind (2–3pp on EPS) | ≈55% non-USD revenue; natural hedging partial |
 | Global industrial production / supply chains | Disrupted (Middle East tensions Q3) | Low-Medium (affects inventory decisions, not core demand) | Q3 FCF cut explicitly tied to supply-chain inventory build |
@@ -501,7 +503,7 @@ What has to go wrong:
 
 **Current spot**: $39.93 (close 2026-05-08)
 **Upside to PW EV**: **+43%** over 5-year horizon
-**Annual dividend contribution** over 5 years (not included above): $2.60 × ~5 yrs = $13.00/share incremental cash return → **total return PW EV ≈$70** *[Estimate — assumes dividend maintained through base scenario]*
+**Annual dividend contribution** over 5 years (not included above): $2.60 × ≈5 yrs = $13.00/share incremental cash return → **total return PW EV ≈$70** *[Estimate — assumes dividend maintained through base scenario]*
 **R/R cross-check**: ($85 − $39.93) / ($39.93 − $28) = $45.07 / $11.93 = **≈3.8:1 price-only**; rises to ≈**5.8:1 total-return-adjusted** including cumulative dividend
 
 The R/R is lower than high-growth compounders in this wiki because AMCR is a mature manufacturer, not a platform. The appropriate return frame is: **5-year total IRR of ≈12–15% in the base case** (price appreciation + 6.5% yield) for a 0.63-beta position — attractive on a risk-adjusted basis for the defensive-income portion of a portfolio, not a high-octane compounder.

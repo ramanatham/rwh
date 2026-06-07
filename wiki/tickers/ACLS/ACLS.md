@@ -1,6 +1,6 @@
 # ACLS — Axcelis Technologies, Inc.
 
-> **Schema**: v2.14
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-10
 > **Status**: Paused — since 2026-05-18
 > **Live Price Verified**: **$163.03** at 2026-05-10 ([Yahoo Finance](https://finance.yahoo.com/quote/ACLS))
@@ -213,11 +213,11 @@ ACLS is a **Pattern C** company (no standalone CEO shareholder letter). Manageme
 
 ## Section 6 — Key Risks
 
-Filtered per Rule #25 — universal boilerplate excluded. Kept: risks differentiated, not-yet-priced, or tied to specific thesis-break triggers / large discretionary investments.
+Filtered per Rule #23 — universal boilerplate excluded. Kept: risks differentiated, not-yet-priced, or tied to specific thesis-break triggers / large discretionary investments.
 
 | # | Risk | Impact | Probability | Notes |
 |---|------|--------|-------------|-------|
-| 1 | **Veeco SAMR delay / denial** — China SAMR is the only remaining merger approval; no timeline given | High | 20% | **Not priced** — market treating closure as binary / near-certain. If denied or prolonged, combined-co thesis collapses; deal-break case reverts to standalone at $90–100. Rule #25(d): largest discretionary investment. |
+| 1 | **Veeco SAMR delay / denial** — China SAMR is the only remaining merger approval; no timeline given | High | 20% | **Not priced** — market treating closure as binary / near-certain. If denied or prolonged, combined-co thesis collapses; deal-break case reverts to standalone at $90–100. Rule #23(d): largest discretionary investment. |
 | 2 | **SiC H2 2026 inflection fails to materialize** — digestion extends; H2 bookings weak | High | 35% | **Partially priced** — $163 already assumes SiC begins recovery; flat FY2026 guide gives no SiC upside built in, but multiple prices H2+ upside. Thesis-break trigger. |
 | 3 | **Gross margin stays depressed** — mix shift to lower-margin memory tools persists; Q2 recovery to 43% misses | High | 25% | Q1 40.7% was partly settlement-driven but also structural. Full-year low-to-mid 40s% guide implies 45%+ is not on the table near-term. **Not priced** at current premium multiple. |
 | 4 | **Memory / HBM capex pulls back** (Samsung, SK Hynix, Micron cut WFE) | High | 20% | FY2026 "flat" guide REQUIRES memory growth. Q2 "softer sequentially" already flagged. **Not priced** — consensus assumes memory sustains. |
@@ -367,7 +367,7 @@ Q1 2026 transcript, PR, and 10-Q are public. Coverage is modest-mid-cap with 4�
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 5-year terminal (FY2031) prices per Rule #26. Probabilities sum to 100%. Uses combined-company financials post-Veeco close where applicable. Refreshed from prior 3-year (FY2028) horizon per v2.14 Rule #26.*
+*All scenarios are 5-year terminal (FY2031) prices per Rule #24. Probabilities sum to 100%. Uses combined-company financials post-Veeco close where applicable. Refreshed from prior 3-year (FY2028) horizon per v2.14 Rule #24.*
 
 ### Bull Case — $230 by FY2031 (+41% from $163, ≈7% CAGR) — **Probability: 30%**
 
@@ -409,14 +409,14 @@ Q1 2026 transcript, PR, and 10-Q are public. Coverage is modest-mid-cap with 4�
 
 PW EV ≈$180 vs. spot $163 → **+10.4% over 5 years (≈2.0%/yr undiscounted)**. B. Riley's $180 PT aligns with the base/PW EV level, implying little margin of safety at current price.
 
-**Risk/reward per Rule #26** (anchored to §11 Bull/Bear vs. current spot):
+**Risk/reward per Rule #24** (anchored to §11 Bull/Bear vs. current spot):
 - Bull upside: ($230 − $163) / $163 = **+41%**
 - Bear downside: ($80 − $163) / $163 = **–51%**
 - **R/R = 41 / 51 ≈ 0.8:1 on raw ratio** — however, probability-weighted PW EV (+10% above spot) implies the base/bull cases are more likely than the bear.
 
 Framed as asymmetry: R/R improves meaningfully below $115 (where Bear downside to $80 is –30% and Bull upside to $230 is +100% = **≈3:1**). At $163, the setup is closer to **≈2:1** on a probability-weighted basis (Bull 30% × +41% = +12.3%; Bear 20% × –51% = –10.2%) — marginal positive, not high-conviction entry.
 
-*R/R note*: Prior ingest used 3-year horizon (Bull $215, Bear $80 → 1.1:1). Updated to 5-year FY2031 per Rule #26. PW EV rose to $180 (was $155) on higher Bull ($230) reflecting combined-co optionality and SiC green shoots; R/R improved modestly.
+*R/R note*: Prior ingest used 3-year horizon (Bull $215, Bear $80 → 1.1:1). Updated to 5-year FY2031 per Rule #24. PW EV rose to $180 (was $155) on higher Bull ($230) reflecting combined-co optionality and SiC green shoots; R/R improved modestly.
 
 ---
 

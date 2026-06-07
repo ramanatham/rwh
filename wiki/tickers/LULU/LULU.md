@@ -1,6 +1,6 @@
 # LULU — Lululemon Athletica Inc.
 
-**Schema**: v2.9
+**Schema**: v3.0
 **Last Updated**: 2026-05-01
 **Status**: Active
 **Live Price Verified**: **$137.98** on 2026-05-01 via [Yahoo Finance](https://finance.yahoo.com/quote/LULU) (Apr 30, 2026 close; new 52-wk low $136.92 set during session)
@@ -14,27 +14,27 @@
 - 🟡 **Moat**: **Narrow** — premium athleisure brand + DTC vertical model + proprietary fabric IP; contested by well-capitalized private competitors; markdown discipline cracks are the moat's leading-edge warning signal.
 - 🟡 **Verbs**: 🟡 Non-holder: **Watch** (Initiate <$135) · 🟡 Holder: **Hold**.
 
-**Scenario table** *(5-yr terminal per Rule #26; PW EV unchanged $192)*
+**Scenario table** *(5-yr terminal per Rule #24; PW EV unchanged $192)*
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $136.92 – $340.25 | $137.98 (~1%ile) | $80 | <$135 | $200 / **$192** | $235–275 | $290 | **2.6:1** (3.7:1 w/ Bull+ tail $360) |
+| $136.92 – $340.25 | $137.98 (≈1%ile) | $80 | <$135 | $200 / **$192** | $235–275 | $290 | **2.6:1** (3.7:1 w/ Bull+ tail $360) |
 
 **KPI strip**
 
 | BAIT | Moat | FY26E P/E | FCF Yld | Short Int. | Next catalyst |
 |---|---|---|---|---|---|
-| Double (B+A) / Mod | Narrow | ~11.3× | ~5.5% | ~4.54% | Q1 FY26 (early Jun) |
+| Double (B+A) / Mod | Narrow | ≈11.3× | ≈5.5% | ≈4.54% | Q1 FY26 (early Jun) |
 
 **Why / Why not**
 
-- 🟢 Decade-low P/E ~11.3× on $12.20 FY26E EPS midpoint; EV/Sales ~1.5× a 56–59% gross-margin DTC business
+- 🟢 Decade-low P/E ≈11.3× on $12.20 FY26E EPS midpoint; EV/Sales ≈1.5× a 56–59% gross-margin DTC business
 - 🟢 China Mainland +29% FY25 / +20% FY26 guide, 40% segment op margin — structurally margin-accretive mix shift
-- 🟢 Maestrini interim co-CEO insider buy ~$494K @ ~$151 — strongest constructive insider signal in recent quarters
+- 🟢 Maestrini interim co-CEO insider buy ≈$494K @ ≈$151 — strongest constructive insider signal in recent quarters
 
-- ⚠️ Vuori/Alo permanent US premium share capture — ~50% probability; not fully priced in
+- ⚠️ Vuori/Alo permanent US premium share capture — ≈50% probability; not fully priced in
 - ⚠️ Wilson DFAN14A proxy fight + escrow/non-disparagement standoff overhang into 2026 Annual Meeting; LULU counter-alleges Wilson aided Alo + Vuori
-- ⚠️ Brand-cycle peak (Crocs/Coach analog) ~20% probability — would compress multiple to 8–9× and stock to $80–90
+- ⚠️ Brand-cycle peak (Crocs/Coach analog) ≈20% probability — would compress multiple to 8–9× and stock to $80–90
 
 📅 **Next read**: Q1 FY26 earnings — early June 2026 (est.); Heidi O'Neill (ex-Nike) starts as CEO Sep 8, 2026.
 
@@ -44,9 +44,9 @@
 
 Lululemon Athletica (NASDAQ: LULU) is a vertically integrated premium athletic apparel retailer founded in Vancouver in 1998 by Chip Wilson on the insight that women practicing yoga deserved technical apparel — moisture-wicking, four-way stretch, body-conscious — sold at a premium through community-led channels rather than wholesale. The Align legging codified the formula and built a cult brand at $98+ that defied commoditization for two decades.
 
-Today LULU operates ~780 company-owned stores across 30 countries, sells direct through lululemon.com and app (~36% of revenue), and generates $11.1B in annual revenue. Product mix: women's apparel (63%), men's (24%), accessories/footwear/other (13%). The company reports three segments: Americas (70.7% of FY2025 revenue), China Mainland (15.8%), and Rest of World (13.5%). FY2025 (year ended February 1, 2026) net revenue grew +5% YoY with international outperforming (+22%) while Americas declined (–1%). Operating margin contracted 380bps to 19.9%, driven primarily by ~$275M in tariff impact.
+Today LULU operates ≈780 company-owned stores across 30 countries, sells direct through lululemon.com and app (≈36% of revenue), and generates $11.1B in annual revenue. Product mix: women's apparel (63%), men's (24%), accessories/footwear/other (13%). The company reports three segments: Americas (70.7% of FY2025 revenue), China Mainland (15.8%), and Rest of World (13.5%). FY2025 (year ended February 1, 2026) net revenue grew +5% YoY with international outperforming (+22%) while Americas declined (–1%). Operating margin contracted 380bps to 19.9%, driven primarily by ≈$275M in tariff impact.
 
-The company is navigating a **CEO transition**: Calvin McDonald stepped down effective January 31, 2026; interim co-CEOs (including André Maestrini) held the seat while the board conducted a search. On April 23, 2026, **Heidi O'Neill** (25-year Nike veteran, former President of Consumer, Product & Brand) was named permanent CEO effective September 8, 2026. The market reacted –13% on the appointment. FY2026 guidance — revenue $11.35–11.50B (+2–4%), EPS $12.10–12.30 (down from FY25 actuals of $13.26), operating margin –250bps, and tariff headwind of ~$380M — is the most bearish guidance issued in over a decade outside COVID.
+The company is navigating a **CEO transition**: Calvin McDonald stepped down effective January 31, 2026; interim co-CEOs (including André Maestrini) held the seat while the board conducted a search. On April 23, 2026, **Heidi O'Neill** (25-year Nike veteran, former President of Consumer, Product & Brand) was named permanent CEO effective September 8, 2026. The market reacted –13% on the appointment. FY2026 guidance — revenue $11.35–11.50B (+2–4%), EPS $12.10–12.30 (down from FY25 actuals of $13.26), operating margin –250bps, and tariff headwind of ≈$380M — is the most bearish guidance issued in over a decade outside COVID.
 
 ---
 
@@ -64,11 +64,11 @@ The bull case requires: (a) China Mainland sustaining +20% growth, (b) men's fra
 |--------|-------|-------|
 | Live Price | **$143.80** | April 24, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/LULU)) |
 | 52-Week High | $340.25 | Pre-collapse |
-| 52-Week Low | $141.33 | Within ~2% of low |
+| 52-Week Low | $141.33 | Within ≈2% of low |
 | % From 52-Wk High | **–57.7%** | Severe multi-year drawdown |
 | % Above 52-Wk Low | +1.7% | Trading at cycle lows |
-| Market Cap | ~$17.4B | [Finviz, April 24, 2026](https://finviz.com/quote.ashx?t=LULU) |
-| Enterprise Value | ~$17.35B | Near market cap (net cash positive) |
+| Market Cap | ≈$17.4B | [Finviz, April 24, 2026](https://finviz.com/quote.ashx?t=LULU) |
+| Enterprise Value | ≈$17.35B | Near market cap (net cash positive) |
 | FY2025 Revenue | $11.1B | +5% YoY |
 | FY2025 EPS (Diluted) | $13.26 | Down from $14.64 in FY2024 |
 | FY2025 FCF | $921.7M | [StockAnalysis](https://stockanalysis.com/stocks/lulu/financials/cash-flow-statement/) |
@@ -77,12 +77,12 @@ The bull case requires: (a) China Mainland sustaining +20% growth, (b) men's fra
 | FY2025 Americas Rev | $7.85B | –1% YoY |
 | FY2026 Rev Guide | $11.35–11.50B | +2–4% |
 | FY2026 EPS Guide | $12.10–12.30 | First declining-EPS guide in decade |
-| FY2026 Tariff Headwind | ~$380M | Up from $275M FY25 |
+| FY2026 Tariff Headwind | ≈$380M | Up from $275M FY25 |
 | New CEO Effective | Sep 8, 2026 | Heidi O'Neill (ex-Nike) |
-| Short Interest | ~4.54% of float | [Finviz, April 24, 2026](https://finviz.com/quote.ashx?t=LULU) |
+| Short Interest | ≈4.54% of float | [Finviz, April 24, 2026](https://finviz.com/quote.ashx?t=LULU) |
 | Analyst Consensus Target | $190.26 avg / $185 median | 25 analysts; 2 Buy / 23 Hold / 0 Sell |
-| P/E (TTM) | ~10.8× | Decade low |
-| P/E (FY26E) | ~11.7× | On guide midpoint $12.20 |
+| P/E (TTM) | ≈10.8× | Decade low |
+| P/E (FY26E) | ≈11.7× | On guide midpoint $12.20 |
 
 ---
 
@@ -96,8 +96,8 @@ The bull case requires: (a) China Mainland sustaining +20% growth, (b) men's fra
 |--------|--------|--------|--------|--------|--------|--------------|
 | Revenue | $6,257M | $8,111M | $9,619M | $10,588M | $11,103M | $11,350–11,500M |
 | YoY Growth | — | +30% | +19% | +10% | +5% | +2–4% |
-| Gross Margin | 57.7% | 55.4% | 58.3% | 59.2% | 56.6% | ~54–55% (est.) |
-| Operating Margin | 21.3% | 16.4% | 22.2% | 23.7% | 19.9% | ~17.5% (est.) |
+| Gross Margin | 57.7% | 55.4% | 58.3% | 59.2% | 56.6% | ≈54–55% (est.) |
+| Operating Margin | 21.3% | 16.4% | 22.2% | 23.7% | 19.9% | ≈17.5% (est.) |
 | EPS Diluted | $7.49 | $6.68 | $12.20 | $14.64 | $13.26 | $12.10–12.30 |
 | FCF | $994.6M | $327.8M | $1,644M | $1,583M | $921.7M | — |
 | CapEx | $394.5M | $638.7M | $651.9M | $689.2M | $680.8M | $725–745M |
@@ -114,8 +114,8 @@ The bull case requires: (a) China Mainland sustaining +20% growth, (b) men's fra
 | Quarter | Revenue | YoY Growth | Americas | China Mainland | Comment |
 |---------|---------|-----------|----------|---------------|---------|
 | Q3 FY25 (Oct–Nov 2025) | — | Mid-single % | Slowing | +25%+ | Pre-CEO succession announcement |
-| Q4 FY25 (Feb 1, 2026) | ~$3.6B | +1% (flat CC) | –4% | +24% | Americas Q4 comp –3% |
-| Q1 FY26 Guide | $2.40–2.43B | ~+4–6% (est.) | –1 to –3% | +~20% | Below $2.47B consensus |
+| Q4 FY25 (Feb 1, 2026) | ≈$3.6B | +1% (flat CC) | –4% | +24% | Americas Q4 comp –3% |
+| Q1 FY26 Guide | $2.40–2.43B | ≈+4–6% (est.) | –1 to –3% | +≈20% | Below $2.47B consensus |
 
 ### Primary Source: 10-K Segment Detail (FY2025)
 
@@ -136,11 +136,11 @@ The FY2025 10-K MD&A explains the divergence between headline revenue growth (+5
 
 | Stream | FY2025 Mix | Margin Profile | Growth Trend |
 |--------|------------|----------------|-------------|
-| Women's apparel | ~63% | Highest | Slowing in Americas; strong in China |
-| Men's apparel | ~24% | Strong | Decelerating Americas; growing internationally |
-| Accessories, footwear, other | ~13% | Lower | Mixed; footwear expansion ongoing |
-| **Channel: E-commerce** | ~36% of total | Highest | +8% FY2025 |
-| **Channel: Company stores** | ~64% of total | Strong | +1% FY2025 |
+| Women's apparel | ≈63% | Highest | Slowing in Americas; strong in China |
+| Men's apparel | ≈24% | Strong | Decelerating Americas; growing internationally |
+| Accessories, footwear, other | ≈13% | Lower | Mixed; footwear expansion ongoing |
+| **Channel: E-commerce** | ≈36% of total | Highest | +8% FY2025 |
+| **Channel: Company stores** | ≈64% of total | Strong | +1% FY2025 |
 
 ### Geographic Segment Table
 
@@ -155,7 +155,7 @@ The FY2025 10-K MD&A explains the divergence between headline revenue growth (+5
 
 ### Forward-Looking Shifts
 
-China Mainland is now 15.8% of revenue (up from 12.9% in FY2024) and guided +~20% in FY2026. At current trajectory, China crosses 20% of total revenue by FY2027. The segment's 40% operating margin (vs. 32.6% Americas) means China's growth mix-shift is structurally margin-accretive even as Americas compresses. The Rest of World segment (APAC + EMEA, +16% in FY2025) is a secondary growth lever, with 9 net new stores added.
+China Mainland is now 15.8% of revenue (up from 12.9% in FY2024) and guided +≈20% in FY2026. At current trajectory, China crosses 20% of total revenue by FY2027. The segment's 40% operating margin (vs. 32.6% Americas) means China's growth mix-shift is structurally margin-accretive even as Americas compresses. The Rest of World segment (APAC + EMEA, +16% in FY2025) is a secondary growth lever, with 9 net new stores added.
 
 The Americas' –1% revenue and –3% comp sales in FY2025 are the core investment risk. Management's FY2026 guidance assumes Americas declines another –1 to –3%. Whether this is a cyclical air-pocket (product + execution fixable by O'Neill) or structural share loss (Vuori/Alo permanent capture) is the thesis-defining question.
 
@@ -171,7 +171,7 @@ The Americas' –1% revenue and –3% comp sales in FY2025 are the core investme
 |--------|----------|---------|
 | Premium athleisure brand identity | Strong, contested | Most recognized US premium athleisure; but Vuori/Alo growing faster |
 | Proprietary fabric IP (Luon, Nulu, Everlux, Warpstreme) | Moderate | Patented elements exist; not fully bulletproof; "dupe" proliferation risk explicitly cited in FY2025 10-K |
-| Vertical DTC (no material wholesale) | Moderate | Protects pricing power and brand; ~58%+ gross margins — best-in-class apparel |
+| Vertical DTC (no material wholesale) | Moderate | Protects pricing power and brand; ≈58%+ gross margins — best-in-class apparel |
 | Community / educator model | Moderate | Sticky in core markets; less differentiated in international expansion |
 | China Mainland platform | Growing (Moderate → Strong) | Established presence growing 29%; 21 net new stores in FY2025; 40% segment operating margin |
 
@@ -180,8 +180,8 @@ The Americas' –1% revenue and –3% comp sales in FY2025 are the core investme
 - **Markdown discipline cracking**: FY2025 10-K explicitly frames *"return to a full-price model"* as an action item — implies markdown depth became structural, a direct leading indicator of brand-premium erosion.
 - **"Dupe" proliferation**: FY2025 10-K (Item 1A) added explicit language about imitation products: *"If 'dupe' or imitation products proliferate, whether through traditional retail channels or social media-driven trends, and lead consumers to perceive less differentiation between our products and lower-priced alternatives, our ability to maintain our brand premium…could be adversely affected."* This risk was not present in the FY2024 10-K — a newly-added signal.
 - **AI-enabled shopping tools**: Also new in FY2025 10-K: *"The rapid rise of artificial intelligence-enabled shopping tools may reduce our control over consumer decision-making and brand loyalty, as third-party AI platforms increasingly influence product discovery and purchases on behalf of customers."*
-- **CEO transition**: ~5-month interim period before O'Neill starts; organizational uncertainty during critical product-cycle decisions.
-- **Tariff sourcing risk**: ~50% China sourcing; alternative geographies (Vietnam, Indonesia, Mexico) carry multi-year execution risk.
+- **CEO transition**: ≈5-month interim period before O'Neill starts; organizational uncertainty during critical product-cycle decisions.
+- **Tariff sourcing risk**: ≈50% China sourcing; alternative geographies (Vietnam, Indonesia, Mexico) carry multi-year execution risk.
 
 ### Competitive Landscape
 
@@ -189,12 +189,12 @@ The Americas' –1% revenue and –3% comp sales in FY2025 are the core investme
 
 | Competitor | Est. US Activewear Share | Moat / Threat Vector |
 |-----------|------------------------|---------------------|
-| **Nike (NKE)** | ~27% US activewear | Dominant share; wholesale + DTC; faces its own turnaround (O'Neill's former employer); innovation pipeline stalling; not a premium-yoga direct threat but dominates men's performance |
-| **Adidas (ADDYY)** | ~6–8% US | Recovering brand; less premium-yoga threat; more running/lifestyle |
-| **Under Armour (UA)** | ~5–6% US | Weakened moat; losing premium positioning; not a direct LULU competitor |
-| **Vuori** (private) | ~$1B revenue est.; ~2–3% US premium athleisure | *Most credible direct threat*: men's + women's; $400M in funding (SoftBank); growing 30%+ annually; no financial distress; specifically positioned as LULU's premium alternative |
-| **Alo Yoga** (private, ~$1.5–2B est.) | ~2–3% US premium athleisure | Direct women's competitor; growing fast; celebrity/social following; studio-to-street positioning overlaps heavily with LULU's core |
-| **Athleta (Gap subsidiary)** | ~1–2% US | Struggling; lower price point; not a serious premium threat |
+| **Nike (NKE)** | ≈27% US activewear | Dominant share; wholesale + DTC; faces its own turnaround (O'Neill's former employer); innovation pipeline stalling; not a premium-yoga direct threat but dominates men's performance |
+| **Adidas (ADDYY)** | ≈6–8% US | Recovering brand; less premium-yoga threat; more running/lifestyle |
+| **Under Armour (UA)** | ≈5–6% US | Weakened moat; losing premium positioning; not a direct LULU competitor |
+| **Vuori** (private) | ≈$1B revenue est.; ≈2–3% US premium athleisure | *Most credible direct threat*: men's + women's; $400M in funding (SoftBank); growing 30%+ annually; no financial distress; specifically positioned as LULU's premium alternative |
+| **Alo Yoga** (private, ≈$1.5–2B est.) | ≈2–3% US premium athleisure | Direct women's competitor; growing fast; celebrity/social following; studio-to-street positioning overlaps heavily with LULU's core |
+| **Athleta (Gap subsidiary)** | ≈1–2% US | Struggling; lower price point; not a serious premium threat |
 | **On Running (ONON)** | Primarily footwear/running | Adjacent threat in premium performance; growing 25–30%; apparel expansion could overlap |
 
 **How LULU's moat differs**: The primary differentiator is DTC vertical integration — LULU captures full margin and avoids wholesale dilution, which supports 56–59% gross margins vs. 40–45% for Nike/Adidas. The community educator model and proprietary Luon/Nulu fabrics maintain *some* switching friction. However, Vuori and Alo have demonstrated the moat is not impenetrable: both have built premium communities, superior fabrics, and omni-channel strategies without the wholesale discount.
@@ -210,13 +210,16 @@ The Americas' –1% revenue and –3% comp sales in FY2025 are the core investme
 **CFO**: Meghan Frank (CFO since 2020). Stable operator; owns the FY2026 margin compression narrative. Led the $1.2B buyback in FY2025 and the $1.0B additional authorization in December 2025.
 
 **Capital allocation track record**:
-- Consistent buyback program: $862M (FY2021) → $479M (FY2022) → $591M (FY2023) → $1,672M (FY2024) → $1,206M (FY2025). ~5.0M shares repurchased in FY2025 at ~$240/share average — significantly above current price, representing capital destruction at current levels.
+
+🔴 **[Outsider grade](../../frameworks/outsiders.md) — Anti-Outsider**: Programmatic (not countercyclical) buybacks — ≈5.0M shares repurchased in FY2025 at ≈$240 avg, well above current price = capital destruction, compounded by the Mirror write-off. Buys steadily regardless of price.
+
+- Consistent buyback program: $862M (FY2021) → $479M (FY2022) → $591M (FY2023) → $1,672M (FY2024) → $1,206M (FY2025). ≈5.0M shares repurchased in FY2025 at ≈$240/share average — significantly above current price, representing capital destruction at current levels.
 - **No dividend** (retained growth/buyback focus).
-- **Mirror acquisition (2020, ~$500M) → write-off**: Acquired fitness hardware platform; discontinued hardware in 2023; full impairment taken. A material capital-allocation scar that introduced strategic distraction during a critical brand window.
+- **Mirror acquisition (2020, ≈$500M) → write-off**: Acquired fitness hardware platform; discontinued hardware in 2023; full impairment taken. A material capital-allocation scar that introduced strategic distraction during a critical brand window.
 - **Mexico acquisition (FY2024)**: Took back company-operated control from franchise partner — small but directionally sensible.
 
 **Key executives beyond CEO/CFO**:
-- **André Maestrini** (EVP International, interim co-CEO): 14 years at Adidas before LULU; owns the China + international strategy. His $494K personal buy of LULU shares in Q1 2026 at ~$151 — the most constructive insider signal in recent quarters.
+- **André Maestrini** (EVP International, interim co-CEO): 14 years at Adidas before LULU; owns the China + international strategy. His $494K personal buy of LULU shares in Q1 2026 at ≈$151 — the most constructive insider signal in recent quarters.
 - **Celeste Burgoyne** (President, Americas): Accountable for the underperforming Americas segment.
 - **Nicole Neuburger** (Chief Brand & Product Activation Officer): Joined from Uber Eats + Nike Running; now leads merchandising + innovation + footwear.
 
@@ -244,7 +247,7 @@ The arc reveals a framework that worked brilliantly from 2021–2023 (19–30% g
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **China Mainland buildout**: +29% revenue growth in FY2025; +21 net new stores; FY2026 guided +~20%. Tier-2/3 city expansion replicates early NA playbook. China segment operating margin at 40% is 740bps above Americas — every point of China mix-shift is structurally accretive.
+1. **China Mainland buildout**: +29% revenue growth in FY2025; +21 net new stores; FY2026 guided +≈20%. Tier-2/3 city expansion replicates early NA playbook. China segment operating margin at 40% is 740bps above Americas — every point of China mix-shift is structurally accretive.
 
 2. **International ex-China (Rest of World)**: Korea, Japan, EMEA +16% in FY2025; +9 net new stores. FY2026 guidance implies continued international outperformance. Now 13.5% of revenue; path to 15–18% by FY2027.
 
@@ -254,7 +257,7 @@ The arc reveals a framework that worked brilliantly from 2021–2023 (19–30% g
 
 5. **Full-price discipline restoration**: FY2025 included elevated markdowns; FY2026 plan is explicit markdown reduction. Successfully executing this would reverse the 240bps product-margin compression from markdowns without requiring demand improvement.
 
-6. **Tariff mitigation and sourcing diversification**: Multi-year project to reduce China sourcing concentration from ~50% toward 30–35% via Vietnam, Indonesia, Mexico. Takes 2–3 years to execute meaningfully; short-term impact limited.
+6. **Tariff mitigation and sourcing diversification**: Multi-year project to reduce China sourcing concentration from ≈50% toward 30–35% via Vietnam, Indonesia, Mexico. Takes 2–3 years to execute meaningfully; short-term impact limited.
 
 7. **Enterprise efficiency**: Operating cost reduction initiative to offset tariff headwinds. Management guided $725–745M capex in FY2026 — modest reduction from FY2025's $680.8M, but no aggressive cost-cutting stance.
 
@@ -262,7 +265,7 @@ The arc reveals a framework that worked brilliantly from 2021–2023 (19–30% g
 
 ## Section 6 — Key Risks
 
-*Materiality filter applied per Rule #25: dropped universal boilerplate (generic cyber, generic key personnel, generic earnings miss). Kept: (a) differentiated from peers, (b) not yet priced into multiple, (c) thesis-break triggers, (d) large discretionary bets with uncertain outcomes.*
+*Materiality filter applied per Rule #23: dropped universal boilerplate (generic cyber, generic key personnel, generic earnings miss). Kept: (a) differentiated from peers, (b) not yet priced into multiple, (c) thesis-break triggers, (d) large discretionary bets with uncertain outcomes.*
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|-----------|-------|
@@ -283,16 +286,16 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 
 ## Section 7 — Industry-Specific Macro Analysis
 
-**Global activewear TAM**: ~$400B globally; growing at mid-single digits annually. Premium athleisure (LULU's core) is a $60–80B subset with higher variability tied to consumer confidence in discretionary categories.
+**Global activewear TAM**: ≈$400B globally; growing at mid-single digits annually. Premium athleisure (LULU's core) is a $60–80B subset with higher variability tied to consumer confidence in discretionary categories.
 
-**US activewear structure**: Nike dominates with ~27% of the total US activewear market by revenue. LULU is the #1 dedicated premium-athleisure brand with estimated 3–5% total US activewear share (higher in women's premium yoga/lifestyle segment). The North American activewear market is mature — post-2020 demand spike has normalized. Growth is in international (China premium, APAC) and adjacent categories (footwear, outdoor).
+**US activewear structure**: Nike dominates with ≈27% of the total US activewear market by revenue. LULU is the #1 dedicated premium-athleisure brand with estimated 3–5% total US activewear share (higher in women's premium yoga/lifestyle segment). The North American activewear market is mature — post-2020 demand spike has normalized. Growth is in international (China premium, APAC) and adjacent categories (footwear, outdoor).
 
 **Structural dynamics**:
 - DTC premium apparel is in a post-COVID normalization that has lasted longer than expected in the US — Lululemon is not unique in facing headwinds, but its premium positioning (vs. Nike at $40 shorts) makes it more sensitive to consumer-confidence deterioration.
 - Vuori and Alo Yoga represent a new generation of premium-athleisure competitors funded by private equity that are explicitly targeting LULU's core customer and price point. Unlike legacy competitors (UA, Adidas), these are not financially distressed and are growing fast.
 - Athleisure is increasingly intersecting with luxury fashion (Loro Piana active, Brunello Cucinelli), creating a ceiling effect on LULU's aspirational positioning.
 
-**Tariff regime**: China-sourced apparel faces materially higher tariffs post-April 2025. LULU's ~50% China sourcing is among the highest in the premium-apparel peer group. Mitigation requires 2–3 year supply chain restructuring. Meanwhile, de minimis exemption removal disproportionately impacts LULU's e-commerce fulfillment model (Canadian distribution centers shipping to US customers).
+**Tariff regime**: China-sourced apparel faces materially higher tariffs post-April 2025. LULU's ≈50% China sourcing is among the highest in the premium-apparel peer group. Mitigation requires 2–3 year supply chain restructuring. Meanwhile, de minimis exemption removal disproportionately impacts LULU's e-commerce fulfillment model (Canadian distribution centers shipping to US customers).
 
 **US consumer macro**: The premium discretionary consumer has bifurcated — travel and luxury experiences remain strong, but aspirational premium apparel (LULU's price point: $98–$168 per item) is showing wallet fatigue, especially in the $75–150K income band. International (China premium) consumer is more resilient in the near term but subject to geopolitical tail risk.
 
@@ -306,11 +309,11 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 
 | Metric | Value | Historical Context |
 |--------|-------|-------------------|
-| P/E (TTM) | ~10.8× | Decade low; 2015–2023 avg ~35× |
-| P/E (FY26E midpoint) | ~11.7× | On $12.20 EPS guide |
-| EV / FY25 Revenue | ~1.56× | Trough; premium apparel comps 2–4× |
-| EV / FY26E Revenue | ~1.5× | Trough multiple |
-| FCF Yield | ~5.3% | On $921M FY25 FCF / $17.4B market cap |
+| P/E (TTM) | ≈10.8× | Decade low; 2015–2023 avg ≈35× |
+| P/E (FY26E midpoint) | ≈11.7× | On $12.20 EPS guide |
+| EV / FY25 Revenue | ≈1.56× | Trough; premium apparel comps 2–4× |
+| EV / FY26E Revenue | ≈1.5× | Trough multiple |
+| FCF Yield | ≈5.3% | On $921M FY25 FCF / $17.4B market cap |
 | Price / Sales | 1.56× | vs. 4–6× at peak |
 | Analyst Median Target | $185 | +28% upside |
 | Analyst Avg Target | $190 | 25 analysts; 2 Buy / 23 Hold |
@@ -319,12 +322,12 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 
 | Peer | FY26E P/E | Revenue Growth | Op Margin | Notes |
 |------|-----------|---------------|-----------|-------|
-| **LULU** | ~11.7× | +2–4% | ~17.5% (est.) | At lows; near-decade trough |
-| NKE (Nike) | ~22× | +5–7% | ~10% | Own turnaround; LULU's O'Neill's former employer |
-| ADDYY (Adidas) | ~18× | +6–8% | ~9% | Recovering Yeezy; less athleisure overlap |
-| ONON (On Running) | ~30× | +25–30% | ~17% | Premium Swiss running; growing adjacently |
-| DECK (Deckers) | ~16× | +10% | ~22% | Hoka + UGG; strong execution |
-| SKX (Skechers) | ~12× | +8% | ~10% | Value positioning; not a direct peer |
+| **LULU** | ≈11.7× | +2–4% | ≈17.5% (est.) | At lows; near-decade trough |
+| NKE (Nike) | ≈22× | +5–7% | ≈10% | Own turnaround; LULU's O'Neill's former employer |
+| ADDYY (Adidas) | ≈18× | +6–8% | ≈9% | Recovering Yeezy; less athleisure overlap |
+| ONON (On Running) | ≈30× | +25–30% | ≈17% | Premium Swiss running; growing adjacently |
+| DECK (Deckers) | ≈16× | +10% | ≈22% | Hoka + UGG; strong execution |
+| SKX (Skechers) | ≈12× | +8% | ≈10% | Value positioning; not a direct peer |
 
 **Valuation assessment**: LULU trades at the deepest discount to quality-apparel peers in a decade. The discount is warranted given CEO uncertainty, declining EPS, and Americas weakness, but the magnitude of discount (11.7× vs. 22× Nike which has more structural problems) implies either extreme pessimism or a thesis-break scenario. Re-rating to 17–18× FY26E EPS on visible NA stabilization would imply $207–220. Re-rating to 14–15× (no NA recovery, sustained tariff drag) implies $171–184.
 
@@ -340,8 +343,8 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 - **52-week range**: $136.92 – $340.25
 - **% from 52-wk high**: –59.4%
 - **% above 52-wk low**: +0.8% (essentially at cycle lows)
-- **Market cap**: ~$16.7B | **EV**: ~$16.65B
-- **Short interest**: ~4.54% of float ([Finviz](https://finviz.com/quote.ashx?t=LULU))
+- **Market cap**: ≈$16.7B | **EV**: ≈$16.65B
+- **Short interest**: ≈4.54% of float ([Finviz](https://finviz.com/quote.ashx?t=LULU))
 
 ### Analyst Consensus (April 2026)
 
@@ -362,7 +365,7 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 
 ### Short Interest
 
-- **Current**: ~4.54% of float — elevated vs. apparel peers but not extreme short squeeze setup
+- **Current**: ≈4.54% of float — elevated vs. apparel peers but not extreme short squeeze setup
 - Source: [Finviz — LULU](https://finviz.com/quote.ashx?t=LULU), April 24, 2026
 - Short interest has been building since late 2025 alongside the stock's collapse but remains manageable; no extreme short cover catalyst visible at current levels
 
@@ -376,15 +379,15 @@ Comparing the FY2025 and FY2024 10-K Item 1A disclosures reveals two material ad
 
 | Date | Insider | Action | Size | Note |
 |------|---------|--------|------|------|
-| Q1 2026 | André Maestrini (President / EVP International / interim co-CEO) | **Buy** | 3,275 sh @ ~$151 (~$494K) | **Positive** — interim CEO buying personally at lows is unusual and constructive |
-| Recent | Nicole Neuburger (Chief Brand Officer) | Sell | 622 sh (~$100K) | Routine; small |
-| **Net (90 days)** | All insiders | **Net buy** | ~$1.5M buy / $100K sell | **Net positive** |
+| Q1 2026 | André Maestrini (President / EVP International / interim co-CEO) | **Buy** | 3,275 sh @ ≈$151 (≈$494K) | **Positive** — interim CEO buying personally at lows is unusual and constructive |
+| Recent | Nicole Neuburger (Chief Brand Officer) | Sell | 622 sh (≈$100K) | Routine; small |
+| **Net (90 days)** | All insiders | **Net buy** | ≈$1.5M buy / $100K sell | **Net positive** |
 
 The Maestrini buy is the most actionable insider signal — an interim CEO purchasing personally at cycle lows, in the same quarter as the FY26 light guidance, is an unusual constructive signal.
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-04-29] [Governance]** — ⚠️ Founder Chip Wilson files [DFAN14A letter to shareholders](https://www.prnewswire.com/news-releases/chip-wilson-issues-letter-to-lululemon-shareholders-302756565.html) pressing 3 board nominees for the 2026 Annual Meeting; escrow / non-disparagement standoff disclosed. Lululemon counter-alleges Wilson aided Alo + Vuori (per [WWD coverage](https://wwd.com/business-news/business-features/chip-wilson-lululemon-boardroom-battle-1238932315/)). Stock to new 52-wk low ~$137.
+- **[2026-04-29] [Governance]** — ⚠️ Founder Chip Wilson files [DFAN14A letter to shareholders](https://www.prnewswire.com/news-releases/chip-wilson-issues-letter-to-lululemon-shareholders-302756565.html) pressing 3 board nominees for the 2026 Annual Meeting; escrow / non-disparagement standoff disclosed. Lululemon counter-alleges Wilson aided Alo + Vuori (per [WWD coverage](https://wwd.com/business-news/business-features/chip-wilson-lululemon-boardroom-battle-1238932315/)). Stock to new 52-wk low ≈$137.
 - **[2026-04-28] [Board]** — [Esi Eggleston Bracey (ex-Unilever CGMO) appointed to board](https://www.stocktitan.net/news/LULU/lululemon-announces-appointment-of-esi-eggleston-bracey-to-board-of-my7x1cfe0g5z.html); read as incumbent counter-move ahead of Wilson proxy push.
 - **[2026-04-23] [Management]** — Heidi O'Neill (ex-Nike) named CEO effective Sep 8, 2026; stock –13% session ([Lululemon press release](https://corporate.lululemon.com/media/press-releases))
 - **[2026-03-17] [Earnings/10-K]** — Q4 FY2025 / FY2025 full-year results; FY2026 guidance issued below consensus ([Lululemon press release](https://corporate.lululemon.com/media/press-releases); [10-K filed SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1397187/000139718726000020/0001397187-26-000020-index.htm))
@@ -414,9 +417,9 @@ LULU has fallen 57.7% from $340 to $144 — a peak-to-trough drawdown comparable
 ### A — Analytical: **Moderate**
 
 Analytical edges present:
-- **P/E ~11.7× FY26E EPS** is decade-trough; historical mid-cycle is 20–25×; even a modest re-rating to 15× implies $183
-- **EV/Sales ~1.5×** for a 56–59% gross-margin DTC business is structurally cheap — premium apparel comps trade at 2–4×
-- **Maestrini insider buy** at ~$151 is a meaningful tactical signal
+- **P/E ≈11.7× FY26E EPS** is decade-trough; historical mid-cycle is 20–25×; even a modest re-rating to 15× implies $183
+- **EV/Sales ≈1.5×** for a 56–59% gross-margin DTC business is structurally cheap — premium apparel comps trade at 2–4×
+- **Maestrini insider buy** at ≈$151 is a meaningful tactical signal
 - **China Mainland +29% FY2025 / +20% FY2026 guide** is a preserved growth engine obscured by NA weakness
 - **Americas action plan is more structured than consensus thinks**: Three-pillar response (Product Creation / Activation / Enterprise Efficiency) with specific workstreams is more operationally rigorous than typical turnaround language
 
@@ -448,27 +451,27 @@ Underappreciated primary-source disclosures:
 
 *All scenarios are 3-year (FY2028 / calendar 2029) terminal prices. Probabilities sum to 100%.*
 
-### Bull Case — $290 by 2029 (+102% from $143.80, ~26% CAGR) — **Probability: 25%**
+### Bull Case — $290 by 2029 (+102% from $143.80, ≈26% CAGR) — **Probability: 25%**
 - O'Neill reignites women's pipeline; Americas comp returns to +1–2% by FY2027
-- China sustains +18–20% growth; reaches ~20% of total revenue by FY2028
-- FY2028 revenue ~$13.5B; op margin recovers to 21.5%; EPS ~$16+
+- China sustains +18–20% growth; reaches ≈20% of total revenue by FY2028
+- FY2028 revenue ≈$13.5B; op margin recovers to 21.5%; EPS ≈$16+
 - Multiple re-rates to 18× on sustained earnings growth trajectory
 - *Requires*: visible Americas inflection by Holiday FY26; tariff partial relief or full absorption offset by price/efficiency
 
-### Bull+ (Upside Tail) — $360 by 2029 (+150%) — **Probability: 5%** (included in Bull 25% above as upside tail; stated separately per Rule #26)
+### Bull+ (Upside Tail) — $360 by 2029 (+150%) — **Probability: 5%** (included in Bull 25% above as upside tail; stated separately per Rule #24)
 - Full Crocs-style recovery narrative; China reaches 25%+ of revenue; O'Neill delivers outsized product innovation
-- FY2028 EPS ~$19+; 20× multiple = ~$380
+- FY2028 EPS ≈$19+; 20× multiple = ≈$380
 
-### Base Case — $200 by 2029 (+39% from $143.80, ~12% CAGR) — **Probability: 50%**
+### Base Case — $200 by 2029 (+39% from $143.80, ≈12% CAGR) — **Probability: 50%**
 - Americas stabilizes flat-to-low-single decline; international drives all growth
-- FY2028 revenue ~$12.5B; op margin 20.5%; EPS ~$14
+- FY2028 revenue ≈$12.5B; op margin 20.5%; EPS ≈$14
 - Multiple of 14× on moderate-growth, still-premium business
 - *Requires*: O'Neill steady execution; no further crises; tariff partial absorption
 
-### Bear Case — $80 by 2029 (–44% from $143.80, ~–18% CAGR) — **Probability: 25%**
+### Bear Case — $80 by 2029 (–44% from $143.80, ≈–18% CAGR) — **Probability: 25%**
 - Brand-cycle peak realized; Americas declines –4 to –6% annually; Vuori/Alo capture material structural share
 - China growth decelerates below +10% by FY2027 (Chinese consumer slowdown + geopolitical)
-- FY2028 revenue ~$10.5B; op margin ~15%; EPS ~$8
+- FY2028 revenue ≈$10.5B; op margin ≈15%; EPS ≈$8
 - Multiple of 10× on declining business
 - *Requires*: O'Neill turnaround fails; markdowns persist structurally; tariffs escalate to $500M+
 
@@ -483,40 +486,40 @@ Underappreciated primary-source disclosures:
 | Bull (incl. Bull+ tail) | $290 midpoint of Bull / Bull+ weighted | 25% + 5% blend → use $290 (conservative) | $72.50 |
 | Base | $200 | 50% | $100.00 |
 | Bear | $80 | 25% | $20.00 |
-| **PW EV (3-year)** | | **100%** | **~$192** |
+| **PW EV (3-year)** | | **100%** | **≈$192** |
 
 | Current Price | PW EV | Return (3-yr) | Annualized CAGR |
 |--------------|-------|--------------|----------------|
-| $137.98 | ~$192 | **+39.2%** | **~+11.6%/yr** |
+| $137.98 | ≈$192 | **+39.2%** | **≈+11.6%/yr** |
 
-**R/R calculation** (per Rule #26 — anchored to Section 11 Bull / Bear midpoints):
+**R/R calculation** (per Rule #24 — anchored to Section 11 Bull / Bear midpoints):
 - Upside (Bull): $290 – $137.98 = +$152.02 / +110.2%
 - Downside (Bear): $137.98 – $80 = $57.98 / –42.0%
-- **Headline R/R: ~2.6:1 (Bull/Bear)**; rises to ~3.7:1 using Bull+ tail ($360 vs. $80)
-- **At $135 entry** (target initiation zone): R/R improves to ~2.9:1 Bull/Bear
+- **Headline R/R: ≈2.6:1 (Bull/Bear)**; rises to ≈3.7:1 using Bull+ tail ($360 vs. $80)
+- **At $135 entry** (target initiation zone): R/R improves to ≈2.9:1 Bull/Bear
 
-**Interpretation**: PW EV of ~$192 is +39.2% above spot at $138, implying improved expected return (~+11.6%/yr) over a 3-year horizon — asymmetry has marginally widened on the −4% drawdown. The R/R of ~2.6:1 reflects a real 25% bear-case probability plus the new (non-fundamental) governance overhang. The key variable remains whether the bear-case probability falls (NA stabilizes) or rises (brand-cycle peak confirmed) — the next 2 quarters of earnings will be the determinant. Wilson proxy noise is monitor-only unless it escalates to nominee election or settlement reversing the 2024 strategic plan.
+**Interpretation**: PW EV of ≈$192 is +39.2% above spot at $138, implying improved expected return (≈+11.6%/yr) over a 3-year horizon — asymmetry has marginally widened on the −4% drawdown. The R/R of ≈2.6:1 reflects a real 25% bear-case probability plus the new (non-fundamental) governance overhang. The key variable remains whether the bear-case probability falls (NA stabilizes) or rises (brand-cycle peak confirmed) — the next 2 quarters of earnings will be the determinant. Wilson proxy noise is monitor-only unless it escalates to nominee election or settlement reversing the 2024 strategic plan.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Lululemon's 57% drawdown from peak has created a decade-trough P/E (~11.7×) on a brand with 29% China growth, $17.4B market cap, and a management team with a credible (if uncertain) turnaround plan — but the bear case (permanent Vuori/Alo share capture + tariff structural compression) carries a 25% probability that prevents a high-conviction initiation.
+**Thesis in one sentence**: Lululemon's 57% drawdown from peak has created a decade-trough P/E (≈11.7×) on a brand with 29% China growth, $17.4B market cap, and a management team with a credible (if uncertain) turnaround plan — but the bear case (permanent Vuori/Alo share capture + tariff structural compression) carries a 25% probability that prevents a high-conviction initiation.
 
-**For a non-holder**: 🟡 **Watch** at $137.98 with bias to **Initiate** below $135. The Maestrini insider buy at ~$151 + decade-low P/E + retained China Mainland growth engine are constructive signals. However, CEO uncertainty (5-month interim before O'Neill starts), declining FY26 EPS ($12.10–12.30 vs. $13.26 in FY25), a real 25% bear-case probability, the new Wilson proxy-fight overhang into the 2026 Annual Meeting, and an analyst consensus that has been consistently cutting targets argue for discipline. A sub-$135 entry improves the R/R meaningfully and provides a better entry ahead of the Q1 FY26 print. Wait for either (a) clear Americas comp stabilization signal or (b) the stock trading below $135.
+**For a non-holder**: 🟡 **Watch** at $137.98 with bias to **Initiate** below $135. The Maestrini insider buy at ≈$151 + decade-low P/E + retained China Mainland growth engine are constructive signals. However, CEO uncertainty (5-month interim before O'Neill starts), declining FY26 EPS ($12.10–12.30 vs. $13.26 in FY25), a real 25% bear-case probability, the new Wilson proxy-fight overhang into the 2026 Annual Meeting, and an analyst consensus that has been consistently cutting targets argue for discipline. A sub-$135 entry improves the R/R meaningfully and provides a better entry ahead of the Q1 FY26 print. Wait for either (a) clear Americas comp stabilization signal or (b) the stock trading below $135.
 
 **For a current holder**: 🟡 **Hold**. Do not exit at –58%; the asymmetry has shifted in your favor. The PW EV of $192 implies meaningful upside even from a below-consensus starting point. Add only on weakness toward $130 or after Q1 FY26 confirms guide hold without downward revision. Trim only on recovery toward $200+ if Americas inflection has not yet shown in the data.
 
-🎯 **Attractive entry zone**: **$120 – $140** — rationale: ~10–11× FY26E EPS; at/below 52-wk low; ~1.3× EV/Sales at historical trough multiple for a 56%+ gross-margin DTC business
+🎯 **Attractive entry zone**: **$120 – $140** — rationale: ≈10–11× FY26E EPS; at/below 52-wk low; ≈1.3× EV/Sales at historical trough multiple for a 56%+ gross-margin DTC business
 
 🎯 **Trim zone**: **$235 – $275** — rationale: 19–22× FY26E EPS = mid-cycle multiple; would already price in O'Neill turnaround success; only justified if Americas has returned to positive comps
 
-🔴 **Exit / avoid zone**: **Initiating above $175 without NA stabilization evidence** — at $175, forward P/E reaches ~14×, reducing asymmetry before thesis-confirming data exists
+🔴 **Exit / avoid zone**: **Initiating above $175 without NA stabilization evidence** — at $175, forward P/E reaches ≈14×, reducing asymmetry before thesis-confirming data exists
 
 **Thesis-break triggers** ⚠️ (would force re-rating toward Reduce / Avoid):
 - ⚠️ Americas comparable sales accelerate beyond **–5% YoY** for two consecutive quarters
 - ⚠️ China Mainland growth decelerates below **+12% YoY** (signals international leg breaking)
-- ⚠️ Operating margin compresses below **18%** for full FY26 (vs. ~17.5% est. guide)
+- ⚠️ Operating margin compresses below **18%** for full FY26 (vs. ≈17.5% est. guide)
 - ⚠️ Markdown depth increases QoQ for **two consecutive quarters** — signals markdown is structural, not transitional
 - ⚠️ O'Neill departure, or strategic announcement materially weaker than expected (e.g., pivots away from DTC, pursues wholesale)
 - ⚠️ Material analyst downgrade cluster (**3+ firms in one week**)

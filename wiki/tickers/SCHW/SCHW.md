@@ -1,6 +1,6 @@
 # SCHW — The Charles Schwab Corporation
 
-> **Schema**: v2.9
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-28
 > **Status**: Active
 > **Live Price Verified**: **$85.05** at May 28, 2026 ([Yahoo Finance](https://finance.yahoo.com/quote/SCHW); –$0.56 / –0.65% on session)
@@ -10,39 +10,39 @@
 
 ## Summary
 
-- 🟢 **Thesis**: Largest U.S. retail brokerage (~$11.8T client assets, ~46.5M accounts) emerging from cash-sorting + TD Ameritrade integration into a clean, capital-flexible compounder. Q1 2026 confirmed structural earnings power: record revenue/EPS/NNA, 19% dividend hike, $2.4B buyback executed, FY26 EPS guide *raised* above $5.70–$5.80. **Wide moat post-TDA** (scale + RIA-custody dominance + integrated bank). May 2026 weakness is non-fundamental — debt issuance + 10b5-1 insider selling + sentiment; thesis intact and **R/R improved to ~3.5:1** at $85.
-- 🟢 **For a non-holder: Initiate** at $85.05 — at ~14.5× FY26E EPS this is the cheapest SCHW has been relative to raised guidance; median analyst target $115.85 implies 36% upside.
+- 🟢 **Thesis**: Largest U.S. retail brokerage (≈$11.8T client assets, ≈46.5M accounts) emerging from cash-sorting + TD Ameritrade integration into a clean, capital-flexible compounder. Q1 2026 confirmed structural earnings power: record revenue/EPS/NNA, 19% dividend hike, $2.4B buyback executed, FY26 EPS guide *raised* above $5.70–$5.80. **Wide moat post-TDA** (scale + RIA-custody dominance + integrated bank). May 2026 weakness is non-fundamental — debt issuance + 10b5-1 insider selling + sentiment; thesis intact and **R/R improved to ≈3.5:1** at $85.
+- 🟢 **For a non-holder: Initiate** at $85.05 — at ≈14.5× FY26E EPS this is the cheapest SCHW has been relative to raised guidance; median analyst target $115.85 implies 36% upside.
 - 🟢 **For a current holder: Add** — May weakness driven by non-fundamental catalysts (debt issuance, 10b5-1 plan selling, short-interest uptick); PW EV return improved to +26% (18-mo) from $85.
-- 🎯 **Attractive entry zone**: **$80 – $93** (~13.5–16× FY26E EPS of $5.85; $85.05 is squarely inside this zone).
+- 🎯 **Attractive entry zone**: **$80 – $93** (≈13.5–16× FY26E EPS of $5.85; $85.05 is squarely inside this zone).
 - 🎯 **Trim zone**: **$118 – $130** (20–22× FY26E EPS; required full credit for ETF/crypto/private-markets monetization).
 - 📉 **Price action**: $85.05, **–20.9% from 52-wk high** ($107.50), essentially at 52-wk low ($84.72); –7.3% from April 22 baseline of $91.71.
 - 📅 **Next catalyst**: **Q2 2026 earnings — July 16, 2026** ([Yahoo Finance](https://finance.yahoo.com/quote/SCHW)). FY26 formal guidance refresh expected; CFO signaled bar above $5.70–$5.80.
 - ⚠️ **Top risk**: Aggressive Fed cut cycle compresses NIM toward 2.0–2.3% (Low–Med prob, High impact) — bear case driver; **not yet priced in** at current multiple.
 - ⚠️ **Second risk**: Competitive intensity from JPMorgan / Robinhood premium pushes + Fidelity-Vanguard irrational pricing (Med prob, Med impact).
-- 🟢 **Moat verdict**: **Wide and Widening** — scale ($11.8T AUM, 6× nearest public peer) + RIA-custody dominance (~$4T, #1) + integrated bank funding (Schwab Bank) + brand + post-TDA active-trader platform (thinkorswim).
-- 🟢 **BAIT verdict**: **Triple-Strong (B + A + I), Moderate T** — Conviction **High**. PW EV ~$107 (18-mo) implies +26% from $85.05 / ~17%/yr; **R/R ~3.5:1** anchored to §11 Bull/Bear midpoints (Bull +53% / Bear –15% at current spot).
+- 🟢 **Moat verdict**: **Wide and Widening** — scale ($11.8T AUM, 6× nearest public peer) + RIA-custody dominance (≈$4T, #1) + integrated bank funding (Schwab Bank) + brand + post-TDA active-trader platform (thinkorswim).
+- 🟢 **BAIT verdict**: **Triple-Strong (B + A + I), Moderate T** — Conviction **High**. PW EV ≈$107 (18-mo) implies +26% from $85.05 / ≈17%/yr; **R/R ≈3.5:1** anchored to §11 Bull/Bear midpoints (Bull +53% / Bear –15% at current spot).
 - 📈 **Primary-source signal**: CFO Mike Verdeschi at the [Q1 2026 call (April 16, 2026)](https://www.fool.com/earnings/call-transcripts/2026/04/16/schwab-schw-q1-2026-earnings-call-transcript/): NIM has *"upward momentum"* given lack of rate cuts; FY26 EPS *"tracking higher than the $5.70 to $5.80 EPS range."* Wurster's first full year framing in the [2024 CEO Letter](https://www.aboutschwab.com/annual-report-2024/ceo-letter): *"Through Clients' Eyes"* + balance-sheet flexibility unlocked. Bettinger now Co-Chairman; founder Charles Schwab remains Co-Chairman.
 
 ---
 
 ## Business Overview
 
-The Charles Schwab Corporation (NYSE: SCHW) is the largest U.S. retail brokerage by client assets, holding **$11.8T** across **~46.5M accounts** (Q1 2026). Founded by Chuck Schwab in 1971 around the insight that the true brokerage product is the *platform and custody* (not commissions), Schwab built the discount brokerage industry after May Day 1975 deregulation. Five decades later, the founding insight reached its logical endpoint — *zero* commissions — and Schwab now monetizes the float on client cash (NII) and value-added services (advisory, asset management, banking, RIA custody).
+The Charles Schwab Corporation (NYSE: SCHW) is the largest U.S. retail brokerage by client assets, holding **$11.8T** across **≈46.5M accounts** (Q1 2026). Founded by Chuck Schwab in 1971 around the insight that the true brokerage product is the *platform and custody* (not commissions), Schwab built the discount brokerage industry after May Day 1975 deregulation. Five decades later, the founding insight reached its logical endpoint — *zero* commissions — and Schwab now monetizes the float on client cash (NII) and value-added services (advisory, asset management, banking, RIA custody).
 
 **Scale (FY2025)**:
 - $23.9B revenue (+22% YoY); $8.4B GAAP net income (+54%); $4.65 EPS (+55%)
 - Net Interest Margin recovered from a 2.33% trough (2023–2024 cash-sorting period) to 2.90%
 - $11.9T client assets (YE2025); $519B FY net new assets (5.1% organic growth)
 - Tier 1 leverage 6.8% — within 6.75–7.00% target band
-- High-cost FHLB + CD debt reduced from a 2023 peak of ~$97B to $5.1B at YE2025
+- High-cost FHLB + CD debt reduced from a 2023 peak of ≈$97B to $5.1B at YE2025
 
 **Four-stream revenue model**:
-- **Net Interest Revenue (~49%)** — spread on client cash sweep balances at Schwab Bank; dominant earnings engine; rate-sensitive
-- **Asset Management & Admin Fees (~24%)** — Schwab Funds, Intelligent Portfolios, advisor programs, increasingly active-ETF monetization
-- **Trading Revenue (~9%)** — order flow (PFOF) + options/derivatives commissions; Q1 2026 DARTs hit record 9.9M (+34% YoY)
-- **Other (~18%)** — banking, margin, advisory; **Schwab Advisor Services** is the #1 RIA custodian by assets (~$4T)
+- **Net Interest Revenue (≈49%)** — spread on client cash sweep balances at Schwab Bank; dominant earnings engine; rate-sensitive
+- **Asset Management & Admin Fees (≈24%)** — Schwab Funds, Intelligent Portfolios, advisor programs, increasingly active-ETF monetization
+- **Trading Revenue (≈9%)** — order flow (PFOF) + options/derivatives commissions; Q1 2026 DARTs hit record 9.9M (+34% YoY)
+- **Other (≈18%)** — banking, margin, advisory; **Schwab Advisor Services** is the #1 RIA custodian by assets (≈$4T)
 
-**2025 transformation**: TD Ameritrade integration declared complete year-end 2025 (final 17M+ accounts converted May 2024; full P&L run-rate now flowing). Cash-sorting structurally resolved — the high-cost debt that ballooned to ~$97B in 2023 is down to $5.1B; sweep balances rebuilt organically (+$13.5B Q3 2025; +$8B Q1 2026 sequential). **Rick Wurster** became CEO January 1, 2025; Walt Bettinger transitioned to Co-Chairman alongside founder Charles Schwab.
+**2025 transformation**: TD Ameritrade integration declared complete year-end 2025 (final 17M+ accounts converted May 2024; full P&L run-rate now flowing). Cash-sorting structurally resolved — the high-cost debt that ballooned to ≈$97B in 2023 is down to $5.1B; sweep balances rebuilt organically (+$13.5B Q3 2025; +$8B Q1 2026 sequential). **Rick Wurster** became CEO January 1, 2025; Walt Bettinger transitioned to Co-Chairman alongside founder Charles Schwab.
 
 ---
 
@@ -50,7 +50,7 @@ The Charles Schwab Corporation (NYSE: SCHW) is the largest U.S. retail brokerage
 
 > Is Schwab's NII recovery (NIM 2.33% trough → 2.90% in FY2025; tracking upward in Q1 2026; FY26 guide 2.85–2.95%) the start of a multi-year earnings normalization that justifies a re-rating to 18–22× P/E — or will Federal Reserve rate cuts, Fidelity/Vanguard price competition, and zero-commission commoditization permanently cap the earnings ceiling?
 
-The answer hinges on three things: **(1) Fed terminal rate path** — every 25bps cut ≈ ~$100M NII impact; **(2) structural floor lift** — does the FHLB $97B → $5.1B paydown raise the floor NIM enough that a rate-cut cycle no longer drives earnings to prior-trough levels; **(3) monetization-layer depth** — whether TDA synergies + buyback acceleration + advisory/ETF/crypto/private-markets monetization are real incremental EPS drivers vs. baseline.
+The answer hinges on three things: **(1) Fed terminal rate path** — every 25bps cut ≈ ≈$100M NII impact; **(2) structural floor lift** — does the FHLB $97B → $5.1B paydown raise the floor NIM enough that a rate-cut cycle no longer drives earnings to prior-trough levels; **(3) monetization-layer depth** — whether TDA synergies + buyback acceleration + advisory/ETF/crypto/private-markets monetization are real incremental EPS drivers vs. baseline.
 
 ---
 
@@ -64,7 +64,7 @@ The answer hinges on three things: **(1) Fed terminal rate path** — every 25bp
 | 52-Week Low | $84.72 | May 2026 — stock essentially at 52-wk low |
 | % From 52-Wk High | –20.9% | |
 | % Above 52-Wk Low | +0.4% | At floor |
-| Market Cap | ~$147.9B | ~1.74B diluted shares × $85.05 |
+| Market Cap | ≈$147.9B | ≈1.74B diluted shares × $85.05 |
 | 1-Year Analyst Target | $115.85 | [Yahoo Finance](https://finance.yahoo.com/quote/SCHW); 4 upgrades on May 15 |
 | FY2025 Revenue | $23.9B | +22% YoY |
 | FY2025 Net Income | $8.4B | +54% YoY |
@@ -79,10 +79,10 @@ The answer hinges on three things: **(1) Fed terminal rate path** — every 25bp
 | Bank Loans (Q1 2026) | $61B | +29% YoY (all-time high) |
 | Adj Pretax Profit Margin (Q1 2026) | 51.4% | Operating leverage manifest |
 | FY2026E EPS (mgmt) | **>$5.80** | Tracking *above* prior $5.70–$5.80 guide |
-| P/E (FY2025 $4.65) | ~19.7× | TTM |
-| P/E (FY2026E $5.85) | ~15.7× | If guide >$5.80 holds |
-| P/TBV [Estimate] | ~2.4× | Asset-type-primary metric |
-| Dividend (annual, post Q1 2026) | $1.28 (~1.40% yield) | 19% raise in Q1 |
+| P/E (FY2025 $4.65) | ≈19.7× | TTM |
+| P/E (FY2026E $5.85) | ≈15.7× | If guide >$5.80 holds |
+| P/TBV [Estimate] | ≈2.4× | Asset-type-primary metric |
+| Dividend (annual, post Q1 2026) | $1.28 (≈1.40% yield) | 19% raise in Q1 |
 | Buyback (Q1 2026) | $2.4B executed | Materially accelerated |
 | Tier 1 Leverage Ratio | 6.8% | Target 6.75–7.00% |
 | Q2 2026 Earnings Date | **July 16, 2026** (est.) | Hard catalyst — FY26 formal guide refresh |
@@ -95,36 +95,36 @@ The answer hinges on three things: **(1) Fed terminal rate path** — every 25bp
 
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 | FY2026E |
 |--------|--------|--------|--------|--------|--------|---------|---------|
-| Total Revenue ($B) | 18.5 | 20.8 | 18.8 | 19.6 | 23.9 | 6.5 | ~26.3–26.5 (+9.5–10.5% guide) |
+| Total Revenue ($B) | 18.5 | 20.8 | 18.8 | 19.6 | 23.9 | 6.5 | ≈26.3–26.5 (+9.5–10.5% guide) |
 | YoY Revenue Growth | — | +12.1% | –9.3% | +4.1% | +22.0% | +16% | +9.5–10.5% |
-| Net Interest Income ($B) | 8.0 | 10.7 | 9.4 | 9.1 | 11.75 | ~3.1 | — |
-| NIM | ~2.0% | ~2.6% | 2.33% | 2.33% | **2.90%** | Tracking upward | 2.85–2.95% (guide) |
-| Net Income ($B) | 5.4 | 6.6 | 4.6 | 5.5 | 8.4 | ~1.97 | — |
-| Net Margin | 29.2% | 31.9% | 24.7% | 28.0% | 35.2% | ~30.3% | — |
+| Net Interest Income ($B) | 8.0 | 10.7 | 9.4 | 9.1 | 11.75 | ≈3.1 | — |
+| NIM | ≈2.0% | ≈2.6% | 2.33% | 2.33% | **2.90%** | Tracking upward | 2.85–2.95% (guide) |
+| Net Income ($B) | 5.4 | 6.6 | 4.6 | 5.5 | 8.4 | ≈1.97 | — |
+| Net Margin | 29.2% | 31.9% | 24.7% | 28.0% | 35.2% | ≈30.3% | — |
 | EPS (Diluted) | $2.83 | $3.50 | $2.54 | $2.99 | $4.65 | $1.43 (+38%) | **>$5.80** *[Mgmt guidance]* |
 | Adj Pretax Profit Margin | — | — | — | — | — | 51.4% | — |
 
-*FY2023–FY2024 declines reflect the "cash sorting" episode — clients shifted low-yielding sweep cash into money-market funds, forcing Schwab to plug the funding gap with expensive FHLB/CD borrowings (peak ~$97B). The cycle reversed in 2H2025; Q1 2026 confirmed structural recovery.*
+*FY2023–FY2024 declines reflect the "cash sorting" episode — clients shifted low-yielding sweep cash into money-market funds, forcing Schwab to plug the funding gap with expensive FHLB/CD borrowings (peak ≈$97B). The cycle reversed in 2H2025; Q1 2026 confirmed structural recovery.*
 
 ### Client asset & account growth
 
 | Metric | FY2022 | FY2023 | FY2024 | FY2025 | Q1 2026 |
 |--------|--------|--------|--------|--------|---------|
-| Total Client Assets ($T) | ~7.0 | ~8.5 | ~9.9 | 11.9 | 11.8 |
-| Net New Assets ($B FY) | — | ~350 [est] | ~400 [est] | 519 | 158 (Q1 record) |
-| Organic Growth (NNA / AUM) | — | ~4% | ~4–5% | 5.1% | annualizing >5% |
-| Client Accounts (M) | ~34.0 | ~34.8 | ~35.0 | 46.5 | ~46.5 |
+| Total Client Assets ($T) | ≈7.0 | ≈8.5 | ≈9.9 | 11.9 | 11.8 |
+| Net New Assets ($B FY) | — | ≈350 [est] | ≈400 [est] | 519 | 158 (Q1 record) |
+| Organic Growth (NNA / AUM) | — | ≈4% | ≈4–5% | 5.1% | annualizing >5% |
+| Client Accounts (M) | ≈34.0 | ≈34.8 | ≈35.0 | 46.5 | ≈46.5 |
 | Daily Avg Trades (M) | — | — | — | — | 9.9 (+34% YoY, record) |
-| Bank Loans ($B) | — | — | — | ~47 | 61 (+29% YoY) |
+| Bank Loans ($B) | — | — | — | ≈47 | 61 (+29% YoY) |
 
 ### Balance sheet — high-cost debt reduction (the defining structural story)
 
 | Metric | 2023 Peak | FY2024 | FY2025 | Q1 2026 |
 |--------|-----------|--------|--------|---------|
-| FHLB + CD high-cost debt ($B) | ~97 | ~36 | 5.1 | <5 |
-| Tier 1 Leverage Ratio | — | — | ~6.7% | 6.8% (in target band) |
+| FHLB + CD high-cost debt ($B) | ≈97 | ≈36 | 5.1 | <5 |
+| Tier 1 Leverage Ratio | — | — | ≈6.7% | 6.8% (in target band) |
 
-This is the single most important structural improvement: **~$92B of expensive funding was retired** between the 2023 peak and YE2025. Even in a bear NIM scenario, the structural floor is materially higher than the 2023–2024 trough. The market has not yet repriced this floor lift into the multiple — it is still pricing SCHW as if the 2023 vulnerability is current.
+This is the single most important structural improvement: **≈$92B of expensive funding was retired** between the 2023 peak and YE2025. Even in a bear NIM scenario, the structural floor is materially higher than the 2023–2024 trough. The market has not yet repriced this floor lift into the multiple — it is still pricing SCHW as if the 2023 vulnerability is current.
 
 ### Q1 2026 highlights (April 16, 2026 earnings)
 
@@ -164,28 +164,28 @@ Pulled from the [SCHW FY2025 10-K (filed Feb 2026; SEC accession 0000316709-26-0
 
 | Stream | FY2025 ($B) | Share | Driver |
 |--------|------------|-------|--------|
-| Net Interest Revenue | ~$11.75 | ~49% | Client cash × NIM; rate-sensitive |
-| Asset Management & Admin Fees | ~$5.7 | ~24% | AUM × fee rate; market-level driven |
-| Trading Revenue | ~$2.2 | ~9% | Options + PFOF; volume-driven |
-| Other (banking, margin, advisory) | ~$4.3 | ~18% | Diversified; advisory growing fastest |
+| Net Interest Revenue | ≈$11.75 | ≈49% | Client cash × NIM; rate-sensitive |
+| Asset Management & Admin Fees | ≈$5.7 | ≈24% | AUM × fee rate; market-level driven |
+| Trading Revenue | ≈$2.2 | ≈9% | Options + PFOF; volume-driven |
+| Other (banking, margin, advisory) | ≈$4.3 | ≈18% | Diversified; advisory growing fastest |
 | **Total** | **$23.9** | **100%** | |
 
-**Business-model identity**: Revenue ≈ Client Assets × Monetization Rate. $11.8T × ~0.20% net interest = ~$23.6B. The "gathering" of assets is Schwab's moat; the "monetization" is rate-sensitive but increasingly diversified.
+**Business-model identity**: Revenue ≈ Client Assets × Monetization Rate. $11.8T × ≈0.20% net interest = ≈$23.6B. The "gathering" of assets is Schwab's moat; the "monetization" is rate-sensitive but increasingly diversified.
 
 **Monetization-layer expansion (introduced/accelerating in Q1 2026)**:
 - **Active-ETF monetization** — Negotiating with 400+ asset managers; "in place and live" by year-end 2026; active-ETF fees materially richer than passive
-- **Digital assets** — Crypto platform pilot announced; rollout imminent at ~75bps per trade
+- **Digital assets** — Crypto platform pilot announced; rollout imminent at ≈75bps per trade
 - **Private markets** — [Forge Global acquisition](https://pressroom.aboutschwab.com/) completed; pre-IPO access for retail/HNW clients
 - **Advisory** — Schwab Wealth Advisory $10B Q1 net flows (+90% YoY); higher-margin, more durable than NII
 - **AI** — Investor AI Assistant launching June 2026; portfolio insights, generative search, AI estate planning live
-- **Branch expansion** — ~12 new branches planned in 2026
+- **Branch expansion** — ≈12 new branches planned in 2026
 
 ### Geographic split
 
 | Region | Revenue Share | Notes |
 |--------|--------------|-------|
-| United States | ~99% | Domestic brokerage / banking / RIA custody |
-| International | ~1% | Limited expat / international accounts |
+| United States | ≈99% | Domestic brokerage / banking / RIA custody |
+| International | ≈1% | Limited expat / international accounts |
 
 **Forward-looking**: Geographic mix is not a material variable for SCHW. The firm has chosen domestic dominance over international diversification — a deliberate strategic choice that shapes the moat (RIA-custody scale, brand, regulatory simplicity) but caps TAM at U.S. wealth pools.
 
@@ -199,7 +199,7 @@ Pulled from the [SCHW FY2025 10-K (filed Feb 2026; SEC accession 0000316709-26-0
 
 | Source | Strength | Evidence |
 |--------|----------|---------|
-| Scale ($11.8T AUM) | **Strong** | 6× nearest public peer (IBKR ~$0.6T client equity); lowest per-asset technology + custody costs |
+| Scale ($11.8T AUM) | **Strong** | 6× nearest public peer (IBKR ≈$0.6T client equity); lowest per-asset technology + custody costs |
 | RIA custody network ($4T) | **Strong** | #1 RIA custodian by assets; deeply embedded; switching costs for advisor practices are real |
 | Brand | **Strong** | 50+ years; consistently #1 retail-financial-brand surveys |
 | Integrated Schwab Bank | **Strong** | In-house bank funds NII engine; competitors pay external funding spreads |
@@ -214,25 +214,25 @@ Pulled from the [SCHW FY2025 10-K (filed Feb 2026; SEC accession 0000316709-26-0
 | Competitor | Type | Scale (client assets) | Moat read | Threat to SCHW |
 |------------|------|----------------------|-----------|----------------|
 | **SCHW** | Public retail broker + bank + RIA custodian | **$11.8T** | Wide — scale + RIA-custody + bank | Reference |
-| Fidelity Investments | Private — full-line retail + 401k | ~$13–14T (incl. record-keeping) | Wide — comparable scale, no quarterly profit pressure | **High** — most direct rival; can compete on every dimension |
-| Vanguard | Private — passive index leader | ~$10T+ (mostly advised + retail) | Wide on cost; narrow on service breadth | Med — competes for IRA/401k flows, weaker on active trading |
-| Robinhood ([HOOD](https://finance.yahoo.com/quote/HOOD)) | Public — retail broker (younger demo) | ~$200B | Narrow — UX-led; weak on RIA / wealth | Med — premium-broker push (Gold, retirement) escalating; cohort-aging risk |
-| Interactive Brokers ([IBKR](https://finance.yahoo.com/quote/IBKR)) | Public — sophisticated / institutional | ~$0.6T | Narrow — best-in-class active-trader tools, low cost | Med — competes for thinkorswim cohort |
-| eToro ([ETOR](https://finance.yahoo.com/quote/ETOR)) | Public — global social-trading | ~$15B | None at SCHW scale | Low |
-| LPL Financial ([LPL](https://finance.yahoo.com/quote/LPL)) | Public — independent broker-dealer / RIA platform | ~$1.7T | Narrow — advisor-network play | Med — direct RIA-custody competitor |
-| BNY Pershing | Custody / clearing for RIAs | ~$2T+ RIA custody | Narrow — institutional-channel alternative to SCHW | Med — direct RIA-custody rival |
-| Morgan Stanley ([MS](https://finance.yahoo.com/quote/MS) — Wealth + ETRADE) | Wirehouse + retail self-directed | ~$5.5T | Wide on advice; narrow on self-directed | Med — bundled-advice value prop different from SCHW |
-| Bank of America ([BAC](https://finance.yahoo.com/quote/BAC) — Merrill) | Wirehouse-bundled wealth | ~$3.6T (Merrill) | Wide on bundle, narrow on cost | Med — cross-sell of bank → wealth |
+| Fidelity Investments | Private — full-line retail + 401k | ≈$13–14T (incl. record-keeping) | Wide — comparable scale, no quarterly profit pressure | **High** — most direct rival; can compete on every dimension |
+| Vanguard | Private — passive index leader | ≈$10T+ (mostly advised + retail) | Wide on cost; narrow on service breadth | Med — competes for IRA/401k flows, weaker on active trading |
+| Robinhood ([HOOD](https://finance.yahoo.com/quote/HOOD)) | Public — retail broker (younger demo) | ≈$200B | Narrow — UX-led; weak on RIA / wealth | Med — premium-broker push (Gold, retirement) escalating; cohort-aging risk |
+| Interactive Brokers ([IBKR](https://finance.yahoo.com/quote/IBKR)) | Public — sophisticated / institutional | ≈$0.6T | Narrow — best-in-class active-trader tools, low cost | Med — competes for thinkorswim cohort |
+| eToro ([ETOR](https://finance.yahoo.com/quote/ETOR)) | Public — global social-trading | ≈$15B | None at SCHW scale | Low |
+| LPL Financial ([LPL](https://finance.yahoo.com/quote/LPL)) | Public — independent broker-dealer / RIA platform | ≈$1.7T | Narrow — advisor-network play | Med — direct RIA-custody competitor |
+| BNY Pershing | Custody / clearing for RIAs | ≈$2T+ RIA custody | Narrow — institutional-channel alternative to SCHW | Med — direct RIA-custody rival |
+| Morgan Stanley ([MS](https://finance.yahoo.com/quote/MS) — Wealth + ETRADE) | Wirehouse + retail self-directed | ≈$5.5T | Wide on advice; narrow on self-directed | Med — bundled-advice value prop different from SCHW |
+| Bank of America ([BAC](https://finance.yahoo.com/quote/BAC) — Merrill) | Wirehouse-bundled wealth | ≈$3.6T (Merrill) | Wide on bundle, narrow on cost | Med — cross-sell of bank → wealth |
 | Goldman Sachs ([GS](https://finance.yahoo.com/quote/GS)) | Wealth + Marcus retail | <$1T retail wealth | Narrow at retail scale | Low |
 | JPMorgan Self-Directed ([JPM](https://finance.yahoo.com/quote/JPM)) | Bank-bundled retail brokerage | small but growing | Narrow today, growing | **Med-High** — raised on Q1 2026 call as a sweep-friction reducer; flagged by mgmt as already-mitigated |
-| T. Rowe Price ([TROW](https://finance.yahoo.com/quote/TROW)) | Active asset manager | ~$1.7T | Narrow — fund-led, not platform | Low — different category |
+| T. Rowe Price ([TROW](https://finance.yahoo.com/quote/TROW)) | Active asset manager | ≈$1.7T | Narrow — fund-led, not platform | Low — different category |
 
 *Sources: [Statista — US online brokerages by AUM](https://www.statista.com/statistics/1294989/largest-online-brokers-united-states-by-aum/); peer 10-Ks; Schwab Q1 2026 release.*
 
 ### How Schwab's moat differs
 
-1. **Scale + integrated bank** is the unique combination — Fidelity has scale (and is the most direct rival overall), but Schwab is the only public broker with a **fully integrated bank** that funds the NII engine in-house. This is the structural reason NIM can sustain 2.85%+ vs. peers at 1.5–2%. **Evidence**: NIM 2.90% (FY2025) vs. IBKR ~3.5% (smaller balance sheet, different funding) vs. wirehouse-bundled wealth managers earning sub-2% on similar deposits.
-2. **RIA custody dominance (~$4T)** is the most defensible asset. The $4T sits with thousands of independent advisor practices whose ACATS/operational switching costs are quantifiably high. **Evidence**: Schwab's RIA-custody net-asset gathering remains positive every quarter through 2023–2025 even during the cash-sorting scare; TD Ameritrade's RIA practice was absorbed cleanly. Pershing and Fidelity Wealth Management compete here; LPL is the next-largest threat to specific advisor cohorts.
+1. **Scale + integrated bank** is the unique combination — Fidelity has scale (and is the most direct rival overall), but Schwab is the only public broker with a **fully integrated bank** that funds the NII engine in-house. This is the structural reason NIM can sustain 2.85%+ vs. peers at 1.5–2%. **Evidence**: NIM 2.90% (FY2025) vs. IBKR ≈3.5% (smaller balance sheet, different funding) vs. wirehouse-bundled wealth managers earning sub-2% on similar deposits.
+2. **RIA custody dominance (≈$4T)** is the most defensible asset. The $4T sits with thousands of independent advisor practices whose ACATS/operational switching costs are quantifiably high. **Evidence**: Schwab's RIA-custody net-asset gathering remains positive every quarter through 2023–2025 even during the cash-sorting scare; TD Ameritrade's RIA practice was absorbed cleanly. Pershing and Fidelity Wealth Management compete here; LPL is the next-largest threat to specific advisor cohorts.
 3. **Post-TDA active-trader retention** — Schwab now owns thinkorswim, which is the single best-in-class retail active-trader platform. This was missing from pre-TDA Schwab and was the structural gap vs. Robinhood and IBKR. **Evidence**: Q1 2026 DARTs at record 9.9M (+34% YoY) — directly attributable to thinkorswim retention through integration.
 4. **Brand + scale on advice/retirement** create the Boomer-rollover gravity well. Fidelity is the only peer with comparable trust + scale on the rollover/IRA side. **Evidence**: $158B Q1 2026 NNA — Q1 record despite a soft equity tape — with a meaningful share from rollovers.
 
@@ -258,9 +258,11 @@ Pulled from the [SCHW FY2025 10-K (filed Feb 2026; SEC accession 0000316709-26-0
 
 **Mike Verdeschi**: Q1 2026 call performance was clear and credible — explicitly raised the FY26 EPS bar above $5.70–$5.80, attributed it to *"lack of rate cuts,"* and quantified deposit growth ($8B sequential). Did not over-promise on the July refresh — noted *"upward momentum"* without guaranteeing a specific number.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: Q1 2026 $2.4B buyback (annualized ≈$10B) is the first large execution after a multi-year drought — the timing signal is *post-recovery* (stock near highs, earnings at records) rather than countercyclical. Dividend is the primary ongoing commitment (19% raise). The cash-sorting episode was navigated well operationally, not exploited as a buyback opportunity when the stock was cheap — which is the precise Outsider test Schwab fails. Excellent steward in every other dimension.
+
 **Capital allocation (transformed in Q1 2026)**:
 - **Dividend** — 19% increase announced Q1; first material raise since the cash-sorting period
-- **Buybacks** — $2.4B executed in Q1 (annualized ~$10B ≈ 6%+ of market cap); a step-change vs. the 2023–2025 buyback drought
+- **Buybacks** — $2.4B executed in Q1 (annualized ≈$10B ≈ 6%+ of market cap); a step-change vs. the 2023–2025 buyback drought
 - **M&A** — Forge Global acquisition completed (private markets / pre-IPO platform); no large M&A planned near-term
 - **Capital ratios** — Tier 1 leverage 6.8% in target band; capital-return capacity is *real* now, not aspirational
 
@@ -286,8 +288,8 @@ This subsection synthesizes 5 fiscal years of chairman/CEO communication: annual
 |---|---|---|---|
 | **FY2020 (Bettinger)** | TDA acquisition close; integration begins | Combined-firm scale rationale; long-term client benefit | TDA closed Oct 2020; integration ramp starts |
 | **FY2021 (Bettinger)** | Zero-rate environment; growth via asset gathering | Scale as competitive weapon; cost discipline | Revenue $18.5B; EPS $2.83 |
-| **FY2022 (Bettinger)** | NIM tailwind from rate hikes; record EPS | Operating leverage on scale | EPS $3.50 (+24%); NIM ~2.6% |
-| **FY2023 (Bettinger)** | Cash-sorting episode; trust-rebuild + funding-mix repair | Apology + remediation framing; long-term focus | EPS $2.54 (–27%); NIM trough 2.33%; FHLB peak ~$97B |
+| **FY2022 (Bettinger)** | NIM tailwind from rate hikes; record EPS | Operating leverage on scale | EPS $3.50 (+24%); NIM ≈2.6% |
+| **FY2023 (Bettinger)** | Cash-sorting episode; trust-rebuild + funding-mix repair | Apology + remediation framing; long-term focus | EPS $2.54 (–27%); NIM trough 2.33%; FHLB peak ≈$97B |
 | **FY2024 (Bettinger / Wurster transition)** | TDA integration completion; cash-sorting tail; succession to Wurster | *"Through Clients' Eyes"*; orderly transition | EPS $2.99; recovery underway; final conversions May 2024 |
 | **FY2025 (Wurster, first full year)** | Recovery + capital-return resumption + monetization-layer build | Strategic monetization expansion (advisory, ETF, crypto, AI, private markets) | EPS $4.65 (+55%); NIM 2.90%; high-cost debt → $5.1B; Q1 2026 records |
 
@@ -308,11 +310,11 @@ This subsection synthesizes 5 fiscal years of chairman/CEO communication: annual
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **NII monetization path** — NIM 2.90% → 2.85–2.95% guide → upward bias if Fed stays on hold. Each 10bps of NIM ≈ ~$400M pre-tax NII on the current asset base.
-2. **TD Ameritrade synergy realization** — Integration declared complete YE2025; ~$2B annual cost-synergy run-rate now flowing through 2026 P&L.
+1. **NII monetization path** — NIM 2.90% → 2.85–2.95% guide → upward bias if Fed stays on hold. Each 10bps of NIM ≈ ≈$400M pre-tax NII on the current asset base.
+2. **TD Ameritrade synergy realization** — Integration declared complete YE2025; ≈$2B annual cost-synergy run-rate now flowing through 2026 P&L.
 3. **Advisory & wealth expansion** — Schwab Wealth Advisory ($10B Q1 flows, +90% YoY); managed-investing flows +46%; higher-margin, more durable than NII.
 4. **Active-ETF monetization** — Live by year-end 2026; 400+ asset-manager partnerships in negotiation. Active-ETF fees materially richer than passive.
-5. **Digital assets (crypto)** — Platform rollout imminent at ~75bps per trade.
+5. **Digital assets (crypto)** — Platform rollout imminent at ≈75bps per trade.
 6. **Private markets** — Forge acquisition; pre-IPO access for retail/HNW clients.
 7. **AI differentiation** — Investor AI Assistant launching June 2026; generative search, portfolio insights, AI estate planning, tax planning tool, Team Investor Accounts (ages 13–17).
 8. **RIA custody growth** — Schwab Advisor Services gaining net new RIA assets; demographic + competitive tailwind.
@@ -326,7 +328,7 @@ Filtered for risks that are SCHW-specific, materially differentiated from peers,
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|------------|-------|
-| ⚠️ **Aggressive Fed cut cycle compresses NIM toward 2.0–2.3%** | High | Low–Medium | **Not yet priced in** | Bear-case driver. CFO Q1 2026 commentary suggests low near-term probability (*"upward momentum"*, *"lack of rate cuts"*); 100bps of cuts ≈ 30–50bps NIM compression ≈ $700M–$1.2B annual NII *[Estimate]*. Differentiated vs. peers because SCHW NII is ~49% of revenue (much higher than Fidelity/Vanguard). **Watch**: Fed dot-plot updates; sweep balance trends. |
+| ⚠️ **Aggressive Fed cut cycle compresses NIM toward 2.0–2.3%** | High | Low–Medium | **Not yet priced in** | Bear-case driver. CFO Q1 2026 commentary suggests low near-term probability (*"upward momentum"*, *"lack of rate cuts"*); 100bps of cuts ≈ 30–50bps NIM compression ≈ $700M–$1.2B annual NII *[Estimate]*. Differentiated vs. peers because SCHW NII is ≈49% of revenue (much higher than Fidelity/Vanguard). **Watch**: Fed dot-plot updates; sweep balance trends. |
 | ⚠️ **Cash-sorting re-emergence on rate spike or stress** | Medium | Low | Partially | The 2023 fault line. Balance sheet now structurally cleaner ($5.1B vs. $97B FHLB peak); brand framing repaired. Tail-risk only if a sustained rate spike forces sweep outflows again. **Watch**: sweep balance sequential trend (positive 2 consecutive quarters now). |
 | ⚠️ **Fidelity / Vanguard irrational price competition** | Medium | Medium | Partially | Both private; can compete without quarterly profit pressure. Has not materialized as a material drag through 2024–2025 but the structural threat is permanent. **Differentiated vs. peers**: SCHW is most exposed because Fidelity is the most direct full-line rival. |
 | ⚠️ **JPMorgan / wirehouse competitive escalation** | Medium | Medium | Not priced in | Raised on Q1 2026 call as a sweep-friction reducer. Mgmt described as already-mitigated; trajectory worth monitoring. JPM's bank-bundled retail brokerage is small but well-capitalized. |
@@ -335,7 +337,7 @@ Filtered for risks that are SCHW-specific, materially differentiated from peers,
 | ⚠️ **Macro / equity market drawdown (AUM compression)** | Medium | Medium | Partially | Each –10% market move ≈ –$1.0–1.2B fee-revenue annualized *[Estimate]*. Partially natural-hedged: market stress often coincides with Fed cuts driving NIM lower simultaneously, so the two risks compound rather than offset in a deep-recession scenario. |
 | ⚠️ Basel III endgame / capital-rule changes | Medium | Low–Medium | Not priced in | Tier 1 leverage at 6.8% has cushion within 6.75–7.00% target. Adverse rule change could compress capital-return runway. **Watch**: 2026 final rule timing. |
 
-**Thesis-break trigger (composite)**: 2 consecutive quarters of (a) NIM compression below 2.50% AND (b) sweep balance sequential decline, OR (c) FY26 EPS guidance *cut* below $5.70 at the July 2026 refresh, OR (d) buyback cadence below ~$1B/quarter for 2 consecutive quarters with no acquisition reason. Price alert at **$77** (52-wk-low retest) for thesis reassessment.
+**Thesis-break trigger (composite)**: 2 consecutive quarters of (a) NIM compression below 2.50% AND (b) sweep balance sequential decline, OR (c) FY26 EPS guidance *cut* below $5.70 at the July 2026 refresh, OR (d) buyback cadence below ≈$1B/quarter for 2 consecutive quarters with no acquisition reason. Price alert at **$77** (52-wk-low retest) for thesis reassessment.
 
 ### Risk Factor Evolution — multi-year synthesis
 
@@ -353,20 +355,20 @@ The single material insight from reading the 5-year 10-K Item 1A diff (FY2021 �
 4. **Trading volume & mix** — DARTs at record 9.9M (+34% YoY), but revenue per trade declining as traders take smaller, shorter-duration positions. Volume tailwind exceeding mix headwind net-net so far.
 5. **Regulatory regime (Basel III endgame, PFOF, gig-of-rules)** — Capital regime under Basel III endgame finalization; PFOF under SEC review; sweep-product regulation post-cash-sorting. None currently binding; all on monitor.
 
-**TAM & RIA migration trends**: U.S. retail investable wealth ≈ $50T+; SCHW at $11.8T is ~24% share. RIA channel continues to gain share from wirehouses (advisor-mobility tailwind); SCHW + Fidelity + Pershing + LPL are the four custodians benefiting. Demographic + advisor-mobility tailwinds support 5%+ organic NNA growth at SCHW into the medium term.
+**TAM & RIA migration trends**: U.S. retail investable wealth ≈ $50T+; SCHW at $11.8T is ≈24% share. RIA channel continues to gain share from wirehouses (advisor-mobility tailwind); SCHW + Fidelity + Pershing + LPL are the four custodians benefiting. Demographic + advisor-mobility tailwinds support 5%+ organic NNA growth at SCHW into the medium term.
 
 ---
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current multiples (May 28, 2026, $85.05 / ~$147.9B market cap)
+### Current multiples (May 28, 2026, $85.05 / ≈$147.9B market cap)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| P/E (FY2025 $4.65) | ~18.3× | TTM |
-| P/E (FY2026E $5.85) | **~14.5×** | Below historical 17–20× band; cheapest vs. raised guidance |
-| P/TBV *[Estimate]* | ~2.2× | Asset-type-primary metric; compressed further from April |
-| Dividend Yield (post-19% raise) | ~1.51% | $1.28 annual / $85.05 |
+| P/E (FY2025 $4.65) | ≈18.3× | TTM |
+| P/E (FY2026E $5.85) | **≈14.5×** | Below historical 17–20× band; cheapest vs. raised guidance |
+| P/TBV *[Estimate]* | ≈2.2× | Asset-type-primary metric; compressed further from April |
+| Dividend Yield (post-19% raise) | ≈1.51% | $1.28 annual / $85.05 |
 | FCF Yield | N/M | Not the primary metric for a bank holdco |
 | 1-Year Analyst Target | $115.85 ([Yahoo Finance](https://finance.yahoo.com/quote/SCHW)) | Implied upside +36%; 4 upgrades on May 15 |
 
@@ -374,14 +376,14 @@ The single material insight from reading the 5-year 10-K Item 1A diff (FY2021 �
 
 | Company | P/E (2026E) | P/TBV | Dividend Yield | NIM | Business |
 |---------|------------|-------|----------------|-----|----------|
-| **SCHW** | **~14.5×** | ~2.2× | 1.5% | 2.90% | #1 retail brokerage + RIA custodian + bank |
-| [IBKR](https://finance.yahoo.com/quote/IBKR) | ~22× | high | low | ~3.5% | Active / institutional trading |
-| [HOOD](https://finance.yahoo.com/quote/HOOD) | ~30× *[Estimate]* | n/a | none | n/a | Younger-demo retail broker |
-| [MS](https://finance.yahoo.com/quote/MS) (Wealth) | ~15× | ~2× | ~3% | mixed | Wirehouse / wealth |
-| [LPL](https://finance.yahoo.com/quote/LPL) | ~17× | ~5× | low | n/a | Independent broker-dealer / RIA platform |
-| [TROW](https://finance.yahoo.com/quote/TROW) | ~13× | ~3× | ~5% | n/a | Active asset manager |
+| **SCHW** | **≈14.5×** | ≈2.2× | 1.5% | 2.90% | #1 retail brokerage + RIA custodian + bank |
+| [IBKR](https://finance.yahoo.com/quote/IBKR) | ≈22× | high | low | ≈3.5% | Active / institutional trading |
+| [HOOD](https://finance.yahoo.com/quote/HOOD) | ≈30× *[Estimate]* | n/a | none | n/a | Younger-demo retail broker |
+| [MS](https://finance.yahoo.com/quote/MS) (Wealth) | ≈15× | ≈2× | ≈3% | mixed | Wirehouse / wealth |
+| [LPL](https://finance.yahoo.com/quote/LPL) | ≈17× | ≈5× | low | n/a | Independent broker-dealer / RIA platform |
+| [TROW](https://finance.yahoo.com/quote/TROW) | ≈13× | ≈3× | ≈5% | n/a | Active asset manager |
 
-**Valuation verdict — ATTRACTIVE (deepened).** At $85.05 the stock trades at ~14.5× FY26E EPS that *management raised above prior $5.70–$5.80 guide* — this is below the historical trough multiple and the cheapest the stock has been relative to raised guidance in this cycle. The May 2026 weakness is driven by non-fundamental catalysts (debt issuance narrative, 10b5-1 insider sales, short-interest uptick) while the May 15 analyst cluster upgraded 4 firms (Raymond James to $137, Barclays to $127, Deutsche Bank Buy $128, TD Cowen to $109). A re-rating to 18–20× on an EPS print of $5.90+ implies $106–118; the historical band puts even modest mean reversion at +25–40% from current.
+**Valuation verdict — ATTRACTIVE (deepened).** At $85.05 the stock trades at ≈14.5× FY26E EPS that *management raised above prior $5.70–$5.80 guide* — this is below the historical trough multiple and the cheapest the stock has been relative to raised guidance in this cycle. The May 2026 weakness is driven by non-fundamental catalysts (debt issuance narrative, 10b5-1 insider sales, short-interest uptick) while the May 15 analyst cluster upgraded 4 firms (Raymond James to $137, Barclays to $127, Deutsche Bank Buy $128, TD Cowen to $109). A re-rating to 18–20× on an EPS print of $5.90+ implies $106–118; the historical band puts even modest mean reversion at +25–40% from current.
 
 ---
 
@@ -394,8 +396,8 @@ The single material insight from reading the 5-year 10-K Item 1A diff (FY2021 �
 - **52-week range**: $84.72 – $107.50
 - **% from 52-wk high**: –20.9%
 - **% above 52-wk low**: +0.4% — essentially at 52-wk floor
-- **Market cap**: ~$147.9B
-- **Weakness narrative (non-fundamental)**: Three overlapping drivers since April 22 (–7.3% from $91.71 baseline): (1) May 21 debt issuance — $2.24B senior notes raised funding-cost concerns despite the long-dated, fixed-to-floating structure being consistent with normal balance-sheet management; (2) 10b5-1 insider selling — Charles Schwab ~1.19M shares (~$117M) over 6 months at ~$92 avg, Bettinger ~$34M; (3) short interest +14.84% MoM (crosses >10% threshold). No operating deterioration.
+- **Market cap**: ≈$147.9B
+- **Weakness narrative (non-fundamental)**: Three overlapping drivers since April 22 (–7.3% from $91.71 baseline): (1) May 21 debt issuance — $2.24B senior notes raised funding-cost concerns despite the long-dated, fixed-to-floating structure being consistent with normal balance-sheet management; (2) 10b5-1 insider selling — Charles Schwab ≈1.19M shares (≈$117M) over 6 months at ≈$92 avg, Bettinger ≈$34M; (3) short interest +14.84% MoM (crosses >10% threshold). No operating deterioration.
 
 ### Analyst Consensus
 
@@ -413,7 +415,7 @@ The single material insight from reading the 5-year 10-K Item 1A diff (FY2021 �
 
 *Source: [Daily Political — SCHW analyst changes 2026-05-26](https://www.dailypolitical.com/2026/05/26/recent-investment-analysts-ratings-changes-for-charles-schwab-schw.html)*
 
-- **Key disconnect**: Analysts upgraded at ~$90–91 on May 15; stock has since fallen to $85 — trading at or below pre-upgrade levels with median target $115.85. The gap (36% implied upside) is widening, not narrowing.
+- **Key disconnect**: Analysts upgraded at ≈$90–91 on May 15; stock has since fallen to $85 — trading at or below pre-upgrade levels with median target $115.85. The gap (36% implied upside) is widening, not narrowing.
 
 ### Short Interest
 
@@ -423,20 +425,20 @@ The single material insight from reading the 5-year 10-K Item 1A diff (FY2021 �
 
 ### Insider Activity (Last 90 Days)
 
-- ⚠️ **Co-Chairman Charles R. Schwab** — 10b5-1 plan selling: most recent disclosed at ~$92.40 avg; 6-month aggregate ~1.19M shares / ~$117M ([Quiver Quant](https://www.quiverquant.com/news/Charles+Schwab+slips+3.2%25+as+investors+digest+new+debt+issuance+and+recent+insider+selling), [OpenInsider — SCHW](http://openinsider.com/screener?s=SCHW))
-- ⚠️ **Co-Chairman Walt Bettinger** — 10b5-1 plan selling: ~324,924 shares / ~$33.8M over same 6-month window
+- ⚠️ **Co-Chairman Charles R. Schwab** — 10b5-1 plan selling: most recent disclosed at ≈$92.40 avg; 6-month aggregate ≈1.19M shares / ≈$117M ([Quiver Quant](https://www.quiverquant.com/news/Charles+Schwab+slips+3.2%25+as+investors+digest+new+debt+issuance+and+recent+insider+selling), [OpenInsider — SCHW](http://openinsider.com/screener?s=SCHW))
+- ⚠️ **Co-Chairman Walt Bettinger** — 10b5-1 plan selling: ≈324,924 shares / ≈$33.8M over same 6-month window
 - **Assessment**: Both are on 10b5-1 plans (pre-scheduled, non-discretionary) at tenure levels typical for founders/retiring executives. Not a signal of concern about operating outlook. The cadence weighs on near-term sentiment but is a known, recurring disclosure pattern.
 - *Verify directly via [SEC EDGAR Form 4 — SCHW](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000316709&type=4) for precise per-transaction data.*
 
 ### Recent Corporate News (Last 90 Days)
 
 - 📉 **[2026-05-27] [Sentiment]** — Stock –3.2% on digest of debt issuance + insider selling headlines ([Quiver Quant](https://www.quiverquant.com/news/Charles+Schwab+slips+3.2%25+as+investors+digest+new+debt+issuance+and+recent+insider+selling))
-- 💰 **[2026-05-21] [Debt Issuance]** — $1.0B 4.744% Fixed-to-Float Senior Notes due 2030 + $1.25B 5.493% Fixed-to-Float Senior Notes due 2037; net proceeds ~$2.236B; underwriters BofA / Citi / GS / JPM / WF ([SEC EDGAR 8-K](https://www.sec.gov/Archives/edgar/data/0000316709/000119312526234609/d227944d8k.htm))
+- 💰 **[2026-05-21] [Debt Issuance]** — $1.0B 4.744% Fixed-to-Float Senior Notes due 2030 + $1.25B 5.493% Fixed-to-Float Senior Notes due 2037; net proceeds ≈$2.236B; underwriters BofA / Citi / GS / JPM / WF ([SEC EDGAR 8-K](https://www.sec.gov/Archives/edgar/data/0000316709/000119312526234609/d227944d8k.htm))
 - **[2026-05-15] [Analyst]** — Analyst upgrade cluster: 4 upgrades (RJ $137 / Barclays $127 / DB $128 / Cowen $109) + Piper Sandler Neutral $105 ([Daily Political](https://www.dailypolitical.com/2026/05/26/recent-investment-analysts-ratings-changes-for-charles-schwab-schw.html))
 - **[2026-04-16] [Earnings]** — Q1 2026 results: revenue $6.5B (+16%), EPS $1.43 (+38%, beat $1.42), client assets $11.8T (+19%), core NNA $158B (Q1 record), DARTs 9.9M (+34%), bank loans $61B (+29%), 19% dividend hike, $2.4B buyback. CFO: FY26 EPS tracking *above* prior $5.70–$5.80 guide ([Q1 2026 8-K](https://www.sec.gov/Archives/edgar/data/316709/000031670926000016/a1q26exhibit991.htm), [Q1 2026 transcript](https://www.fool.com/earnings/call-transcripts/2026/04/16/schwab-schw-q1-2026-earnings-call-transcript/))
 - 💰 **[2026-04-16] [Capital]** — 19% dividend increase + $2.4B Q1 buyback executed ([Schwab Pressroom](https://pressroom.aboutschwab.com/))
 - 💰 **[2026-Q1] [M&A]** — Forge Global acquisition completed (private markets / pre-IPO platform) ([Schwab Pressroom](https://pressroom.aboutschwab.com/))
-- **[2026-Q1] [Strategic]** — Crypto platform pilot announced; rollout imminent at ~75bps per trade ([Schwab Pressroom](https://pressroom.aboutschwab.com/))
+- **[2026-Q1] [Strategic]** — Crypto platform pilot announced; rollout imminent at ≈75bps per trade ([Schwab Pressroom](https://pressroom.aboutschwab.com/))
 - **[2026-Q1] [Strategic]** — Investor AI Assistant scheduled for June 2026 launch ([Schwab Pressroom](https://pressroom.aboutschwab.com/))
 
 ### Upcoming Catalysts
@@ -448,7 +450,7 @@ The single material insight from reading the 5-year 10-K Item 1A diff (FY2021 �
 | 2H 2026 | Crypto platform full rollout | New revenue line at 75bps/trade |
 | YE 2026 | Active-ETF monetization platform "live" | 400+ asset-manager partnerships activated |
 | Ongoing | Fed FOMC dot-plot updates | Fed held 3.50–3.75% (Apr 29); June cut only 28% prob; each "no cuts" confirmation = direct NIM tailwind |
-| 💰 Ongoing | Buyback execution | If Q1's $2.4B pace continues, ~$10B/year ≈ 6.8%+ of current $147.9B cap |
+| 💰 Ongoing | Buyback execution | If Q1's $2.4B pace continues, ≈$10B/year ≈ 6.8%+ of current $147.9B cap |
 
 ---
 
@@ -462,11 +464,11 @@ The setup is unusually clean: stock prints a new 52-wk low *the day after* a cle
 
 Consensus has not yet absorbed:
 - FY26 EPS *above* $5.70–$5.80 (CFO statement, April 16);
-- Step-change in capital return ($2.4B Q1 buyback + 19% dividend raise) — annualized ~$10B buyback pace ≈ 6%+ of market cap;
+- Step-change in capital return ($2.4B Q1 buyback + 19% dividend raise) — annualized ≈$10B buyback pace ≈ 6%+ of market cap;
 - Multiple new monetization layers (active-ETF live by YE26, crypto at 75bps, Forge/private markets, AI assistant) layered onto the existing NII engine;
 - Bank-lending tailwind ($61B, +29% YoY) at low capital intensity;
 - Tier 1 leverage of 6.8% — capital-return runway is *quantified*, not theoretical.
-At ~15.7× FY26E EPS the multiple is already below the historical 17–20× band even *before* July's guide refresh.
+At ≈15.7× FY26E EPS the multiple is already below the historical 17–20× band even *before* July's guide refresh.
 
 ### I — Informational: **Strong**
 
@@ -479,14 +481,14 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 ### T — Technical: **Moderate-Strong**
 
 - Stock at 52-wk low ($84.72) in May 2026 = reinforced oversold technical setup;
-- $2.4B Q1 buyback creates mechanical bid at these levels; if Q2 pace is similar (~$2B), supports price floor near $84–$85;
+- $2.4B Q1 buyback creates mechanical bid at these levels; if Q2 pace is similar (≈$2B), supports price floor near $84–$85;
 - 19% dividend raise + 1.51% yield at $85 pulls in income-oriented buyers;
 - Short interest at +14.84% MoM but only 1.17% float — short-covering on any good news would be a tailwind;
 - No index-inclusion / split catalysts — limits upside on the technical lens vs. peers with mechanical flow.
 
 ### BAIT Verdict
 
-**Triple-Strong overlap (B + A + I), Moderate-Strong T = highest-conviction setup in this cycle.** The 52-wk low at essentially $85 after non-fundamental selling (debt narrative, 10b5-1 insider sales) while fundamentals are at all-time highs and 4 analysts upgraded in a single day is the cleanest behavioral mispricing SCHW has shown. The PW EV asymmetry at $85.05: bull-case re-rating to ~$130 represents +53% upside while bear-case to ~$72 (deep rate-cut scenario, NIM compresses to 2.2%) is only –15%. **R/R ~3.5:1** at this entry (anchored to §11 Bull/Bear midpoints per Rule #26) — improved from ~2:1 in April.
+**Triple-Strong overlap (B + A + I), Moderate-Strong T = highest-conviction setup in this cycle.** The 52-wk low at essentially $85 after non-fundamental selling (debt narrative, 10b5-1 insider sales) while fundamentals are at all-time highs and 4 analysts upgraded in a single day is the cleanest behavioral mispricing SCHW has shown. The PW EV asymmetry at $85.05: bull-case re-rating to ≈$130 represents +53% upside while bear-case to ≈$72 (deep rate-cut scenario, NIM compresses to 2.2%) is only –15%. **R/R ≈3.5:1** at this entry (anchored to §11 Bull/Bear midpoints per Rule #24) — improved from ≈2:1 in April.
 
 ---
 
@@ -496,7 +498,7 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 
 ### Bull Case — $130 (+53% from $85.05) — **Probability: 30%**
 - Fed remains on hold through 2026; NIM expands to 2.95–3.05%
-- TD synergies fully flowing; ~$2B run-rate
+- TD synergies fully flowing; ≈$2B run-rate
 - Active-ETF monetization + crypto + private markets contribute meaningful 2H26 revenue
 - FY26 EPS reaches $6.00–6.20; multiple re-rates to 21×
 - $6.10 × 21 ≈ $128
@@ -504,7 +506,7 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 ### Base Case — $108 (+27% from $85.05) — **Probability: 50%**
 - NIM holds 2.85–2.95% per guide; "no cuts" environment persists
 - FY26 EPS lands $5.85–$5.95 (above prior $5.70–$5.80 guide as CFO signaled)
-- Buyback continues at ~$2B/quarter pace; share count –3–4% YoY
+- Buyback continues at ≈$2B/quarter pace; share count –3–4% YoY
 - Multiple holds at 18×
 - $5.95 × 18 ≈ $107
 
@@ -512,9 +514,9 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 - Fed cuts 100–150bps in 2026 (recession-driven)
 - NIM compresses to 2.3–2.5%; FY26 EPS falls to $4.50–$4.80
 - Multiple compresses to 15×
-- $4.65 × 15 ≈ $70 (round to $72 to reflect floor support from ~$2.4B/qtr buyback bid)
+- $4.65 × 15 ≈ $70 (round to $72 to reflect floor support from ≈$2.4B/qtr buyback bid)
 
-**Asymmetry**: Bull +53%, Base +27%, Bear –15%. **R/R ~3.5:1 favorable** (Bull / Bear ratio) — materially improved from ~2:1 at the April $91.71 baseline as price has declined with no fundamental change.
+**Asymmetry**: Bull +53%, Base +27%, Bear –15%. **R/R ≈3.5:1 favorable** (Bull / Bear ratio) — materially improved from ≈2:1 at the April $91.71 baseline as price has declined with no fundamental change.
 
 ---
 
@@ -525,25 +527,25 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 | Bull | $130 | 30% | $39.00 |
 | Base | $108 | 50% | $54.00 |
 | Bear | $72 | 20% | $14.40 |
-| **PW EV (18-mo)** | | | **~$107.40** |
+| **PW EV (18-mo)** | | | **≈$107.40** |
 
 | Current Price | PW EV | Return (18-mo) | Annualized |
 |--------------|-------|----------------|-----------|
-| $85.05 | $107 | **+26%** | ~+17% / yr |
+| $85.05 | $107 | **+26%** | ≈+17% / yr |
 
-**Interpretation**: At $85.05 the stock offers a **+26% probability-weighted return** over 18 months — up from +17% at the April $91.71 baseline — because the price has dropped with no change to fundamental scenarios. The bear downside is now only –15% (vs. –21% previously) since the bear case floor ($72) is closer to current price. **Headline R/R per Rule #26: ~3.5:1** (Bull +53% / Bear –15%, anchored to §11 midpoints). May 2026 selling was non-fundamental (debt issuance narrative + 10b5-1 plan insider sales + short-interest uptick); the lower entry price has *improved* the risk/reward setup on an unchanged thesis. The thesis-break-anchored R/R (using $77 as downside) is ~7.5:1 — the tightest it has ever been.
+**Interpretation**: At $85.05 the stock offers a **+26% probability-weighted return** over 18 months — up from +17% at the April $91.71 baseline — because the price has dropped with no change to fundamental scenarios. The bear downside is now only –15% (vs. –21% previously) since the bear case floor ($72) is closer to current price. **Headline R/R per Rule #24: ≈3.5:1** (Bull +53% / Bear –15%, anchored to §11 midpoints). May 2026 selling was non-fundamental (debt issuance narrative + 10b5-1 plan insider sales + short-interest uptick); the lower entry price has *improved* the risk/reward setup on an unchanged thesis. The thesis-break-anchored R/R (using $77 as downside) is ≈7.5:1 — the tightest it has ever been.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Charles Schwab is the largest U.S. retail brokerage, fresh off a clean post-cash-sorting balance sheet and a complete TD Ameritrade integration; Q1 2026 confirmed structural earnings power (record revenue, +38% EPS, FY26 guide bar *raised* above prior $5.70–$5.80) yet the stock is at its 52-week low at $85.05 on non-fundamental selling — at ~14.5× FY26E EPS with a R/R of ~3.5:1, this is a Buffett-class quality compounder available at its cheapest level relative to raised guidance.
+**Thesis in one sentence**: Charles Schwab is the largest U.S. retail brokerage, fresh off a clean post-cash-sorting balance sheet and a complete TD Ameritrade integration; Q1 2026 confirmed structural earnings power (record revenue, +38% EPS, FY26 guide bar *raised* above prior $5.70–$5.80) yet the stock is at its 52-week low at $85.05 on non-fundamental selling — at ≈14.5× FY26E EPS with a R/R of ≈3.5:1, this is a Buffett-class quality compounder available at its cheapest level relative to raised guidance.
 
-**For a non-holder**: 🟢 **Initiate** at $85.05 — at ~14.5× FY26E EPS (below historical 17–20× band) with fundamentals at record levels and May weakness entirely non-fundamental; median analyst target $115.85 implies 36% upside.
+**For a non-holder**: 🟢 **Initiate** at $85.05 — at ≈14.5× FY26E EPS (below historical 17–20× band) with fundamentals at record levels and May weakness entirely non-fundamental; median analyst target $115.85 implies 36% upside.
 
-**For a current holder**: 🟢 **Add** — May 2026 weakness is explained by three non-fundamental catalysts (debt issuance, 10b5-1 insider sales, short-interest uptick); no operating deterioration. R/R improved to ~3.5:1 from ~2:1 in April. The thesis-break triggers remain intact. This is the add setup, not a threat.
+**For a current holder**: 🟢 **Add** — May 2026 weakness is explained by three non-fundamental catalysts (debt issuance, 10b5-1 insider sales, short-interest uptick); no operating deterioration. R/R improved to ≈3.5:1 from ≈2:1 in April. The thesis-break triggers remain intact. This is the add setup, not a threat.
 
-🎯 **Attractive entry zone**: **$80 – $93** (rationale: 13.5–16× FY26E EPS of $5.85; below historical 17–20× band; current $85.05 is squarely inside this zone; supported by ~$2.4B/quarter buyback floor)
+🎯 **Attractive entry zone**: **$80 – $93** (rationale: 13.5–16× FY26E EPS of $5.85; below historical 17–20× band; current $85.05 is squarely inside this zone; supported by ≈$2.4B/quarter buyback floor)
 
 🎯 **Trim zone**: **$118 – $130** (rationale: 20–22× FY26E EPS; above historical mid-cycle band; required full credit for active-ETF / crypto / private-markets monetization plus continued buyback compounding)
 
@@ -553,9 +555,9 @@ Primary-source disclosures from the April 16 call that mainstream coverage hasn'
 - ⚠️ Fed cuts 150+bps in 2026 *and* cash sorting visibly re-emerges (sweep balances reverse 2 consecutive quarters)
 - ⚠️ NIM falls below 2.50% for 2 consecutive quarters
 - ⚠️ FY26 EPS guidance *cut* below $5.70 at the July 2026 refresh
-- ⚠️ TD Ameritrade synergy run-rate disclosed below $1.5B (vs. ~$2B target)
+- ⚠️ TD Ameritrade synergy run-rate disclosed below $1.5B (vs. ≈$2B target)
 - ⚠️ Major PFOF regulatory ruling that materially reduces trading revenue
-- ⚠️ Buyback cadence falls below ~$1B/quarter for 2 consecutive quarters with no acquisition reason
+- ⚠️ Buyback cadence falls below ≈$1B/quarter for 2 consecutive quarters with no acquisition reason
 - ⚠️ Tier 1 leverage ratio falls below 6.5% (capital constraint)
 - ⚠️ Daily-average trades decline >15% YoY for 2 consecutive quarters with no offsetting NIM gain
 - ⚠️ Schwab Wealth Advisory or managed-investing flow growth turns negative

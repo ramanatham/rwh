@@ -1,6 +1,6 @@
 # TREX — Trex Company, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Active
 **Live Price**: **$39.91** (2026-05-09 close, post-Q1 print; +6.2% on earnings day) — [Yahoo Finance](https://finance.yahoo.com/quote/TREX)
@@ -17,7 +17,7 @@
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $29.77 – $68.78 | $39.91 (~28%) | $28 | <$42 | $60 / **$58** | $65 – $75 | $85 | **≈3.7:1** |
+| $29.77 – $68.78 | $39.91 (≈28%) | $28 | <$42 | $60 / **$58** | $65 – $75 | $85 | **≈3.7:1** |
 
 ### KPI Strip
 
@@ -43,7 +43,7 @@
 
 ## Business Overview
 
-Trex Company (NYSE: TREX) is the **largest U.S. manufacturer of wood-alternative composite decking and railing**, manufactured from ~95% recycled content (post-industrial polyethylene film + reclaimed hardwood fiber). The "Trex" brand is functionally synonymous with composite decking in the U.S. consumer market and reaches end customers through a hybrid channel: **Home Depot + Lowe's big-box** (a meaningful share of revenue) and a **6,700+ specialty pro-dealer network**. Manufacturing is vertically integrated at Winchester, VA and the new Little Rock, AR facility (which is ramping through 2026 and contributes ~100bps of GM headwind via depreciation in the near term but lowers per-unit cost at full utilization).
+Trex Company (NYSE: TREX) is the **largest U.S. manufacturer of wood-alternative composite decking and railing**, manufactured from ≈95% recycled content (post-industrial polyethylene film + reclaimed hardwood fiber). The "Trex" brand is functionally synonymous with composite decking in the U.S. consumer market and reaches end customers through a hybrid channel: **Home Depot + Lowe's big-box** (a meaningful share of revenue) and a **6,700+ specialty pro-dealer network**. Manufacturing is vertically integrated at Winchester, VA and the new Little Rock, AR facility (which is ramping through 2026 and contributes ≈100bps of GM headwind via depreciation in the near term but lowers per-unit cost at full utilization).
 
 FY2025 revenue was ≈$1.13B with adjusted EPS of $1.88; FY2026 guidance (reaffirmed on Q1 print) is **revenue $1.185B–$1.230B and Adjusted EBITDA $315M–$340M** ([Q4 2025 PR, BusinessWire, 2026-02-24](https://www.businesswire.com/news/home/20260224569700/en/Trex-Company-Reports-Fourth-Quarter-and-Full-Year-2025-Results); [Q1 2026 PR, BusinessWire, 2026-05-07](https://www.businesswire.com/news/home/20260507430582/en/Trex-Company-Reports-Solid-First-Quarter-2026-Results)). Q1 2026 net sales were **$343M (+1% YoY)**, with EPS of $0.59 (beat by $0.08) and GM of 40.5% (100bps above plan). Adam Zambanini (CEO effective late April 2026) delivered his first earnings call on May 7, outlining five strategic priorities: brand loyalty, high-performance innovation, channel optimization, railing cost reduction, and growth enablement through talent and technology.
 
@@ -51,10 +51,10 @@ FY2025 revenue was ≈$1.13B with adjusted EPS of $1.88; FY2026 guidance (reaffi
 
 ## Pivotal Investment Question
 
-> **Is the –39% drawdown to $41.90 pricing a multi-year rate-stuck R&R recession, or is the structural composite-vs-wood share-gain story (76% of decking TAM still traditional wood, ~50bps/yr conversion) intact and the next housing-cycle upturn a multi-bagger setup compounded by a 4.5%/yr buyback yield?**
+> **Is the –39% drawdown to $41.90 pricing a multi-year rate-stuck R&R recession, or is the structural composite-vs-wood share-gain story (76% of decking TAM still traditional wood, ≈50bps/yr conversion) intact and the next housing-cycle upturn a multi-bagger setup compounded by a 4.5%/yr buyback yield?**
 
 The answer turns on three sub-questions:
-1. **Cycle**: When does mortgage-rate relief unlock the ~30M aging U.S. residential decks (15+ years old) in the replacement queue?
+1. **Cycle**: When does mortgage-rate relief unlock the ≈30M aging U.S. residential decks (15+ years old) in the replacement queue?
 2. **Share**: Does Trex sustain **50–60% of composite category share** as AZEK / Fiberon push at the premium tier (Transcend / TimberTech competition)?
 3. **Capacity**: Does the Little Rock ramp deliver targeted unit-cost reduction by FY27, or does over-build show up as fixed-cost deleverage if the cycle delays?
 
@@ -92,11 +92,11 @@ The answer turns on three sub-questions:
 
 | Metric | FY2021 | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 Guide |
 |--------|--------|--------|--------|--------|--------|--------------|
-| Revenue | ~$1.20B | $1.11B | $1.10B | $1.16B | ~$1.13B | $1.185–1.230B |
+| Revenue | ≈$1.20B | $1.11B | $1.10B | $1.16B | ≈$1.13B | $1.185–1.230B |
 | YoY Growth | +37% | –7% | –1% | +5% | –3% | +5–9% |
-| Gross Margin | 38.5% | 35.5% | 38.5% | 41.7% | ~36.5% | ~35–36% |
-| Adj. EBITDA | ~$390M | $283M | $314M | $352M | ~$330M | $315–340M |
-| Adj. EBITDA Margin | ~32.5% | 25% | 28.5% | 30.4% | ~29% | ~27% |
+| Gross Margin | 38.5% | 35.5% | 38.5% | 41.7% | ≈36.5% | ≈35–36% |
+| Adj. EBITDA | ≈$390M | $283M | $314M | $352M | ≈$330M | $315–340M |
+| Adj. EBITDA Margin | ≈32.5% | 25% | 28.5% | 30.4% | ≈29% | ≈27% |
 | Adj. EPS | $2.45 | $1.66 | $1.88 | $2.10 | $1.88 | n/a |
 | FCF (approx.) | $200M | $195M | $235M | $260M | $230M | n/a |
 
@@ -116,9 +116,9 @@ The answer turns on three sub-questions:
 
 TREX reports **a single residential reportable segment** ("Trex Residential") covering decking, railing, lighting, and outdoor-living accessories ([FY2024 10-K, SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1069878/000095017025025780/trex-20241231.htm)). Segment-level commentary in MD&A across the multi-year window highlights three drivers worth synthesizing:
 
-- **FY2022→FY2024 GM expansion** from 35.5% → 41.7% was driven by recycled-PE input cost normalization, manufacturing yield improvement at Winchester, and mix shift toward premium Transcend/Signature tiers. FY2025's reset to 36.5% is **not a structural reversal** — it is the Little Rock D&A ramp (~100bps headwind) plus a one-time FIFO inventory accounting change and a $6M warranty reserve adjustment in Q4.
-- **Capacity strategy**: Little Rock was conceived in 2021 to add ~70% capacity for the projected post-pandemic demand surge. The cycle compressed before Little Rock came fully online — so unit economics in FY26 reflect *carrying* the new capacity at sub-target utilization. Bull case: when housing turnover normalizes, Little Rock contributes 200–300bps of margin via fixed-cost absorption + lower per-unit logistics.
-- **Channel diversification**: management has progressively pulled revenue mix toward the **specialty pro/dealer channel** (~50% of sales, growing) and away from over-reliance on big-box, with the dealer-count target rising from ~6,000 (FY2022) to **6,700+ today** with a stated path toward 8,000+. This reduces big-box pricing leverage over time.
+- **FY2022→FY2024 GM expansion** from 35.5% → 41.7% was driven by recycled-PE input cost normalization, manufacturing yield improvement at Winchester, and mix shift toward premium Transcend/Signature tiers. FY2025's reset to 36.5% is **not a structural reversal** — it is the Little Rock D&A ramp (≈100bps headwind) plus a one-time FIFO inventory accounting change and a $6M warranty reserve adjustment in Q4.
+- **Capacity strategy**: Little Rock was conceived in 2021 to add ≈70% capacity for the projected post-pandemic demand surge. The cycle compressed before Little Rock came fully online — so unit economics in FY26 reflect *carrying* the new capacity at sub-target utilization. Bull case: when housing turnover normalizes, Little Rock contributes 200–300bps of margin via fixed-cost absorption + lower per-unit logistics.
+- **Channel diversification**: management has progressively pulled revenue mix toward the **specialty pro/dealer channel** (≈50% of sales, growing) and away from over-reliance on big-box, with the dealer-count target rising from ≈6,000 (FY2022) to **6,700+ today** with a stated path toward 8,000+. This reduces big-box pricing leverage over time.
 
 ---
 
@@ -128,38 +128,38 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 | Product line | Share (est.) | Trajectory | Notes |
 |---|---|---|---|
-| Decking (Transcend, Signature, Enhance, Select) | ~85% | Low single-digit growth in FY26 | Premium Transcend tier carries highest unit margin |
-| Railing (Trex Signature Railing, Select Railing, Enhance Railing) | ~10% (growing) | **Double-digit growth FY25 + FY26 guide** | 24% of FY25 sales were "new products" — railing is the lead. Stated target: **double railing share by YE 2028**. |
-| Lighting + accessories + outdoor living (RainEscape, etc.) | ~5% | Cross-sell engine | Smaller absolute, supports decking ASP |
+| Decking (Transcend, Signature, Enhance, Select) | ≈85% | Low single-digit growth in FY26 | Premium Transcend tier carries highest unit margin |
+| Railing (Trex Signature Railing, Select Railing, Enhance Railing) | ≈10% (growing) | **Double-digit growth FY25 + FY26 guide** | 24% of FY25 sales were "new products" — railing is the lead. Stated target: **double railing share by YE 2028**. |
+| Lighting + accessories + outdoor living (RainEscape, etc.) | ≈5% | Cross-sell engine | Smaller absolute, supports decking ASP |
 
 ### Channel mix
 
 | Channel | Share (est.) | Notes |
 |---|---|---|
-| Home Depot + Lowe's (big-box) | ~50% | Brand-defining shelf presence; pricing leverage |
-| Specialty Pro / Dealer network | ~50% (growing) | 6,700+ dealers; install-base pull-through; Trex Pro program |
+| Home Depot + Lowe's (big-box) | ≈50% | Brand-defining shelf presence; pricing leverage |
+| Specialty Pro / Dealer network | ≈50% (growing) | 6,700+ dealers; install-base pull-through; Trex Pro program |
 
 ### Geographic mix
 
 | Region | FY2025 share (est.) | Notes |
 |---|---|---|
-| United States | ~95% | Core market |
-| Canada + International | ~5% | Limited footprint; not a 2026 lever |
+| United States | ≈95% | Core market |
+| Canada + International | ≈5% | Limited footprint; not a 2026 lever |
 
-**Forward shifts**: dealer-channel mix continues rising vs. big-box; **railing % of total grows** from ~10% toward mid-teens by FY28 if doubling target hits; international remains optionality, not a base-case driver.
+**Forward shifts**: dealer-channel mix continues rising vs. big-box; **railing % of total grows** from ≈10% toward mid-teens by FY28 if doubling target hits; international remains optionality, not a base-case driver.
 
 ---
 
 ## Section 3 — Competitive Moat & Landscape
 
-**Moat verdict**: 🟢 **Narrow and widening** — anchored on (a) brand recognition (the Trex name is generic for "composite decking" with U.S. consumers), (b) recycled-content cost advantage (~400M lbs/yr scrim feedstock pipeline that newer entrants cannot replicate cheaply), (c) distribution density (big-box shelf + 6,700 specialty pros), and (d) manufacturing scale. The moat *widens* over time because the composite-vs-wood category itself is taking share at ~50bps/yr against a 76% wood-dominated TAM ([Trex Q1 2025 IR deck, Investing.com](https://www.investing.com/news/company-news/trex-q1-2025-presentation-slides-market-leader-targets-wood-conversion-for-growth-93CH-4097787)) — every 1% wood-to-composite conversion = **~$80M of incremental industry composite sales**, of which TREX captures 50–60%.
+**Moat verdict**: 🟢 **Narrow and widening** — anchored on (a) brand recognition (the Trex name is generic for "composite decking" with U.S. consumers), (b) recycled-content cost advantage (≈400M lbs/yr scrim feedstock pipeline that newer entrants cannot replicate cheaply), (c) distribution density (big-box shelf + 6,700 specialty pros), and (d) manufacturing scale. The moat *widens* over time because the composite-vs-wood category itself is taking share at ≈50bps/yr against a 76% wood-dominated TAM ([Trex Q1 2025 IR deck, Investing.com](https://www.investing.com/news/company-news/trex-q1-2025-presentation-slides-market-leader-targets-wood-conversion-for-growth-93CH-4097787)) — every 1% wood-to-composite conversion = **≈$80M of incremental industry composite sales**, of which TREX captures 50–60%.
 
 ### Moat sources
 
 | Source | Strength | Evidence |
 |---|---|---|
 | Brand (Trex = composite decking) | Strong | Category-defining name; consumer-search dominance |
-| Recycled-content cost flywheel | Strong | ~400M lbs/yr feedstock pipeline; vertical integration |
+| Recycled-content cost flywheel | Strong | ≈400M lbs/yr feedstock pipeline; vertical integration |
 | Manufacturing scale | Moderate | Winchester + Little Rock; fixed-cost leverage at full utilization |
 | Specialty pro channel density | Moderate | 6,700+ dealers; install-base pull-through; Trex Pro program |
 | Big-box shelf | Moderate (double-edged) | HD + LOW lead role helps awareness but creates pricing leverage |
@@ -176,16 +176,16 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 | Peer | Type | Approx. position | Threat read |
 |---|---|---|---|
-| **AZEK / TimberTech** ([AZEK](https://www.azekco.com/)) | Direct composite peer (PVC cap-stock) | ~3–8% of $8B U.S. composite-decking TAM; #2 | Premium-tier competitor; well-capitalized; pushing aggressively in pro channel and adjacencies (Versatex, Ultralox). Closest peer on EV/EBITDA. |
+| **AZEK / TimberTech** ([AZEK](https://www.azekco.com/)) | Direct composite peer (PVC cap-stock) | ≈3–8% of $8B U.S. composite-decking TAM; #2 | Premium-tier competitor; well-capitalized; pushing aggressively in pro channel and adjacencies (Versatex, Ultralox). Closest peer on EV/EBITDA. |
 | **Fiberon** (subsidiary of [Fortune Brands FBIN](https://www.fbin.com/)) | Composite peer | Mid-single-digit composite share | Diversified parent; mid-tier composite; channel overlap with TREX dealers. |
 | **MoistureShield** (Oldcastle / [CRH](https://www.crh.com/)) | Composite | Smaller share | Mid-tier; less brand reach. |
 | **Deckorators** (subsidiary of [UFP Industries / UFPI](https://www.ufpi.com/)) | Composite + mineral-based | Smaller share | Niche; Vault mineral-composite differentiator. |
-| **Pressure-treated lumber (PT)** | Wood substitute (incumbent) | ~76% of total decking TAM | Price floor; the *thing being displaced*. Every 1% conversion ≈ +$80M industry composite sales. |
+| **Pressure-treated lumber (PT)** | Wood substitute (incumbent) | ≈76% of total decking TAM | Price floor; the *thing being displaced*. Every 1% conversion ≈ +$80M industry composite sales. |
 | **Cedar / hardwood / vinyl** | Wood substitutes | Niche | Aesthetic/discretionary; lower threat. |
 
 **How TREX's moat differs**:
-- **Brand**: TREX is genericized for "composite decking" with consumers; AZEK is recognized in the trade but lacks the same consumer search-share. This is a marketing flywheel — Home Depot end-cap signage + ~$80M+ annual marketing spend.
-- **Recycled-content cost lead**: TREX's polyethylene-film + reclaimed-wood pipeline is a multi-decade infrastructure moat; AZEK's PVC cap-stock model is more virgin-resin-exposed and therefore more sensitive to ethylene/chlorine cost cycles. **Evidence**: through-cycle GM for TREX has averaged ~36–40% vs. AZEK ~31–35%.
+- **Brand**: TREX is genericized for "composite decking" with consumers; AZEK is recognized in the trade but lacks the same consumer search-share. This is a marketing flywheel — Home Depot end-cap signage + ≈$80M+ annual marketing spend.
+- **Recycled-content cost lead**: TREX's polyethylene-film + reclaimed-wood pipeline is a multi-decade infrastructure moat; AZEK's PVC cap-stock model is more virgin-resin-exposed and therefore more sensitive to ethylene/chlorine cost cycles. **Evidence**: through-cycle GM for TREX has averaged ≈36–40% vs. AZEK ≈31–35%.
 - **Distribution density**: TREX has both big-box ubiquity *and* 6,700+ specialty pros; few peers have both legs.
 
 **Tail-risk read**: AZEK is the only well-capitalized peer with the balance sheet to escalate share-of-shelf battles. Fortune Brands' Fiberon is the second concern but lacks AZEK's brand investment. Wood (PT lumber) is the much larger long-term substitution opportunity than peer share loss.
@@ -207,11 +207,13 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 **Brenda Lovcik (CFO since 2022)** — disciplined operator; led the FIFO inventory accounting transition (Q4 2025 GM optics noise) and the multi-year buyback program execution.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Outsider-leaning**: Consistent buybacks at trough multiples; no dividend; organic-growth focus; $50M Q4 2025 + $150M 1H 2026 authorization executed into the cyclical trough (lowest multiples since 2019). Multi-year share count reduction without dilutive M&A is the Singleton pattern applied to a building-materials compounder.
+
 **Capital allocation track record**:
-- **💰 Buybacks**: $50M Q4 2025 + $150M new 1H 2026 authorization = ~4.5% buyback yield at $4.35B cap; meaningful at trough multiples.
-- **No dividend** (intentional — capital returned via buybacks, FY24 share count down ~3% YoY).
+- **💰 Buybacks**: $50M Q4 2025 + $150M new 1H 2026 authorization = ≈4.5% buyback yield at $4.35B cap; meaningful at trough multiples.
+- **No dividend** (intentional — capital returned via buybacks, FY24 share count down ≈3% YoY).
 - **M&A**: minimal; organic-growth focus.
-- **Capex**: Little Rock (multi-hundred-million-dollar facility) is the major recent investment; D&A drag ~100bps GM headwind in FY26 before utilization absorbs.
+- **Capex**: Little Rock (multi-hundred-million-dollar facility) is the major recent investment; D&A drag ≈100bps GM headwind in FY26 before utilization absorbs.
 
 ### Recent Management Commentary — Primary Source Synthesis
 
@@ -222,7 +224,7 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 | Period | Framework emphasis | Key signals |
 |---|---|---|
 | Late 2022 | Channel destocking + cost reset | "Right-sizing inventory in the channel; positioning for normalized 2024" |
-| 2023 | Margin recovery + dealer-channel acceleration | GM rebuilt 35.5% → 38.5%; dealer count ~6,000 → 6,300 |
+| 2023 | Margin recovery + dealer-channel acceleration | GM rebuilt 35.5% → 38.5%; dealer count ≈6,000 → 6,300 |
 | 2024 | Premium-tier mix + Little Rock decision | GM peaks 41.7%; capacity bet locked in for late-cycle |
 | 2025 | **Railing strategic pivot** + Little Rock ramp | "Double railing share by YE 2028"; new products = 24% of sales |
 | 2026 (Q1 print) | **De-risked cycle trough; channel lean; CEO transition** | Q1 EPS beat $0.08; GM 40.5%; channel 30–40 days; Arkansas 2027 target; Zambanini's 5 priorities confirmed continuity |
@@ -238,27 +240,27 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **🎯 Railing share doubling by YE 2028** — top stated priority. TREX's railing share is currently sub-leading; doubling it adds ~$100M+ in incremental revenue at higher mix. **Underwritten by**: new Signature Railing line + dealer-channel push + DIY-friendly modular SKUs.
-2. **Little Rock, AR capacity ramp** — FY26 D&A drag, FY27+ unit-cost lift. Adds ~70% capacity; positions TREX for the next cycle inflection without 24-month build lead time.
+1. **🎯 Railing share doubling by YE 2028** — top stated priority. TREX's railing share is currently sub-leading; doubling it adds ≈$100M+ in incremental revenue at higher mix. **Underwritten by**: new Signature Railing line + dealer-channel push + DIY-friendly modular SKUs.
+2. **Little Rock, AR capacity ramp** — FY26 D&A drag, FY27+ unit-cost lift. Adds ≈70% capacity; positions TREX for the next cycle inflection without 24-month build lead time.
 3. **Premium mix shift (Transcend, Signature)** — higher GM per board-foot; multi-year tailwind even in flat-volume scenarios.
 4. **Specialty pro / dealer channel expansion** — 6,700 → 8,000+ dealer goal; reduces big-box pricing leverage.
 5. **Trex Outdoor Living adjacencies** — RainEscape (under-deck drainage), outdoor lighting, fasteners — cross-sell engine on existing decking installs.
-6. **Buyback compounding** — $200M+ authorized over 12 months at $4.35B cap = ~4.5% per-share accretion, compounded at trough multiples.
+6. **Buyback compounding** — $200M+ authorized over 12 months at $4.35B cap = ≈4.5% per-share accretion, compounded at trough multiples.
 7. **Wood-conversion marketing** — every 1% of the 76% wood-dominated decking TAM converted = $80M industry composite sales; TREX captures 50–60%.
 
 ---
 
 ## Section 6 — Key Risks
 
-*Materiality-filtered per Rule #25 — boilerplate (generic cyber, generic supply-chain, generic personnel) dropped. Each row tied to either peer-differentiation, not-priced-in, thesis-break trigger, or large discretionary investment.*
+*Materiality-filtered per Rule #23 — boilerplate (generic cyber, generic supply-chain, generic personnel) dropped. Each row tied to either peer-differentiation, not-priced-in, thesis-break trigger, or large discretionary investment.*
 
 | Risk | Impact | Probability | Priced-In? | Notes |
 |---|---|---|---|---|
 | ⚠️ **Mortgage rates stay 6.5%+ for sustained period** | High | 50% | Partially (–39% drawdown reflects some) but the 7%+ tail is **not priced in** | Compresses housing turnover and discretionary R&R; peer-differentiated only modestly (AZEK exposed similarly) but TREX's higher ASP makes it more rate-sensitive than mid-tier composite |
-| ⚠️ **Little Rock capacity over-build / sub-utilization** | High | 20% | **Partially de-risked** — 2027 regional-launch timeline now stated | Large discretionary investment (Rule #25(d)). D&A drag quantified at 170–180bps of the 250bps FY26 headwind. If cycle trough extends past FY27, absorption delayed — but 2027 date anchor narrows the tail |
+| ⚠️ **Little Rock capacity over-build / sub-utilization** | High | 20% | **Partially de-risked** — 2027 regional-launch timeline now stated | Large discretionary investment (Rule #23(d)). D&A drag quantified at 170–180bps of the 250bps FY26 headwind. If cycle trough extends past FY27, absorption delayed — but 2027 date anchor narrows the tail |
 | ⚠️ **Housing R&R recession deepens beyond guide** | High | 30% | Partially | FY26 guide assumes flat-to-down R&R; LIRA index implies modest deceleration. A real R&R contraction (–5%+) would break the guide |
 | ⚠️ **AZEK accelerates premium-tier share gain** | Medium | 30% | Not priced in below 2pts/qtr | Direct competition; TREX has brand lead but AZEK is well-capitalized and pushing pro channel |
-| **Big-box concentration pricing pressure** | Medium | 30% | Mostly priced in | HD + LOW ~50% of sales — long-known structural; mitigation = dealer-channel growth |
+| **Big-box concentration pricing pressure** | Medium | 30% | Mostly priced in | HD + LOW ≈50% of sales — long-known structural; mitigation = dealer-channel growth |
 | **Polyethylene scrap-feedstock cost spike** | Medium | 25% | Not priced in beyond historical band | Recycled-content moat is also a single-input concentration; sustained PE-film scarcity (e.g., recycling-mandate shifts) could compress GM |
 | **Railing strategy under-delivery (2028 doubling miss)** | Medium | 25% | Not priced in | Stated 2028 doubling is aggressive; under-delivery would compress mid-cycle EBITDA growth algorithm |
 | **Warranty / quality issue on new products** | Low-Medium | 15% | Watch (Q4 2025 $6M reserve adjustment) | New-product mix is 24% of sales — higher field-failure tail risk than mature SKUs |
@@ -269,11 +271,11 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 ## Section 7 — Industry-Specific Macro Analysis
 
-- **U.S. decking TAM**: ~$8B annually (composite + wood combined). [Grand View Research](https://www.grandviewresearch.com/industry-analysis/us-composite-railing-decking-market-report) projects U.S. composite railing & decking growing at ~11% CAGR 2025–2033 (composite alone ~13.3% CAGR). Composite still **<25% of total decking material share** — long runway.
-- **Wood substitution penetration**: traditional pressure-treated lumber + cedar/hardwood = ~76% of total decking TAM ([Trex Q1 2025 IR deck](https://www.investing.com/news/company-news/trex-q1-2025-presentation-slides-market-leader-targets-wood-conversion-for-growth-93CH-4097787)). Each 1% wood-to-composite conversion = ~$80M industry composite sales / $40–48M to TREX. Conversion rate has averaged ~50bps/yr.
-- **Housing R&R cycle**: U.S. R&R spend ~$500B in 2024; LIRA (Joint Center for Housing Studies leading indicator of remodeling activity) implies modest deceleration through mid-2026. Discretionary outdoor projects (decks) are higher beta than core R&R (kitchens, baths).
-- **Mortgage-rate sensitivity**: 30-year mortgage at ~6.5% → existing-home sales running ~4.0M annualized pace (vs. 5.5M+ historical norm). Each ~50bps cut estimated to add ~5–8% to housing turnover, with decking demand following on a 6–12-month lag.
-- **Aging deck installed base**: ~60M U.S. residential decks; ~30M aged 15+ years = replacement-cycle demand floor. This is the secular underpinning of the bear case's downside support.
+- **U.S. decking TAM**: ≈$8B annually (composite + wood combined). [Grand View Research](https://www.grandviewresearch.com/industry-analysis/us-composite-railing-decking-market-report) projects U.S. composite railing & decking growing at ≈11% CAGR 2025–2033 (composite alone ≈13.3% CAGR). Composite still **<25% of total decking material share** — long runway.
+- **Wood substitution penetration**: traditional pressure-treated lumber + cedar/hardwood = ≈76% of total decking TAM ([Trex Q1 2025 IR deck](https://www.investing.com/news/company-news/trex-q1-2025-presentation-slides-market-leader-targets-wood-conversion-for-growth-93CH-4097787)). Each 1% wood-to-composite conversion = ≈$80M industry composite sales / $40–48M to TREX. Conversion rate has averaged ≈50bps/yr.
+- **Housing R&R cycle**: U.S. R&R spend ≈$500B in 2024; LIRA (Joint Center for Housing Studies leading indicator of remodeling activity) implies modest deceleration through mid-2026. Discretionary outdoor projects (decks) are higher beta than core R&R (kitchens, baths).
+- **Mortgage-rate sensitivity**: 30-year mortgage at ≈6.5% → existing-home sales running ≈4.0M annualized pace (vs. 5.5M+ historical norm). Each ≈50bps cut estimated to add ≈5–8% to housing turnover, with decking demand following on a 6–12-month lag.
+- **Aging deck installed base**: ≈60M U.S. residential decks; ≈30M aged 15+ years = replacement-cycle demand floor. This is the secular underpinning of the bear case's downside support.
 - **Regulatory tailwind**: state-level recycled-content mandates and circular-economy policies (CA SB 54, EU EPR-style frameworks) advantage TREX's vertical recycling pipeline.
 
 ---
@@ -297,16 +299,16 @@ TREX reports **a single residential reportable segment** ("Trex Residential") co
 
 | Peer | Model | EV/EBITDA (FY26E) | P/E Fwd | Note |
 |---|---|---|---|---|
-| **TREX** | Composite decking + railing | **~13×** | ~21× | At cyclical trough |
-| AZEK | PVC composite + outdoor living | ~14× | ~25× | Direct comp; premium tier |
-| FBIN (Fortune Brands) | Plumbing + outdoor + security | ~10× | ~14× | Diversified housing |
-| MAS (Masco) | Building products | ~12× | ~16× | Cyclical exposure |
-| UFPI (UFP Industries) | Wood + composite (Deckorators) | ~9× | ~13× | More wood-heavy mix |
+| **TREX** | Composite decking + railing | **≈13×** | ≈21× | At cyclical trough |
+| AZEK | PVC composite + outdoor living | ≈14× | ≈25× | Direct comp; premium tier |
+| FBIN (Fortune Brands) | Plumbing + outdoor + security | ≈10× | ≈14× | Diversified housing |
+| MAS (Masco) | Building products | ≈12× | ≈16× | Cyclical exposure |
+| UFPI (UFP Industries) | Wood + composite (Deckorators) | ≈9× | ≈13× | More wood-heavy mix |
 
 ### "Fair price" range (3-year)
 
-- **Mid-cycle EBITDA $375M × 15× = $5.6B EV → ~$54/share** (assuming flat share count) or **~$58/share** with ~6% buyback compression.
-- **Trough-multiple framing**: TREX's –39% drawdown has compressed it to ~13× FY26E EBITDA — broadly in line with prior cycle troughs (2018, 2022) which both subsequently re-rated to 17–20× over 18–24 months. Trough multiple is the appropriate frame for cyclical-leader entry.
+- **Mid-cycle EBITDA $375M × 15× = $5.6B EV → ≈$54/share** (assuming flat share count) or **≈$58/share** with ≈6% buyback compression.
+- **Trough-multiple framing**: TREX's –39% drawdown has compressed it to ≈13× FY26E EBITDA — broadly in line with prior cycle troughs (2018, 2022) which both subsequently re-rated to 17–20× over 18–24 months. Trough multiple is the appropriate frame for cyclical-leader entry.
 
 **Assessment**: Parity-with-AZEK on EV/EBITDA despite TREX's stronger brand, larger scale, and higher buyback yield is **moderately attractive**. The drawdown is housing-cycle-driven, not company-specific; the multi-year setup is asymmetric if rates inflect.
 
@@ -387,7 +389,7 @@ Q1 2026 print explicitly quantified the GM headwind composition (170–180bps D&
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*All scenarios are 5-year (FY2031E) terminal prices per Rule #26. Probabilities sum to 100%.*
+*All scenarios are 5-year (FY2031E) terminal prices per Rule #24. Probabilities sum to 100%.*
 
 ### Bull — $85 (FY2031E) — **+113% / ≈16% CAGR** — **Probability: 25%**
 - Mortgage rates inflect to <6% by mid-2027; R&R cycle re-accelerates; Little Rock at full national utilization by FY2029.
@@ -420,7 +422,7 @@ Q1 2026 print explicitly quantified the GM headwind composition (170–180bps D&
 |---|---|---|---|
 | $39.91 | $58 | **+45%** | **≈+7.7% / yr** |
 
-**R/R framing (per Rule #26, anchored to Section 11)**:
+**R/R framing (per Rule #24, anchored to Section 11)**:
 - **Bull / Bear ratio**: ($85 – $39.91) / ($39.91 – $28) = $45.09 / $11.91 = **≈3.8:1**.
 - Probability-adjusted: ($21.25 + $30.00 reward) / $7.00 bear = **≈7.3:1 PW reward/risk**.
 - **Headline R/R ≈ 3.7:1** (rounded, anchored to §11).
@@ -446,7 +448,7 @@ Q1 2026 print explicitly quantified the GM headwind composition (170–180bps D&
 
 **Thesis-break triggers** ⚠️ (would force re-rating):
 - ⚠️ FY26 revenue guide cut below $1.10B
-- ✅ ~~Q1 or Q2 2026 GM below 32% sustained~~ — DE-RISKED 2026-05-07 (Q1 GM 40.5%; FIFO/warranty noise fully absorbed)
+- ✅ ≈≈Q1 or Q2 2026 GM below 32% sustained≈≈ — DE-RISKED 2026-05-07 (Q1 GM 40.5%; FIFO/warranty noise fully absorbed)
 - ⚠️ Q2 or Q3 2026 GM below 35% sustained (new threshold; tests whether 37.5% FY guide holds)
 - ⚠️ Composite-vs-wood share growth stalls (<30bps/yr conversion)
 - ⚠️ AZEK takes >2pts share in any single quarter

@@ -1,6 +1,6 @@
 # PG — The Procter & Gamble Company
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Active
 **Live Price**: $147.90 (2026-05-10; last close May 6, 2026) — [Yahoo Finance](https://finance.yahoo.com/quote/PG)
@@ -16,7 +16,7 @@
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $137.62 – $170.99 | $147.90 (~37%) | $110 | <$148 | $165 / **$159** | $170 – $180 | $185 | **≈1.4:1** |
+| $137.62 – $170.99 | $147.90 (≈37%) | $110 | <$148 | $165 / **$159** | $170 – $180 | $185 | **≈1.4:1** |
 
 ### KPI Strip
 
@@ -223,6 +223,8 @@ P&G manages its geographic portfolio in two tiers: **Focus Markets** (North Amer
 
 **Jon Moeller** (Executive Chairman): Led PG through the COVID pricing surge and the 2022 commodity cost crisis. Announced April 2025 guidance cut citing tariffs; announced own succession July 2025; stepped down as CEO January 1, 2026. Notable: Moeller sold ≈173,000 shares (≈$28M) in the 6 months prior to April 2026 — the largest insider sell cluster in recent history. Selling by a departing CEO is expected but the magnitude warrants monitoring ([Fintel insider activity — PG](https://fintel.io/sn/us/pg)).
 
+**[Outsider grade](../../frameworks/outsiders.md) — Steward (not Outsider)**: 70 consecutive years of dividend increases; $16B+ returned annually with capital tilted ≈3:2 dividends-to-buybacks; buybacks are programmatic, not countercyclical. The definitive Dividend King — P&G is the reference archetype for excellent-steward-but-not-Outsider.
+
 **Capital allocation track record** (Moeller era, FY2021–FY2025):
 - Returned $16B+ to shareholders annually ($9.9B dividends + $6.5B buybacks in FY2025 alone)
 - Maintained 70 consecutive years of dividend increases (Dividend King status)
@@ -266,7 +268,7 @@ The five-year arc of P&G's annual letters under Moeller traces a shift from **co
 
 ## Section 6 — Key Risks
 
-*Materiality filter applied per Rule #25: risks below are differentiated from peers, tied to thesis-break triggers, or tied to large discretionary bets. Generic boilerplate excluded.*
+*Materiality filter applied per Rule #23: risks below are differentiated from peers, tied to thesis-break triggers, or tied to large discretionary bets. Generic boilerplate excluded.*
 
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|-----------|-------|
@@ -437,7 +439,7 @@ Q3 FY2026 primary data (beat, volume growth, all-segment positive) is the first 
 
 ## Section 11 — Bull / Bear / Base Cases
 
-*Scenarios use a 5-year terminal horizon (FY2031E) per Rule #26. Probabilities updated from pre-Q3 baseline.*
+*Scenarios use a 5-year terminal horizon (FY2031E) per Rule #24. Probabilities updated from pre-Q3 baseline.*
 
 | Scenario | Conditions | Price Range | Midpoint | Probability |
 |----------|-----------|-------------|----------|-------------|
@@ -492,9 +494,9 @@ Q3 FY2026 primary data (beat, volume growth, all-segment positive) is the first 
 - ⚠️ Multiple compression below 17× without earnings deterioration — signals structural staples de-rating beyond PG-specific issues
 
 ✅ **Resolved triggers**:
-- ~~⚠️ Q3 FY2026 organic growth ≤0%~~ — ✅ **DE-RISKED [2026-04-24]**: Organic +3%, volume +2%
-- ~~⚠️ Tariff headwind expansion above $1.5B for FY2026~~ — ✅ **DE-RISKED [2026-04-24]**: $400M after-tax confirmed, within guidance
-- ~~⚠️ Dividend freeze during restructuring year~~ — ✅ **DE-RISKED [2026-04-14]**: +3% raise declared; 70th consecutive increase
+- ≈≈⚠️ Q3 FY2026 organic growth ≤0%≈≈ — ✅ **DE-RISKED [2026-04-24]**: Organic +3%, volume +2%
+- ≈≈⚠️ Tariff headwind expansion above $1.5B for FY2026≈≈ — ✅ **DE-RISKED [2026-04-24]**: $400M after-tax confirmed, within guidance
+- ≈≈⚠️ Dividend freeze during restructuring year≈≈ — ✅ **DE-RISKED [2026-04-14]**: +3% raise declared; 70th consecutive increase
 
 📅 **Next review trigger**: **Q4 FY2026 earnings — late July 2026**. This is the critical second confirmation print. Beat + sustained volume + FY2027 guide ≥3% organic → upgrade to Initiate (full position for non-holders). Miss or organic reversion → downgrade toward Avoid.
 

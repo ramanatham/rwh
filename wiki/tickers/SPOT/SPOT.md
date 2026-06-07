@@ -1,24 +1,24 @@
 # SPOT — Spotify Technology S.A.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-22
 **Status**: Active
-**Live Price**: $489.93 (May 21 2026 close, +13.1%; trading ~$520 intraday May 22, [Yahoo Finance](https://finance.yahoo.com/quote/SPOT))
+**Live Price**: $489.93 (May 21 2026 close, +13.1%; trading ≈$520 intraday May 22, [Yahoo Finance](https://finance.yahoo.com/quote/SPOT))
 
 ---
 
 ## Summary
 
-🟡 **Thesis in one sentence**: Spotify's May 21 Investor Day put management conviction behind the margin-expansion thesis (2030 targets: **35–40% gross margin** vs. 32% today, **>20% operating margin**, **1B MAU**), and a landmark **UMG AI-covers/remixes licensing deal** turned the feared label-and-AI overhang into a collaborative monetization path — but the resulting **+17% two-day re-rating to ~$490–520** closes the deep-value entry window the post-Q1 sell-off briefly opened.
+🟡 **Thesis in one sentence**: Spotify's May 21 Investor Day put management conviction behind the margin-expansion thesis (2030 targets: **35–40% gross margin** vs. 32% today, **>20% operating margin**, **1B MAU**), and a landmark **UMG AI-covers/remixes licensing deal** turned the feared label-and-AI overhang into a collaborative monetization path — but the resulting **+17% two-day re-rating to ≈$490–520** closes the deep-value entry window the post-Q1 sell-off briefly opened.
 🟡 **Non-holder: Watch** · 🟡 **Holder: Hold**
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $405 – $785 | $490 (~22%ile) | $420 | ≤$540 | **$680** | $680–850 | $850 | **~5:1** |
+| $405 – $785 | $490 (≈22%ile) | $420 | ≤$540 | **$680** | $680–850 | $850 | **≈5:1** |
 
 | BAIT | Moat | FY26E P/E (fwd) | FCF yield | Short int. | Next catalyst |
 |---|---|---|---|---|---|
-| 2 strong / 2 mod | Wide & Widening | ~33× | ~3.5% | ~3.5–4.5% | Q2 2026 (late Jul) |
+| 2 strong / 2 mod | Wide & Widening | ≈33× | ≈3.5% | ≈3.5–4.5% | Q2 2026 (late Jul) |
 
 **🟢 Why**
 - Investor Day **2030 targets** (35–40% gross margin, >20% op margin, mid-teens revenue CAGR, 1B MAU) put hard management guidance behind the GM-expansion thesis the bull case rests on.
@@ -26,7 +26,7 @@
 - AGM (Apr 15) approved the **10M-share buyback** (>99% for); Q1 buyback €306M + €1.3B notes retired; capital-return cadence accelerating under Ek as Executive Chairman.
 
 **⚠️ Why not**
-- The +17% pop to ~$490–520 closes the $400–450 entry; a 5-year PW EV of ~$680 implies only ~7%/yr from here — much of the Investor Day optimism is now priced.
+- The +17% pop to ≈$490–520 closes the $400–450 entry; a 5-year PW EV of ≈$680 implies only ≈7%/yr from here — much of the Investor Day optimism is now priced.
 - The **core music royalty renegotiation (UMG/Sony/WMG) 2026–2028 is still ahead** — the AI deal is incremental, and Sony/WMG have not signed even the AI agreement.
 - FX translation drag persists (EUR-reporting); Q2 Premium net-add recovery (the NA price-elasticity question) is still unproven.
 
@@ -50,9 +50,9 @@ If yes: FCF compounds at 25–30%/year off the FY2025 €2.87B base, justifying 
 
 | Metric | Value | As of |
 |---|---|---|
-| Live Price | $489.93 | 2026-05-21 close (+13.1%); ~$520 intraday May 22 |
+| Live Price | $489.93 | 2026-05-21 close (+13.1%); ≈$520 intraday May 22 |
 | 52-week Range | $405.00 – $785.00 | [Yahoo Finance](https://finance.yahoo.com/quote/SPOT) |
-| Market Cap | ~$100B | 2026-05-21 |
+| Market Cap | ≈$100B | 2026-05-21 |
 | Cash & ST Investments | €8.8B | Q1 2026 |
 | Net Debt | Net cash position | Q1 2026 |
 | FY2025 Revenue | €17.19B (+10% Y/Y; +13% c.c.) | Q4 2025 6-K |
@@ -222,11 +222,13 @@ Growth decelerated from +22% in FY2022 to ≈+2% in FY2025 — essentially flat 
 
 **Gustav Söderström (Co-CEO)** — joined Spotify 2009, Chief Product & Technology Officer prior. Drove product, personalization, and AI investment — including the 2024–2025 generative-AI features (DJ, AI Playlist).
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reforming**: 2022–2023 podcast spree was *"the worst capital-allocation period in company history"* — empire-building at premium prices. Since then: three layoff rounds, cost discipline reset, first-ever buyback ($510M FY2025 + €306M Q1 2026), and Ek taking direct personal ownership of capital allocation as Executive Chairman. AGM 10M-share mandate over 5 years shows institutional commitment. Too early to call Outsider — the reforming track record is 2–3 years old; the test is whether buybacks accelerate into the next weakness, not the current recovery.
+
 **Capital allocation track record**:
 - **2022–2023 podcast overinvestment**: Acquired Gimlet, The Ringer, Megaphone, Anchor 2019–2020; signed exclusive Joe Rogan deal 2020 (≈$200M; renewed at higher level 2024). Net result: ≈€800M of cumulative goodwill impairment + content write-downs through 2023; arguably the worst capital-allocation period in company history.
 - **2023–2024 cost discipline reset**: Three rounds of layoffs in 2023 (≈17% of workforce by year-end); operating expense base normalized; FY2024 inflected to €1.37B operating income.
 - **2024–2025 buyback initiation**: First-ever ≈$1B buyback authorized 2024; FY2025 buybacks $510M + $1.3B Exchangeable Notes retirement; Q1 2026 buybacks €306M ([Q1 2026 6-K](https://www.stocktitan.net/sec-filings/SPOT/6-k-spotify-technology-s-a-current-report-foreign-issuer-2cb5cf1afd06.html)).
-- **2026 AGM (held April 15, 2026)**: shareholders approved all eight resolutions, including a fresh **10-million-share repurchase mandate over 5 years** (470.2M for vs. 2.3M against — >99% approval), FY2025 annual accounts, director discharge, re-election of the full board (no additions/departures; A-directors Ek, Lorentzon, Mehrotra; B-directors incl. Norström, Söderström, Sarandos, McCarthy, Staggs, Warrior, et al.), and Ernst & Young (Luxembourg) as auditor. Director remuneration drew the highest dissent (~12% against) — modest pay pushback, not a blocking concern. No dividend (consistent with history). ([AGM results 6-K, SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001639920/000114036126017211/ef20071303_ex99-1.htm); [Globe and Mail recap](https://www.theglobeandmail.com/investing/markets/stocks/SPOT/pressreleases/1355947/spotify-shareholders-back-board-auditor-and-new-buyback-authorization-at-2026-agm/))
+- **2026 AGM (held April 15, 2026)**: shareholders approved all eight resolutions, including a fresh **10-million-share repurchase mandate over 5 years** (470.2M for vs. 2.3M against — >99% approval), FY2025 annual accounts, director discharge, re-election of the full board (no additions/departures; A-directors Ek, Lorentzon, Mehrotra; B-directors incl. Norström, Söderström, Sarandos, McCarthy, Staggs, Warrior, et al.), and Ernst & Young (Luxembourg) as auditor. Director remuneration drew the highest dissent (≈12% against) — modest pay pushback, not a blocking concern. No dividend (consistent with history). ([AGM results 6-K, SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001639920/000114036126017211/ef20071303_ex99-1.htm); [Globe and Mail recap](https://www.theglobeandmail.com/investing/markets/stocks/SPOT/pressreleases/1355947/spotify-shareholders-back-board-auditor-and-new-buyback-authorization-at-2026-agm/))
 
 ### Recent Management Commentary — Primary Source Synthesis
 
@@ -256,9 +258,9 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 
 ## Section 5 — Strategic Growth Initiatives
 
-**Investor Day (May 21, 2026) — 2030 framework**: management set explicit long-term targets — mid-teens revenue CAGR, **gross margin 35–40%** (vs. 32% FY2025), **operating margin above 20%**, and **1 billion MAU before 2030** — alongside FY2025 proof points ($11B music payouts +10%, ~€3B FCF, +18pts of operating-margin expansion since 2022, +70% U.S. customer LTV since 2022). The product roadmap below is the machinery meant to deliver it. ([Investor Day recap](https://newsroom.spotify.com/2026-05-21/investor-day-recap/)).
+**Investor Day (May 21, 2026) — 2030 framework**: management set explicit long-term targets — mid-teens revenue CAGR, **gross margin 35–40%** (vs. 32% FY2025), **operating margin above 20%**, and **1 billion MAU before 2030** — alongside FY2025 proof points ($11B music payouts +10%, ≈€3B FCF, +18pts of operating-margin expansion since 2022, +70% U.S. customer LTV since 2022). The product roadmap below is the machinery meant to deliver it. ([Investor Day recap](https://newsroom.spotify.com/2026-05-21/investor-day-recap/)).
 
-1. **Tiered add-ons / Music Pro** — At the Investor Day, Spotify signaled *multiple vertical add-on tiers* (music, podcasts, audiobooks, AI) rather than a single "Music Pro" SKU. The **AI Covers/Remixes** tool (enabled by the UMG deal) will be a **paid Premium add-on** (pricing/launch TBD). UMG public projection: 20–30% of subscribers upgrade within 3 years; ~50% of resulting ARPU uplift flows to labels via royalty step-up. Bull case: the rest drops to Spotify's gross margin. ([Music Business Worldwide](https://www.musicbusinessworldwide.com/spotify-to-launch-music-pro-service-with-superfan-perks-like-early-access-tickets-and-ai-remix-tool-for-up-to-5-99-more-per-month-report/)).
+1. **Tiered add-ons / Music Pro** — At the Investor Day, Spotify signaled *multiple vertical add-on tiers* (music, podcasts, audiobooks, AI) rather than a single "Music Pro" SKU. The **AI Covers/Remixes** tool (enabled by the UMG deal) will be a **paid Premium add-on** (pricing/launch TBD). UMG public projection: 20–30% of subscribers upgrade within 3 years; ≈50% of resulting ARPU uplift flows to labels via royalty step-up. Bull case: the rest drops to Spotify's gross margin. ([Music Business Worldwide](https://www.musicbusinessworldwide.com/spotify-to-launch-music-pro-service-with-superfan-perks-like-early-access-tickets-and-ai-remix-tool-for-up-to-5-99-more-per-month-report/)).
 2. **Audiobooks+** — on track for **$100M ARR by July 2026**; adding family/student plans; creation tools in beta June 2026. 15hr/month remains included in Premium. Strategic value: shifts share-of-listening to a category where per-stream music royalty doesn't apply — structurally accretive to gross margin.
 3. **"Reserved by Spotify" (concert tickets)** — superfan ticket pre-access, launching summer 2026 in the U.S. with **Live Nation** as confirmed partner (multi-year deal, no added fee, Spotify-exclusive inventory set aside). A live-music monetization wedge and engagement/retention lever. ([Music Business Worldwide](https://www.musicbusinessworldwide.com/spotify-to-reserve-concert-tickets-for-superfans-on-premium-tier-live-nation-confirmed-as-launch-partner-as-companies-strike-multi-year-deal/)).
 4. **Podcast Memberships** — creator-subscription toolset (transcripts, chapters, real-time Q&A) launching "soon"; deepens the creator side of the network and adds a podcast monetization rail beyond ads.
@@ -307,16 +309,16 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 
 *Sources*: [stockanalysis.com SPOT statistics](https://stockanalysis.com/stocks/spot/statistics/); [GuruFocus NFLX EV/EBITDA](https://www.gurufocus.com/term/enterprise-value-to-ebitda/NFLX).
 
-**Assessment**: At ~$490 (post-Investor-Day), SPOT trades at ≈28–30x FY2026E EV/FCF and ~33x trailing P/E — back into premium territory after the +17% re-rating. For a business compounding FCF at 25–30%/yr with a wide moat, net-cash balance sheet, and now management-guided margin expansion to 35–40% by 2030, this is a **fair multiple** — neither the trough the post-Q1 $429 level offered nor the $785 January peak. The Investor Day raised the floor (credible 2030 framework) while the price move removed the discount. Bear case anchors near $350–420 (label-renegotiation overhang caps GM); Bull case near $800+ (upper-half 2030 targets delivered, AI/superfan add-ons monetize).
+**Assessment**: At ≈$490 (post-Investor-Day), SPOT trades at ≈28–30x FY2026E EV/FCF and ≈33x trailing P/E — back into premium territory after the +17% re-rating. For a business compounding FCF at 25–30%/yr with a wide moat, net-cash balance sheet, and now management-guided margin expansion to 35–40% by 2030, this is a **fair multiple** — neither the trough the post-Q1 $429 level offered nor the $785 January peak. The Investor Day raised the floor (credible 2030 framework) while the price move removed the discount. Bear case anchors near $350–420 (label-renegotiation overhang caps GM); Bull case near $800+ (upper-half 2030 targets delivered, AI/superfan add-ons monetize).
 
 ---
 
 ## Section 9 — Catalyst & Sentiment Tracker
 
-**Live price + 52-wk range**: $489.93 (May 21 2026 close, +13.1% on the Investor Day / UMG-deal surge; trading ~$520 intraday May 22), –37.6% from 52-wk high $785, +21% from 52-wk low $405. ([Yahoo Finance](https://finance.yahoo.com/quote/SPOT)).
+**Live price + 52-wk range**: $489.93 (May 21 2026 close, +13.1% on the Investor Day / UMG-deal surge; trading ≈$520 intraday May 22), –37.6% from 52-wk high $785, +21% from 52-wk low $405. ([Yahoo Finance](https://finance.yahoo.com/quote/SPOT)).
 
 **Analyst consensus** (post-Investor Day, as of 2026-05-22, [MarketBeat](https://www.marketbeat.com/stocks/NYSE/SPOT/forecast/)):
-- Moderate/Strong Buy consensus — ~21 Buy / 6 Hold / 0 Sell
+- Moderate/Strong Buy consensus — ≈21 Buy / 6 Hold / 0 Sell
 - **Median price target ≈$650**; range $400–$900
 - **Post-Investor-Day cluster (May 22, 2026)** — every tracked firm *raised* its target (all ratings maintained), reversing the post-Q1 cuts; the cluster is the dominant Section 9 event of this update:
 
@@ -332,7 +334,7 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 
   *Themes*: Morgan Stanley framed the day as *"Don't Stop Believing"* — more credibility earned than at the 2022 outlook event. JPMorgan raised 2030 estimates (+10% revenue, +16% gross profit, +40% EPS). Jefferies said the day *"helped ease concerns around long-term margin pressure from AI."* *Sources*: [JPMorgan — Investing.com](https://www.investing.com/news/analyst-ratings/jpmorgan-raises-spotify-stock-price-target-on-ai-deal-2030-goals-93CH-4705889); [Morgan Stanley — MarketBeat](https://www.marketbeat.com/instant-alerts/morgan-stanley-boosts-spotify-technology-nysespot-price-target-to-61000-2026-05-22/); [Jefferies — Yahoo Finance](https://ca.finance.yahoo.com/news/spotify-investor-day-eases-margin-170800761.html).
 
-**Short interest**: ≈3.5–4.5% of float (≈7.1M shares short); **+12.35% MoM**, ~2.8 days-to-cover ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/SPOT/short-interest/) / [Fintel](https://fintel.io/ss/us/spot)). The MoM rise (post-Q1 skeptics adding before the Investor Day squeeze) is worth flagging, but absolute level is modest — no squeeze setup.
+**Short interest**: ≈3.5–4.5% of float (≈7.1M shares short); **+12.35% MoM**, ≈2.8 days-to-cover ([MarketBeat](https://www.marketbeat.com/stocks/NYSE/SPOT/short-interest/) / [Fintel](https://fintel.io/ss/us/spot)). The MoM rise (post-Q1 skeptics adding before the Investor Day squeeze) is worth flagging, but absolute level is modest — no squeeze setup.
 
 **Insider activity (last 90 days)**:
 - 2026-04-03 cluster: Co-CEO Söderström net sale ≈20,833 shares; Co-CEO Norström net sale ≈5,436 shares. Both via option-exercise-and-sell. ([Stocktitan](https://www.stocktitan.net/sec-filings/SPOT/form-4-spotify-technology-s-a-insider-trading-activity-cf69fefce7f5.html)).
@@ -356,8 +358,8 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 
 ## Section 10 — BAIT Framework (Mauboussin)
 
-- **B (Behavioral) — Moderate**: The post-Q1 fear (op-income guide miss, –13%) reversed sharply on the Investor Day (+13% in a day, +17% over two). The behavioral edge that existed at $405–429 has largely been arbitraged away by the re-rating to ~$490–520; chasing the +17% pop is the new behavioral risk. Sentiment has flipped from skepticism to optimism quickly.
-- **A (Analytical) — Moderate-Strong**: Management has now *published* the margin path (35–40% GM, >20% op margin by 2030) the bull case depended on, and the UMG deal de-risks the AI/label flashpoint. But at ~$490 a 5-year PW EV of ~$680 implies only ~7%/yr — the analytical asymmetry has compressed; the easy gap closed with the price move.
+- **B (Behavioral) — Moderate**: The post-Q1 fear (op-income guide miss, –13%) reversed sharply on the Investor Day (+13% in a day, +17% over two). The behavioral edge that existed at $405–429 has largely been arbitraged away by the re-rating to ≈$490–520; chasing the +17% pop is the new behavioral risk. Sentiment has flipped from skepticism to optimism quickly.
+- **A (Analytical) — Moderate-Strong**: Management has now *published* the margin path (35–40% GM, >20% op margin by 2030) the bull case depended on, and the UMG deal de-risks the AI/label flashpoint. But at ≈$490 a 5-year PW EV of ≈$680 implies only ≈7%/yr — the analytical asymmetry has compressed; the easy gap closed with the price move.
 - **I (Informational) — Moderate**: The actionable primary-source detail is the Investor Day 2030 target framework and the UMG deal mechanics (opt-in, revenue-share) — both reframe the structural debate, but they are now widely covered, reducing the informational edge.
 - **T (Technical) — Moderate**: Decisive breakout from the $405–445 post-Q1 base on heavy volume into the Investor Day; net-cash balance sheet + active 10M-share buyback. Momentum has flipped positive, but the stock is now well off support.
 
@@ -371,13 +373,13 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 
 | Scenario | Probability | 5-yr Terminal (≈2030/31) | Key drivers |
 |---|---|---|---|
-| 🟢 **Bull+** | 10% | $1,050 | High end of 2030 targets — GM ~40%, op margin ~24%, ~€38B revenue; AI/superfan add-ons monetize; multiple holds ~25x EV/FCF |
-| 🟢 **Bull** | 25% | $850 | Upper-half of targets — GM ~37%, op margin ~21%; UMG-style AI deals extend to Sony/WMG; ~€34B revenue |
-| 🟡 **Base** | 40% | $660 | Management hits midpoint of 2030 targets — GM ~35%, op margin ~20%, mid-teens revenue CAGR; ~22x terminal EV/FCF |
-| 🔴 **Bear** | 20% | $420 | Core label renegotiation captures most ARPU surplus; GM stalls ~33%; growth decelerates to high-single-digits |
+| 🟢 **Bull+** | 10% | $1,050 | High end of 2030 targets — GM ≈40%, op margin ≈24%, ≈€38B revenue; AI/superfan add-ons monetize; multiple holds ≈25x EV/FCF |
+| 🟢 **Bull** | 25% | $850 | Upper-half of targets — GM ≈37%, op margin ≈21%; UMG-style AI deals extend to Sony/WMG; ≈€34B revenue |
+| 🟡 **Base** | 40% | $660 | Management hits midpoint of 2030 targets — GM ≈35%, op margin ≈20%, mid-teens revenue CAGR; ≈22x terminal EV/FCF |
+| 🔴 **Bear** | 20% | $420 | Core label renegotiation captures most ARPU surplus; GM stalls ≈33%; growth decelerates to high-single-digits |
 | 🔴 **Bear+** | 5% | $310 | Label step-up + AI disruption caps margins; ad GM doesn't recover; multiple compresses meaningfully |
 
-**Total**: 100%. Probability-weighted terminal value = **≈$680** (vs. current $489.93 → ≈+39% over 5 years, ~7%/yr).
+**Total**: 100%. Probability-weighted terminal value = **≈$680** (vs. current $489.93 → ≈+39% over 5 years, ≈7%/yr).
 
 ---
 
@@ -386,23 +388,23 @@ The five-year arc: from *content overinvestment* → *cost discipline* → *oper
 **PW EV calculation** (5-year terminal):
 - 0.10 × $1,050 + 0.25 × $850 + 0.40 × $660 + 0.20 × $420 + 0.05 × $310 = **≈$680**
 - Current price: $489.93
-- **Implied upside: ≈+39%** over a 5-year horizon (~7%/yr)
+- **Implied upside: ≈+39%** over a 5-year horizon (≈7%/yr)
 - **R/R = (Bull % upside) / (Bear % downside) = ((850–489.93)/489.93) / ((489.93–420)/489.93) = 73.5% / 14.3% ≈ 5.1:1**
 - Including Bull+ tier the upside skew widens; the Bear+ tail (≈37% downside) pulls full-capitulation R/R to ≈2:1.
 
-**Interpretation**: The thesis is stronger than at the prior update (Investor Day put management guidance behind the margin path; the UMG deal de-risked the AI/label flashpoint), but the **+17% re-rating to ~$490 has compressed the asymmetry**: a 5-year PW EV of ~$680 implies only ~7%/yr from here, versus the ~26%/12-mo expected value that existed at the post-Q1 $429 level. The R/R (≈5:1) remains favorable because the bear *terminal* sits only ~14% below spot, but the absolute expected return now sits around a market rate — consistent with a fairly-valued, de-risked compounder rather than the deep-value setup of three weeks ago. The deep-value entry zone ($400–450) is now behind us.
+**Interpretation**: The thesis is stronger than at the prior update (Investor Day put management guidance behind the margin path; the UMG deal de-risked the AI/label flashpoint), but the **+17% re-rating to ≈$490 has compressed the asymmetry**: a 5-year PW EV of ≈$680 implies only ≈7%/yr from here, versus the ≈26%/12-mo expected value that existed at the post-Q1 $429 level. The R/R (≈5:1) remains favorable because the bear *terminal* sits only ≈14% below spot, but the absolute expected return now sits around a market rate — consistent with a fairly-valued, de-risked compounder rather than the deep-value setup of three weeks ago. The deep-value entry zone ($400–450) is now behind us.
 
 ---
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: 🟡 Spotify is a category-defining audio platform whose May 21 Investor Day put management guidance behind the margin-expansion thesis (35–40% GM, >20% op margin, 1B MAU by 2030) and whose UMG AI-covers deal de-risked the label/AI flashpoint — but the +17% two-day re-rating to ~$490–520 has closed the deep-value entry window, leaving a stronger thesis at a fair (no longer cheap) price.
+**Thesis in one sentence**: 🟡 Spotify is a category-defining audio platform whose May 21 Investor Day put management guidance behind the margin-expansion thesis (35–40% GM, >20% op margin, 1B MAU by 2030) and whose UMG AI-covers deal de-risked the label/AI flashpoint — but the +17% two-day re-rating to ≈$490–520 has closed the deep-value entry window, leaving a stronger thesis at a fair (no longer cheap) price.
 
-**For a non-holder**: 🟡 **Watch** — the thesis strengthened materially, but the $400–450 deep-value entry the post-Q1 dip offered is gone. At ~$490 the 5-year PW EV (~$680) implies only ~7%/yr; initiate on a pullback toward the $450s, or accept a market-rate base return for a de-risked compounder. Not a chase here.
+**For a non-holder**: 🟡 **Watch** — the thesis strengthened materially, but the $400–450 deep-value entry the post-Q1 dip offered is gone. At ≈$490 the 5-year PW EV (≈$680) implies only ≈7%/yr; initiate on a pullback toward the $450s, or accept a market-rate base return for a de-risked compounder. Not a chase here.
 
 **For a current holder**: 🟡 **Hold** — thesis strengthened (Investor Day + UMG deal); the +17% move validates the post-Q1 patience. No trim until the $680+ zone; the core label renegotiation remains the reason not to add aggressively at $490.
 
-🎯 **Attractive entry zone**: **$400 – $540** (deep value <$450; fair-value accumulation $450–540, i.e. ≤ PW EV − ~20% MoS)
+🎯 **Attractive entry zone**: **$400 – $540** (deep value <$450; fair-value accumulation $450–540, i.e. ≤ PW EV − ≈20% MoS)
 🎯 **Trim zone**: **$680 – $850** (between PW EV and the Bull terminal — re-rating ahead of confirmation)
 🎯 **Exit / Avoid zone**: **≥$850** (at/above the Bull terminal; prices in upper-half 2030 targets + favorable label renegotiation simultaneously)
 

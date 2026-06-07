@@ -1,6 +1,6 @@
 # LLY — Eli Lilly and Company
 
-> **Schema**: v2.9
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-01
 > **Status**: Active
 > **Live Price Verified**: **$974.39** (April 30, 2026 close, post Q1 2026 print; [Yahoo Finance](https://finance.yahoo.com/quote/LLY))
@@ -10,17 +10,17 @@
 
 ## Summary
 
-**Thesis**: Q1 2026 (Apr 30) confirmed the franchise build-out in spectacular fashion — revenue +56% to $19.8B, **Mounjaro $8.66B (+125% YoY)**, EPS $8.55 vs. $6.85 cons (+25% beat); FY26 guide raised to **$82–85B revenue / $35.50–$37.00 NGAAP EPS**. Foundayo (oral GLP-1) launched Apr 9; manufacturing moat compounding; tirzepatide demand still supply-limited. Wide moat at ~26× raised FY26E EPS — PEG remains compelling.
+**Thesis**: Q1 2026 (Apr 30) confirmed the franchise build-out in spectacular fashion — revenue +56% to $19.8B, **Mounjaro $8.66B (+125% YoY)**, EPS $8.55 vs. $6.85 cons (+25% beat); FY26 guide raised to **$82–85B revenue / $35.50–$37.00 NGAAP EPS**. Foundayo (oral GLP-1) launched Apr 9; manufacturing moat compounding; tirzepatide demand still supply-limited. Wide moat at ≈26× raised FY26E EPS — PEG remains compelling.
 
 🟢 Non-holder: **Initiate** · 🟢 Holder: **Hold/Add**
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $623.78–$1,133.95 | $974.39 (~70th) | $750 | $830–900 | $1,180 / **$1,264** | $1,300–1,500 | $1,600 | **2.9:1** |
+| $623.78–$1,133.95 | $974.39 (≈70th) | $750 | $830–900 | $1,180 / **$1,264** | $1,300–1,500 | $1,600 | **2.9:1** |
 
 | BAIT | Moat | FY26E P/E | FCF (FY25) | Short int. | Next catalyst |
 |---|---|---|---|---|---|
-| Triple (A+I+B) | Wide | ~26× ($36.25 mid) | $9.0B | 0.91% float | Q2 2026 (late-July) |
+| Triple (A+I+B) | Wide | ≈26× ($36.25 mid) | $9.0B | 0.91% float | Q2 2026 (late-July) |
 
 🟢 **Why bullish**:
 - Mounjaro $8.66B Q1 (+125% YoY); supply constraints fully resolved
@@ -30,7 +30,7 @@
 ⚠️ **Why not**:
 - Stock +10% to $974 on the print compresses R/R from 3.4:1 → 2.9:1
 - Oral GLP-1 competition (Viking VK2735 Phase 3, Roche CT-388) still building
-- IRA Medicare negotiation eligibility window (~2028–2030) not priced in
+- IRA Medicare negotiation eligibility window (≈2028–2030) not priced in
 
 📅 **Next read**: Q2 2026 earnings (late-July 2026) — Foundayo first full quarter of launch revenue.
 
@@ -38,17 +38,17 @@
 
 ## Business Overview
 
-Eli Lilly and Company (NYSE: LLY), founded in 1876 and headquartered in Indianapolis, Indiana, is a global pharmaceutical company that discovers, develops, manufactures, and markets human medicines. Lilly's transformation from a ~$28B revenue company in 2021 to $65B in FY2025 — and guided $80–83B in FY2026 — is one of the most dramatic reinventions in large-cap pharmaceutical history, anchored on a single scientific insight: dual GIP/GLP-1 receptor agonism (tirzepatide) is superior to GLP-1-only therapy in both type 2 diabetes management and obesity treatment.
+Eli Lilly and Company (NYSE: LLY), founded in 1876 and headquartered in Indianapolis, Indiana, is a global pharmaceutical company that discovers, develops, manufactures, and markets human medicines. Lilly's transformation from a ≈$28B revenue company in 2021 to $65B in FY2025 — and guided $80–83B in FY2026 — is one of the most dramatic reinventions in large-cap pharmaceutical history, anchored on a single scientific insight: dual GIP/GLP-1 receptor agonism (tirzepatide) is superior to GLP-1-only therapy in both type 2 diabetes management and obesity treatment.
 
-**Core franchise**: **Tirzepatide** (sold as Mounjaro for T2D, ~$23.5B FY2025; Zepbound for obesity, ~$16.5B annualized at Q4 2025 run-rate) — the fastest-scaling pharmaceutical franchise in history, with efficacy of up to 22.5% body weight loss, outperforming all prior GLP-1 drugs. The franchise is reinforced by the **April 1, 2026 FDA approval of Foundayo (orforglipron)** — the first oral GLP-1 receptor agonist approved for chronic weight management, taken any time of day without food or water restrictions, now available to patients as of April 9, 2026.
+**Core franchise**: **Tirzepatide** (sold as Mounjaro for T2D, ≈$23.5B FY2025; Zepbound for obesity, ≈$16.5B annualized at Q4 2025 run-rate) — the fastest-scaling pharmaceutical franchise in history, with efficacy of up to 22.5% body weight loss, outperforming all prior GLP-1 drugs. The franchise is reinforced by the **April 1, 2026 FDA approval of Foundayo (orforglipron)** — the first oral GLP-1 receptor agonist approved for chronic weight management, taken any time of day without food or water restrictions, now available to patients as of April 9, 2026.
 
-Other franchises: **Oncology** (Verzenio ~$6.2B, Jaypirca, Retevmo, Cyramza); **Immunology** (Taltz ~$2.5B, Ebglyss/lebrikizumab); **Neuroscience** (Kisunla/donanemab — Alzheimer's, approved 2024; Emgality); **Legacy Diabetes** (Humalog, Basaglar, Trulicity — declining as biosimilars enter). The company is mid-way through a >$50B U.S. manufacturing commitment, including a new $3.5B Pennsylvania facility (announced January 30, 2026) for injectable medicines.
+Other franchises: **Oncology** (Verzenio ≈$6.2B, Jaypirca, Retevmo, Cyramza); **Immunology** (Taltz ≈$2.5B, Ebglyss/lebrikizumab); **Neuroscience** (Kisunla/donanemab — Alzheimer's, approved 2024; Emgality); **Legacy Diabetes** (Humalog, Basaglar, Trulicity — declining as biosimilars enter). The company is mid-way through a >$50B U.S. manufacturing commitment, including a new $3.5B Pennsylvania facility (announced January 30, 2026) for injectable medicines.
 
 ---
 
 ## Pivotal Investment Question
 
-> Can Lilly sustain a premium multiple (~26× FY2026E EPS at $884) across the tirzepatide ramp and Foundayo launch — when oral GLP-1 competition from Novo/Viking/Roche eventually pressures pricing, IRA drug-price negotiation looms ~2028–2030, and the eventual tirzepatide patent cliff (~2036) compresses the multiple to pharma-peer levels?
+> Can Lilly sustain a premium multiple (≈26× FY2026E EPS at $884) across the tirzepatide ramp and Foundayo launch — when oral GLP-1 competition from Novo/Viking/Roche eventually pressures pricing, IRA drug-price negotiation looms ≈2028–2030, and the eventual tirzepatide patent cliff (≈2036) compresses the multiple to pharma-peer levels?
 
 The bull: tirzepatide has decade+ patent life; Foundayo (now approved) extends the franchise into oral without cannibalizing the injectable; manufacturing moat ($50B+) creates a 3–5 year capacity advantage no competitor can replicate; retatrutide (26.6% weight loss) is the next generation. The bear: multiple oral GLP-1 competitors are in late-stage trials; IRA is a rising pricing overhang; manufacturing buildout absorbs FCF; a –22% drawdown despite record fundamentals suggests the market sees execution risk ahead.
 
@@ -63,10 +63,10 @@ The bull: tirzepatide has decade+ patent life; Foundayo (now approved) extends t
 | 52-Week Low | $623.78 | |
 | % From 52-Wk High | –14.1% | |
 | % Above 52-Wk Low | +56.2% | |
-| Market Cap | ~$872B | ~895M diluted shares × $974 |
-| P/E (FY2025A) | ~42.5× | |
-| P/E (FY2026E) | ~26.9× | At raised guidance midpoint of $36.25 |
-| PEG (FY2026E) | ~0.5× | 26.9× / ~58% EPS growth (raised guide) |
+| Market Cap | ≈$872B | ≈895M diluted shares × $974 |
+| P/E (FY2025A) | ≈42.5× | |
+| P/E (FY2026E) | ≈26.9× | At raised guidance midpoint of $36.25 |
+| PEG (FY2026E) | ≈0.5× | 26.9× / ≈58% EPS growth (raised guide) |
 | FY2025 Revenue | $65.2B | +44.7% YoY |
 | FY2025 EPS Diluted | $22.95 | |
 | FY2025 FCF | $9.0B | OCF $16.8B – CapEx $7.8B |
@@ -120,7 +120,7 @@ The CapEx build is deliberate and interpretively important: the step-up from $1.
 | Q2 2025 | $15.56B | $5.66B | $6.29 | $6.87B |
 | Q3 2025 | $17.60B | $5.58B | $6.21 | $7.37B |
 | Q4 2025 | $19.29B | $6.64B | **$7.39** | $8.37B |
-| **Q1 2026** | **$19.8B** | ~$7.7B | **$8.55** | ~$9.0B |
+| **Q1 2026** | **$19.8B** | ≈$7.7B | **$8.55** | ≈$9.0B |
 
 *Q1 2026 (Apr 30): revenue +56% YoY, Mounjaro $8.66B (+125% YoY), EPS $8.55 vs. $6.85 consensus (+25% beat). Confirms tirzepatide demand acceleration as supply constraints clear.*
 
@@ -134,14 +134,14 @@ The CapEx build is deliberate and interpretively important: the step-up from $1.
 
 | Product | FY2025 Revenue | YoY Growth | Category |
 |---------|---------------|------------|---------|
-| Mounjaro (tirzepatide T2D) | ~$23.5B | +110%+ | Diabetes / Incretin |
-| Zepbound (tirzepatide obesity) | ~$16.5B annualized | +122%+ | Obesity |
-| Verzenio (abemaciclib) | ~$6.2B | +8% | Oncology |
-| Taltz (ixekizumab) | ~$2.5B | flat | Immunology |
+| Mounjaro (tirzepatide T2D) | ≈$23.5B | +110%+ | Diabetes / Incretin |
+| Zepbound (tirzepatide obesity) | ≈$16.5B annualized | +122%+ | Obesity |
+| Verzenio (abemaciclib) | ≈$6.2B | +8% | Oncology |
+| Taltz (ixekizumab) | ≈$2.5B | flat | Immunology |
 | Kisunla (donanemab) | ramp stage | new | Neuroscience/Alzheimer's |
 | Jardiance (partnership) | declining | — | Diabetes (legacy partnership) |
-| Trulicity (dulaglutide) | ~$3.0B [declining] | –30%+ | Diabetes (legacy, biosimilar pressure) |
-| Humalog / Basaglar | ~$2.0B [declining] | declining | Diabetes (legacy) |
+| Trulicity (dulaglutide) | ≈$3.0B [declining] | –30%+ | Diabetes (legacy, biosimilar pressure) |
+| Humalog / Basaglar | ≈$2.0B [declining] | declining | Diabetes (legacy) |
 
 *The Trulicity decline is intentional — LLY is cannibalizing its own legacy GLP-1 with tirzepatide. This is strategic, not concerning.*
 
@@ -153,23 +153,23 @@ The CapEx build is deliberate and interpretively important: the step-up from $1.
 
 | Category | Est. FY2025 Revenue | % of Revenue | Growth Dynamic |
 |----------|--------------------|-----------| --------------|
-| Tirzepatide (Mounjaro + Zepbound) | ~$40B | ~61% | Fastest-growing pharma franchise in history |
-| Oncology (Verzenio, Jaypirca, Retevmo, Cyramza) | ~$9B | ~14% | Steady; Verzenio peak-ish |
-| Immunology (Taltz, Ebglyss/lebrikizumab) | ~$4B | ~6% | Ebglyss ramp offsetting Taltz maturity |
-| Neuroscience (Kisunla, Emgality) | ~$2B | ~3% | Kisunla early-stage ramp; large TAM |
-| Legacy Diabetes (Trulicity, Humalog, Basaglar) | ~$6B | ~9% | Structurally declining |
-| Other | ~$4B | ~7% | Jardiance partnership, other |
+| Tirzepatide (Mounjaro + Zepbound) | ≈$40B | ≈61% | Fastest-growing pharma franchise in history |
+| Oncology (Verzenio, Jaypirca, Retevmo, Cyramza) | ≈$9B | ≈14% | Steady; Verzenio peak-ish |
+| Immunology (Taltz, Ebglyss/lebrikizumab) | ≈$4B | ≈6% | Ebglyss ramp offsetting Taltz maturity |
+| Neuroscience (Kisunla, Emgality) | ≈$2B | ≈3% | Kisunla early-stage ramp; large TAM |
+| Legacy Diabetes (Trulicity, Humalog, Basaglar) | ≈$6B | ≈9% | Structurally declining |
+| Other | ≈$4B | ≈7% | Jardiance partnership, other |
 
-*LLY reports as a single operating segment; above is a drug-category approximation. Tirzepatide's ~61% concentration is the dominant risk AND the dominant return driver.*
+*LLY reports as a single operating segment; above is a drug-category approximation. Tirzepatide's ≈61% concentration is the dominant risk AND the dominant return driver.*
 
 ### Geographic Split (Estimated, FY2025)
 
 | Region | Est. % of Revenue | Notes |
 |--------|------------------|-------|
-| United States | ~55% | Tirzepatide pricing power concentrated here; U.S. drug prices 2–4× ex-U.S. |
-| Europe | ~22% | Mounjaro EU-approved; Zepbound progressing EU reimbursement |
-| Japan | ~8% | Strong Mounjaro uptake; national insurance coverage in place |
-| Rest of World | ~15% | Emerging markets; pricing and access constraints |
+| United States | ≈55% | Tirzepatide pricing power concentrated here; U.S. drug prices 2–4× ex-U.S. |
+| Europe | ≈22% | Mounjaro EU-approved; Zepbound progressing EU reimbursement |
+| Japan | ≈8% | Strong Mounjaro uptake; national insurance coverage in place |
+| Rest of World | ≈15% | Emerging markets; pricing and access constraints |
 
 *[Estimate] — verify against LLY 10-K geographic segment note. U.S. pricing power is the earnings engine; IRA drug-price negotiation is the primary U.S. pricing risk.*
 
@@ -179,7 +179,7 @@ Three dynamics will reshape the mix over FY2026–2028:
 
 - **Oral GLP-1 (Foundayo) launch**: First oral GLP-1 approved in the U.S. (April 1, 2026). Targets needle-averse patients who declined injectables — expanding the total addressable market, not cannibilazing the injectable franchise. Analyst consensus estimates $1.7–3B in FY2026 Foundayo revenue; management guided $1.7B.
 - **Oncology re-acceleration**: Jaypirca (CLL/SLL) and Retevmo (RET fusion-positive NSCLC) adding to Verzenio's mature base.
-- **Legacy decline absorbed**: Trulicity/Humalog revenue headwinds (~$3–4B/yr) are more than offset by incremental tirzepatide + Foundayo + Kisunla ramp.
+- **Legacy decline absorbed**: Trulicity/Humalog revenue headwinds (≈$3–4B/yr) are more than offset by incremental tirzepatide + Foundayo + Kisunla ramp.
 
 ---
 
@@ -191,7 +191,7 @@ Three dynamics will reshape the mix over FY2026–2028:
 
 | Source | Strength | Evidence |
 |--------|----------|---------|
-| Intangibles / patents | Strong | ~20-year tirzepatide patent runway; dual GIP/GLP-1 mechanism patent protected; Foundayo patent coverage extends the incretin franchise |
+| Intangibles / patents | Strong | ≈20-year tirzepatide patent runway; dual GIP/GLP-1 mechanism patent protected; Foundayo patent coverage extends the incretin franchise |
 | Manufacturing scale | **Critical differentiator** | $50B+ committed U.S. capacity; $6.5B Texas API plant for oral GLP-1 supply; $3.5B Pennsylvania facility (announced Jan 30, 2026). No competitor can replicate this in <5 years. |
 | Physician relationships | Strong | 150-year diabetes franchise gives LLY preferential access to endocrinologists and PCPs; Mounjaro prescribing habits translate to Foundayo trial |
 | Pipeline depth | Strong | Retatrutide (triple agonist, Phase 3, 26.6% weight loss — best-in-class efficacy signal), Foundayo (approved), Kisunla (Alzheimer's), oncology |
@@ -199,10 +199,10 @@ Three dynamics will reshape the mix over FY2026–2028:
 | Physician trial rate | Strong | Zepbound had the fastest formulary adoption in obesity drug history; Foundayo's convenience (no food/water restriction) should accelerate primary-care adoption |
 
 **Vulnerabilities**:
-- Single-product concentration: tirzepatide ~61% of FY2025 revenue
+- Single-product concentration: tirzepatide ≈61% of FY2025 revenue
 - Oral GLP-1 competitive pipeline progressing (Novo, Viking, Roche — see below)
-- IRA drug-price negotiation: small-molecule trigger 7 years post-launch (~2028–2030 for tirzepatide)
-- Tirzepatide LOE ~2036 — long-dated but the eventual wall
+- IRA drug-price negotiation: small-molecule trigger 7 years post-launch (≈2028–2030 for tirzepatide)
+- Tirzepatide LOE ≈2036 — long-dated but the eventual wall
 - Manufacturing execution risk on $50B+ build-out
 
 **Moat verdict: Wide, but the moat is franchise-concentrated.** The manufacturing investment is the most defensible structural differentiator — time-to-build advantage compounds against the capital intensity of scaling oral GLP-1 supply.
@@ -213,8 +213,8 @@ Three dynamics will reshape the mix over FY2026–2028:
 
 | Company | Key Drug(s) | Mechanism | Status | Threat Read | Market Position |
 |---------|------------|-----------|--------|-------------|----------------|
-| **Eli Lilly (LLY)** | Mounjaro (T2D), Zepbound (obesity), **Foundayo (oral, approved Apr 2026)** | Dual GIP/GLP-1 agonist; oral GLP-1 | Launched; scaling | — | ~45–50% GLP-1 market revenue; gaining from Novo |
-| **Novo Nordisk (NVO)** | Ozempic (T2D), Wegovy (obesity), oral semaglutide (Rybelsus, lower efficacy) | GLP-1 agonist (GLP-1 only) | Launched; mature | **Primary competitor** — semaglutide inferior to tirzepatide on weight loss (15% vs. 22.5%) but dominant brand recognition | ~50–55% GLP-1 revenue share; losing share to LLY |
+| **Eli Lilly (LLY)** | Mounjaro (T2D), Zepbound (obesity), **Foundayo (oral, approved Apr 2026)** | Dual GIP/GLP-1 agonist; oral GLP-1 | Launched; scaling | — | ≈45–50% GLP-1 market revenue; gaining from Novo |
+| **Novo Nordisk (NVO)** | Ozempic (T2D), Wegovy (obesity), oral semaglutide (Rybelsus, lower efficacy) | GLP-1 agonist (GLP-1 only) | Launched; mature | **Primary competitor** — semaglutide inferior to tirzepatide on weight loss (15% vs. 22.5%) but dominant brand recognition | ≈50–55% GLP-1 revenue share; losing share to LLY |
 | **Viking Therapeutics** | VK2735 oral (Phase 3 positive) | Dual GIP/GLP-1 (like LLY) | Phase 3 — no FDA filing yet | Meaningful future threat — similar mechanism to tirzepatide; oral form in Phase 3 vs. LLY's already-approved Foundayo. 12–18 months behind. | No current revenue; FDA approval likely 2027+ |
 | **Roche** | CT-388 (Phase 2) | Dual GIP/GLP-1 (like LLY) | Phase 2 | Long-dated threat (2028+); Roche has strong pharma execution | No current revenue |
 | **Structure Therapeutics** | GSBR-1290 (Phase 2) | GLP-1 | Phase 2 | Earlier stage; smaller company; lower manufacturing certainty | No current revenue |
@@ -239,17 +239,19 @@ Three structural differentiators separate LLY from all competitors:
 
 | Executive | Role | Tenure | Track Record | Credibility |
 |-----------|------|--------|-------------|-------------|
-| David Ricks | Chairman & CEO | CEO since Jan 2017 | Built Lilly's transformation; made the GLP-1 strategic bet; stock ~10× from 2017 to 2024 peak | 🟢 High |
+| David Ricks | Chairman & CEO | CEO since Jan 2017 | Built Lilly's transformation; made the GLP-1 strategic bet; stock ≈10× from 2017 to 2024 peak | 🟢 High |
 | Lucas Montarce | CFO | Since 2024 | Succeeded Anat Ashkenazi; limited public track record as CFO | 🟡 Developing |
 | Jacob Van Naarden | President, Lilly Immunology & previously Lilly Oncology | Senior tenure | Led oncology growth; strong internal bench | 🟢 High |
 
 **David Ricks assessment**: In 2017, Lilly was a middle-tier pharma company recovering from insulin-price controversy. Ricks made the high-conviction bet on GLP-1 receptor biology and manufacturing scale when the market was skeptical. The result: LLY peaked at >$1T market cap in 2024 — briefly the most valuable pharmaceutical company in history. The $50B+ manufacturing commitment is a Ricks signature: building supply *before* demand is proven, compressing the time from approval to scale.
 
+**[Outsider grade](../../frameworks/outsiders.md) — Reinvestor**: CapEx from $1.3B (FY2021) → $7.8B (FY2025), R&D >$10B annually, and bold M&A (Morphic, Kelonia, Orna, Centessa) — Ricks is deploying all available capital into the GLP-1/pipeline moat at the highest-IRR moment in Lilly's history. Minimal buybacks; nominal dividend. Reinvestment-only by deliberate design; the Outsider test will apply when the capex cycle matures.
+
 **Capital allocation track record**:
 - Manufacturing-first: CapEx grew from $1.3B (FY2021) → $7.8B (FY2025) — deliberate and executed
 - Selective M&A: Morphic Therapeutic ($3.2B, FY2024 — integrin inhibitors); Kelonia Therapeutics (in vivo CAR-T, April 20, 2026); Orna Therapeutics (cell therapy, February 2026); Centessa Pharmaceuticals (sleep-wake disorders, March 2026)
 - Buybacks: Minimal — capex commitment is the priority
-- Dividend: ~$6.92/share annual (~0.78% yield at current price) — nominal but growing
+- Dividend: ≈$6.92/share annual (≈0.78% yield at current price) — nominal but growing
 - R&D: >$10B annually (among the highest in pharma as % of revenue)
 
 ### Recent Management Commentary — Primary Source Synthesis
@@ -282,7 +284,7 @@ Three structural differentiators separate LLY from all competitors:
 
 ## Section 5 — Strategic Growth Initiatives
 
-1. **Foundayo (orforglipron) commercial launch**: FDA-approved April 1, 2026; available April 9. Once-daily pill without food/water restrictions; targets ~500M needle-averse patients globally who declined injectables. FY2026E launch revenue $1.7–3B; analyst long-term estimates $10–15B+/yr at scale.
+1. **Foundayo (orforglipron) commercial launch**: FDA-approved April 1, 2026; available April 9. Once-daily pill without food/water restrictions; targets ≈500M needle-averse patients globally who declined injectables. FY2026E launch revenue $1.7–3B; analyst long-term estimates $10–15B+/yr at scale.
 
 2. **Retatrutide (triple agonist — GLP-1/GIP/glucagon)**: Phase 3 underway; TRANSCEND-T2D-1 trial showed significant A1C and weight reductions (March 19, 2026 readout). 26.6% body weight loss in prior Phase 2 obesity trial — potentially superior to tirzepatide. Filing target 2027. The pipeline behind the pipeline.
 
@@ -307,10 +309,10 @@ Three structural differentiators separate LLY from all competitors:
 | Risk | Impact | Probability | Priced In? | Notes |
 |------|--------|-------------|------------|-------|
 | ⚠️ Oral GLP-1 competition (pricing + share pressure) | High | Medium-High | Partially | Viking VK2735 oral (Phase 3 positive, likely approved 2027); Roche CT-388 (Phase 2, 2028+). Foundayo's first-mover advantage is real but not permanent. Risk is more severe for LLY than peers — oral competition directly attacks the Foundayo addressable market. |
-| ⚠️ IRA drug-pricing negotiation | High | Medium | Not priced in | Tirzepatide (small molecule) eligible ~2028–2030 (7-year trigger). CMS negotiation could reduce Medicare pricing by 40–60%. Volume growth may not fully offset. Explicitly **not priced into the FY2026E multiple**. |
+| ⚠️ IRA drug-pricing negotiation | High | Medium | Not priced in | Tirzepatide (small molecule) eligible ≈2028–2030 (7-year trigger). CMS negotiation could reduce Medicare pricing by 40–60%. Volume growth may not fully offset. Explicitly **not priced into the FY2026E multiple**. |
 | ⚠️ Manufacturing execution risk ($50B+ build) | High | Low-Medium | Not priced in | $7.8B CapEx in FY2025 alone; Pennsylvania + Texas facilities under active construction. Any delay compresses Foundayo supply scaling and extends the injectable-only window that competitors can exploit. |
-| ⚠️ Tirzepatide LOE (~2036) | High | Certain (long-dated) | Partially | ~10-year runway; manageable if retatrutide + next-generation pipeline delivers. The patent cliff will eventually compress the multiple to pharma-peer levels (~15–18× P/E). |
-| ⚠️ Single-franchise concentration (~61% tirzepatide) | Medium | Low | Partially | If tirzepatide faces an unexpected safety signal, label revision, or payer coverage restriction, ~61% of revenue is at risk. Risk is mitigated by FDA approval for multiple indications and 500M+ patient population. |
+| ⚠️ Tirzepatide LOE (≈2036) | High | Certain (long-dated) | Partially | ≈10-year runway; manageable if retatrutide + next-generation pipeline delivers. The patent cliff will eventually compress the multiple to pharma-peer levels (≈15–18× P/E). |
+| ⚠️ Single-franchise concentration (≈61% tirzepatide) | Medium | Low | Partially | If tirzepatide faces an unexpected safety signal, label revision, or payer coverage restriction, ≈61% of revenue is at risk. Risk is mitigated by FDA approval for multiple indications and 500M+ patient population. |
 | ⚠️ Retatrutide Phase 3 disappointment | High | Low | Not priced in | The "pipeline behind the pipeline" carry significant multiple support; a weight-loss miss below 20% would remove a key long-term upside driver. Not material near-term but relevant for 3–5 year horizon. |
 
 *[Thesis-break triggers from Section 13 are calibrated against these risks.]*
@@ -323,11 +325,11 @@ Three structural differentiators separate LLY from all competitors:
 
 **1. GLP-1 / Obesity Market Penetration — the dominant secular driver**
 
-The global obesity and overweight population is estimated at 500–750M adults who are candidates for pharmacotherapy. Current GLP-1 penetration is <5%. U.S. employer insurance coverage for GLP-1 obesity drugs was ~40% of large employers in 2025 (up from 15% in 2022). CMS/Medicare expansion could add 5–10M new patients if legislated. The penetration curve from 5% → 20% over 10 years is the structural thesis — LLY is capturing the largest share of the incremental market by efficacy and first-mover positioning.
+The global obesity and overweight population is estimated at 500–750M adults who are candidates for pharmacotherapy. Current GLP-1 penetration is <5%. U.S. employer insurance coverage for GLP-1 obesity drugs was ≈40% of large employers in 2025 (up from 15% in 2022). CMS/Medicare expansion could add 5–10M new patients if legislated. The penetration curve from 5% → 20% over 10 years is the structural thesis — LLY is capturing the largest share of the incremental market by efficacy and first-mover positioning.
 
 **2. U.S. Drug Pricing (IRA)**
 
-The Inflation Reduction Act allows CMS to negotiate Medicare pricing for small-molecule drugs 7 years post-launch and biologics 13 years post-launch. Tirzepatide's small-molecule trigger is ~2028–2030. Management has been vocal in opposing IRA pricing negotiation at an industry level. The pricing headwind is real but manageable if volume growth and new indications outpace the price compression. Foundayo (oral GLP-1, also small molecule) would face the same ~2033–2035 IRA window, making the retatrutide (biologic) pipeline strategically more attractive from a pricing durability perspective.
+The Inflation Reduction Act allows CMS to negotiate Medicare pricing for small-molecule drugs 7 years post-launch and biologics 13 years post-launch. Tirzepatide's small-molecule trigger is ≈2028–2030. Management has been vocal in opposing IRA pricing negotiation at an industry level. The pricing headwind is real but manageable if volume growth and new indications outpace the price compression. Foundayo (oral GLP-1, also small molecule) would face the same ≈2033–2035 IRA window, making the retatrutide (biologic) pipeline strategically more attractive from a pricing durability perspective.
 
 **3. Manufacturing as strategic infrastructure**
 
@@ -341,31 +343,31 @@ Europe, Japan, and EM are meaningfully behind the U.S. on GLP-1 reimbursement. M
 
 ## Section 8 — Valuation & Comparable Analysis
 
-### Current Multiples (April 30, 2026, $974.39 / ~$872B market cap, post Q1 print + raised guide)
+### Current Multiples (April 30, 2026, $974.39 / ≈$872B market cap, post Q1 print + raised guide)
 
 | Metric | Value | Assessment |
 |--------|-------|-----------|
-| P/E (FY2025A) | ~42.5× | Premium — reflects growth quality |
-| P/E (FY2026E, raised) | ~26.9× | Moderate premium vs. raised growth rate (~58% EPS) |
-| PEG (FY2026E, raised) | ~0.46× | **Compelling** — 26.9× / ~58% EPS growth (raised guide) |
-| EV/FCF (FY2025) | ~100× | Elevated; CapEx normalization will compress materially as manufacturing build peaks |
-| P/S (TTM, post-Q1) | ~12× | Premium |
+| P/E (FY2025A) | ≈42.5× | Premium — reflects growth quality |
+| P/E (FY2026E, raised) | ≈26.9× | Moderate premium vs. raised growth rate (≈58% EPS) |
+| PEG (FY2026E, raised) | ≈0.46× | **Compelling** — 26.9× / ≈58% EPS growth (raised guide) |
+| EV/FCF (FY2025) | ≈100× | Elevated; CapEx normalization will compress materially as manufacturing build peaks |
+| P/S (TTM, post-Q1) | ≈12× | Premium |
 
-*At normalized CapEx ($3–4B/yr post-build), FCF would be ~$14–16B, implying EV/normalized-FCF of ~50–55× — still a premium but more defensible for a 50%+ EPS growth franchise.*
+*At normalized CapEx ($3–4B/yr post-build), FCF would be ≈$14–16B, implying EV/normalized-FCF of ≈50–55× — still a premium but more defensible for a 50%+ EPS growth franchise.*
 
 ### Peer Comparison
 
 | Company | Primary Business | P/E (FY2026E) | Growth Profile | Moat Assessment |
 |---------|-----------------|---------------|----------------|----------------|
-| **LLY** | GLP-1 dominant | **~26×** | **+46–53% EPS** | Wide (patents + manufacturing + physician relationships) |
-| NVO (Novo Nordisk) | GLP-1 (semaglutide only) | ~12× | **–7% EPS** (FY2026 declining) | Narrowing — losing share to tirzepatide |
-| ABBV (AbbVie) | Immunology / aesthetics | ~15× | +5–10% | Narrow (Skyrizi / Rinvoq replacing Humira) |
-| MRK (Merck) | Oncology / vaccines | ~14× | +3–8% | Narrow (Keytruda LOE concern) |
-| PFE (Pfizer) | Diversified | ~11× | Low single digits | Narrow (post-COVID normalization) |
+| **LLY** | GLP-1 dominant | **≈26×** | **+46–53% EPS** | Wide (patents + manufacturing + physician relationships) |
+| NVO (Novo Nordisk) | GLP-1 (semaglutide only) | ≈12× | **–7% EPS** (FY2026 declining) | Narrowing — losing share to tirzepatide |
+| ABBV (AbbVie) | Immunology / aesthetics | ≈15× | +5–10% | Narrow (Skyrizi / Rinvoq replacing Humira) |
+| MRK (Merck) | Oncology / vaccines | ≈14× | +3–8% | Narrow (Keytruda LOE concern) |
+| PFE (Pfizer) | Diversified | ≈11× | Low single digits | Narrow (post-COVID normalization) |
 
-**Valuation verdict**: At $974 post-Q1, LLY is priced at a premium to pharma peers, but the raised FY26 guide ($35.50–$37.00 EPS) keeps PEG at ~0.46× — still one of the cheapest growth-adjusted valuations among large-cap quality-growth names. Novo Nordisk's competitive deterioration is reaffirmed by LLY's +56% Q1. The multiple will compress as growth normalizes post-2027, but current entry still offers a meaningful earnings buffer on the raised numbers.
+**Valuation verdict**: At $974 post-Q1, LLY is priced at a premium to pharma peers, but the raised FY26 guide ($35.50–$37.00 EPS) keeps PEG at ≈0.46× — still one of the cheapest growth-adjusted valuations among large-cap quality-growth names. Novo Nordisk's competitive deterioration is reaffirmed by LLY's +56% Q1. The multiple will compress as growth normalizes post-2027, but current entry still offers a meaningful earnings buffer on the raised numbers.
 
-**"Fair price" range**: ~$950–$1,100 on a 12-month basis (lifted on raised FY26 EPS); attractive entry zone of $830–900 offers margin of safety against oral-competition multiple compression.
+**"Fair price" range**: ≈$950–$1,100 on a 12-month basis (lifted on raised FY26 EPS); attractive entry zone of $830–900 offers margin of safety against oral-competition multiple compression.
 
 ---
 
@@ -377,7 +379,7 @@ Europe, Japan, and EM are meaningfully behind the U.S. on GLP-1 reimbursement. M
 - **52-week range**: $623.78 – $1,133.95
 - **% from 52-wk high**: –14.1%
 - **% above 52-wk low**: +56.2%
-- **Market cap**: ~$872B
+- **Market cap**: ≈$872B
 - **Session move**: +10.2% from $883.96 on Q1 2026 print
 
 ### Analyst Consensus (April 2026)
@@ -428,7 +430,7 @@ Europe, Japan, and EM are meaningfully behind the U.S. on GLP-1 reimbursement. M
 
 | Date | Event | Why It Matters |
 |------|-------|----------------|
-| ✅ ~~2026-04-30~~ | ~~Q1 2026 earnings~~ | **DELIVERED** — rev +56%, Mounjaro +125%, EPS +25% beat, FY26 guide raised |
+| ✅ ≈≈2026-04-30≈≈ | ≈≈Q1 2026 earnings≈≈ | **DELIVERED** — rev +56%, Mounjaro +125%, EPS +25% beat, FY26 guide raised |
 | 📅 **Late-July 2026** | **Q2 2026 earnings** | Foundayo first full launch quarter; sustainability of raised FY26 trajectory |
 | 2026 (rolling) | Foundayo launch trajectory | $1.7B FY2026E initial estimate — beat/miss shapes the oral GLP-1 conviction |
 | 2026 (rolling) | Retatrutide additional Phase 3 readouts | The "pipeline behind the pipeline" |
@@ -448,7 +450,7 @@ The –22% pullback from the $1,134 peak is driven by "oral GLP-1 competition wi
 ### A — Analytical: **Strong**
 
 - **Q1 2026 confirmed: rev +56%, EPS +25% vs. consensus, FY26 guide raised to $82–85B / $35.50–$37.00 EPS** — the analytical thesis (raised numbers, not just narrative) materialized.
-- **PEG of ~0.46× against raised +55–61% FY2026 EPS guidance** is one of the most compelling growth-adjusted value points among large-cap quality growth names globally.
+- **PEG of ≈0.46× against raised +55–61% FY2026 EPS guidance** is one of the most compelling growth-adjusted value points among large-cap quality growth names globally.
 - **Manufacturing moat is analytically undervalued**: $50B+ in committed U.S. capacity creates a 3–5 year capacity advantage that no competitor can replicate. Most sell-side models treat this as a CapEx headwind rather than a structural barrier entry.
 - **Foundayo launch not fully modeled**: Management guided $1.7B FY2026; consensus long-term estimates are $10–15B+/yr at scale. The post-launch sales trajectory vs. consensus initial estimates is a likely analytical surprise if needle-averse patients (estimated 500M globally who declined injectables) adopt at faster-than-expected rates.
 - **Novo's competitive deterioration**: NVO guiding –5.6% FY2026 revenue vs. LLY's +23–27% is direct evidence of tirzepatide market share capture that doesn't yet show in every analyst model.
@@ -466,7 +468,7 @@ The –22% pullback from the $1,134 peak is driven by "oral GLP-1 competition wi
 - No near-term mechanical catalysts (no stock split, no index inclusion/exclusion)
 - Low short interest (0.91% float) — no short squeeze optionality
 - Stock is in a downtrend from $1,134 peak; no clear positive technical setup
-- Dividend nominal (~0.78% yield); buybacks minimal given capex program
+- Dividend nominal (≈0.78% yield); buybacks minimal given capex program
 
 ### BAIT Verdict
 
@@ -483,21 +485,21 @@ The –22% pullback from the $1,134 peak is driven by "oral GLP-1 competition wi
 - Foundayo adoption beats $1.7B FY26 guide — reaches $3–4B in first full year; needle-averse market expansion confirmed
 - Q2–Q4 2026 sustains the Q1 trajectory; FY26 EPS lands at top of raised range ($37+)
 - Retatrutide Phase 3 final obesity data confirms 26%+ weight loss; NDA filing end-2026
-- Multiple re-rates to ~35× FY2027E EPS of ~$46 = ~$1,610
+- Multiple re-rates to ≈35× FY2027E EPS of ≈$46 = ≈$1,610
 
 ### Base Case — $1,250 (+28% from $974.39) — **Probability: 50%**
 
-- Raised FY2026 guidance achieved ($82–85B revenue; ~$36.25 EPS midpoint)
+- Raised FY2026 guidance achieved ($82–85B revenue; ≈$36.25 EPS midpoint)
 - Foundayo launch progresses with $1.5–2B FY2026 revenue
 - Retatrutide Phase 3 continues; no negative data surprises
-- Multiple holds ~33–35× raised FY2026E → ~$1,200–$1,270
+- Multiple holds ≈33–35× raised FY2026E → ≈$1,200–$1,270
 
 ### Bear Case — $750 (–23% from $974.39) — **Probability: 15%**
 
 - Viking VK2735 oral approved sooner than expected with head-to-head data vs. Foundayo; pricing competition emerges
 - IRA drug-pricing negotiation timeline for tirzepatide accelerated (announced 2026–2027 vs. expected 2028–2030)
 - Manufacturing delay at Texas or Pennsylvania facility → Foundayo supply constrained
-- Multiple compresses to ~20× raised FY2026E EPS of ~$36 → ~$720
+- Multiple compresses to ≈20× raised FY2026E EPS of ≈$36 → ≈$720
 
 ---
 
@@ -508,16 +510,16 @@ The –22% pullback from the $1,134 peak is driven by "oral GLP-1 competition wi
 | Bull | $1,600 | 35% | $560.00 |
 | Base | $1,250 | 50% | $625.00 |
 | Bear | $750 | 15% | $112.50 |
-| **PW EV (18-mo)** | | | **~$1,264** |
+| **PW EV (18-mo)** | | | **≈$1,264** |
 
 | Current Price | PW EV | Return (18-mo) | Annualized |
 |--------------|-------|----------------|-----------|
-| $974.39 | $1,264 | **+29.7%** | **~+19%/yr** |
+| $974.39 | $1,264 | **+29.7%** | **≈+19%/yr** |
 
-**R/R (per Rule #26, anchored to §11 Bull/Bear midpoints)**:
+**R/R (per Rule #24, anchored to §11 Bull/Bear midpoints)**:
 - Upside: $1,600 – $974 = **$626 (+64%)**
 - Downside: $974 – $750 = **$224 (–23%)**
-- **R/R: ~2.9:1** (Bull case upside / Bear case downside)
+- **R/R: ≈2.9:1** (Bull case upside / Bear case downside)
 
 **Interpretation**: PW EV $1,180 → **$1,264** on raised FY26 guide and Q1 confirmation. R/R compressed from 3.4:1 → 2.9:1 as the +10.2% session move on the Q1 print captured part of the upside. Asymmetry remains favorable but materially narrower than pre-print.
 
@@ -525,15 +527,15 @@ The –22% pullback from the $1,134 peak is driven by "oral GLP-1 competition wi
 
 ## Section 13 — Recommendation & Bottom Line
 
-**Thesis in one sentence**: Q1 2026 (rev +56%, Mounjaro +125%, EPS +25% beat) confirmed the franchise build-out and forced FY26 guide higher to $82–85B / $35.50–$37.00 EPS — Lilly remains the dominant GLP-1 franchise with a $50B+ manufacturing moat at ~26.9× raised FY26E (~0.46× PEG), with R/R compressed to 2.9:1 as the print captured part of the upside.
+**Thesis in one sentence**: Q1 2026 (rev +56%, Mounjaro +125%, EPS +25% beat) confirmed the franchise build-out and forced FY26 guide higher to $82–85B / $35.50–$37.00 EPS — Lilly remains the dominant GLP-1 franchise with a $50B+ manufacturing moat at ≈26.9× raised FY26E (≈0.46× PEG), with R/R compressed to 2.9:1 as the print captured part of the upside.
 
-**For a non-holder**: 🟢 **Initiate** at $974 — Q1 confirmed the thesis with raised numbers; triple-overlap BAIT and ~2.9:1 R/R still justify a measured starter. **Add** in the $830–900 zone if reached.
+**For a non-holder**: 🟢 **Initiate** at $974 — Q1 confirmed the thesis with raised numbers; triple-overlap BAIT and ≈2.9:1 R/R still justify a measured starter. **Add** in the $830–900 zone if reached.
 
 **For a current holder**: 🟢 **Hold / Add** at $974 — Q1 print + raised guide moves the holder verb up from Hold to Hold/Add. Do not chase above $1,300; add on any pullback into $830–900. Next hard confirmation is Q2 2026 (late-July) — Foundayo's first full launch quarter.
 
-🎯 **Attractive entry zone**: **$830 – $900** (rationale: ~23–25× raised FY26E EPS; meaningful margin of safety against oral competition narrative)
+🎯 **Attractive entry zone**: **$830 – $900** (rationale: ≈23–25× raised FY26E EPS; meaningful margin of safety against oral competition narrative)
 
-🎯 **Trim zone**: **$1,300 – $1,500** (rationale: ~36–41× raised FY26E EPS; Foundayo ramp + retatrutide optionality largely priced in)
+🎯 **Trim zone**: **$1,300 – $1,500** (rationale: ≈36–41× raised FY26E EPS; Foundayo ramp + retatrutide optionality largely priced in)
 
 🔴 **Exit / avoid zone**: **>$1,600** (rationale: pricing in flawless Foundayo/retatrutide execution + zero IRA impact + zero competitive pricing pressure)
 
@@ -545,8 +547,8 @@ The –22% pullback from the $1,134 peak is driven by "oral GLP-1 competition wi
 - ⚠️ Raised FY2026 guidance withdrawn or revised below $80B by Q3 2026 earnings
 - ⚠️ Retatrutide Phase 3 obesity efficacy miss (<20% weight loss in primary endpoint)
 - ⚠️ David Ricks CEO departure (the strategic architect of the tirzepatide bet)
-- ~~⚠️ Orforglipron CRL or FDA delay >12 months~~ **DE-RISKED ✅ (April 1, 2026 — approved)**
-- ~~⚠️ Q1 2026 revenue tracking <$78B implied FY run-rate~~ **DE-RISKED ✅ (April 30, 2026 — beat + raised guide)**
+- ≈≈⚠️ Orforglipron CRL or FDA delay >12 months≈≈ **DE-RISKED ✅ (April 1, 2026 — approved)**
+- ≈≈⚠️ Q1 2026 revenue tracking <$78B implied FY run-rate≈≈ **DE-RISKED ✅ (April 30, 2026 — beat + raised guide)**
 
 📅 **Next review trigger**: **Q2 2026 earnings — late-July 2026**. Items to check:
 - Sustainability of Q1 trajectory vs. raised $82–85B FY guide

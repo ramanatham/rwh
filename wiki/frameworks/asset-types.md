@@ -1,6 +1,6 @@
 # Asset Type Adaptations
 
-How the 15-section framework adapts by business model type.
+How the 13-section framework adapts by business model type.
 
 | Type | Example | Key Volume Metric | Valuation Primary | Moat Source |
 |------|---------|-------------------|-------------------|-------------|

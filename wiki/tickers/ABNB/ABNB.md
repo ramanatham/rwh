@@ -1,6 +1,6 @@
 # ABNB — Airbnb, Inc.
 
-**Schema**: v2.14
+**Schema**: v3.0
 **Last Updated**: 2026-05-10
 **Status**: Paused — since 2026-05-18
 **Live Price**: **$141.49** (2026-05-08, post-Q1 print; +0.73% day) — [Yahoo Finance](https://finance.yahoo.com/quote/ABNB)
@@ -429,7 +429,7 @@ Q1 2026 letter, transcript, and 8-K are publicly available. Two analyst upgrades
 
 ## §11 — Bull / Bear / Base Cases
 
-*All scenarios are 5-year terminal (FY2030E) horizon per Rule #26. Probabilities sum to 100%.*
+*All scenarios are 5-year terminal (FY2030E) horizon per Rule #24. Probabilities sum to 100%.*
 
 ### 🟢 Bull+ — $300 by FY2030 (+112% from $141.49, ≈16% CAGR) — **10%**
 
@@ -472,7 +472,7 @@ Q1 2026 letter, transcript, and 8-K are publicly available. Two analyst upgrades
 |---|---|---|---|
 | $141.49 | $189 | **+34%** | ≈+6.0%/yr |
 
-**Risk/Reward (anchored to Bull/Bear per Rule #26)**: **≈5.5:1** — Bull upside +77% ($141.49 → $250) ÷ Bear downside –36% ($141.49 → $90). Favorable for a quality compounder. Rises to ≈8.5:1 with Bull+ tail at $300.
+**Risk/Reward (anchored to Bull/Bear per Rule #24)**: **≈5.5:1** — Bull upside +77% ($141.49 → $250) ÷ Bear downside –36% ($141.49 → $90). Favorable for a quality compounder. Rises to ≈8.5:1 with Bull+ tail at $300.
 
 **Interpretation**: PW EV of $189 vs. spot $141.49 implies +34% over 5 years (≈+6%/yr) plus no dividend. The asymmetry improves materially on a pullback: at $120, PW EV → $189 = +58% return, R/R improves to ≈7:1+. At $141.49, PW EV return is modest enough that quality, not deep cheapness, is the investment case.
 

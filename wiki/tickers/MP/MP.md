@@ -1,6 +1,6 @@
 # MP — MP Materials Corp.
 
-> **Schema**: v2.14
+> **Schema**: v3.0
 > **Last Updated**: 2026-05-10
 > **Status**: Paused — since 2026-05-18
 > **Live Price Verified**: **$67.43** (May 8, 2026 close, [Yahoo Finance](https://finance.yahoo.com/quote/MP); –2.46% on May 8 post-earnings digestion after intraday high of $76.80; +2.1% to ~$68.05 AH)
@@ -445,7 +445,7 @@ The –33% pullback from $100.25 (Oct 2025) reflects post-deal-frenzy normalizat
 
 *Note: Discounted at ≈0% (no cost-of-capital haircut applied given DoD backstop, Wide moat, and strategic-asset frame; investors seeking a haircut should apply 7–10% discount rate, which compresses PW EV to ≈$59–68 — suggesting current spot is at or below a discounted fair value for conservative investors.)*
 
-**Undiscounted PW EV $86 used for zone calculations per Rule #26:**
+**Undiscounted PW EV $86 used for zone calculations per Rule #24:**
 
 | Current Price | PW EV | Return (5-yr, undiscounted) | Annualized |
 |--------------|-------|----------------------------|-----------|
@@ -453,7 +453,7 @@ The –33% pullback from $100.25 (Oct 2025) reflects post-deal-frenzy normalizat
 
 **R/R**: Bull case (+108%) ÷ Bear case (–58%) = **≈2.5:1** at $67.43 (improved from 1.7:1 at $66.04 in prior baseline — scenario extension to 5-year horizon + Bull case raised to $140 reflects operational confirmation from Q1 2026 beat and 10X groundbreaking).
 
-**Interpretation**: At $67.43, PW EV ≈$86 implies +28% over 5 years (≈+5%/yr undiscounted). The 2.5:1 R/R is more attractive than the prior 1.7:1 baseline (3-year horizon); the v2.14 migration extends horizon to 5 years per Rule #26, which is the appropriate frame for a mine-to-magnet capex cycle. The Q1 2026 beat and 10X groundbreaking incrementally shift probabilities toward execution confidence. Analyst median ($80.33) still sits below PW EV — reflecting consensus conservatism on Magnetics and HREE ramp.
+**Interpretation**: At $67.43, PW EV ≈$86 implies +28% over 5 years (≈+5%/yr undiscounted). The 2.5:1 R/R is more attractive than the prior 1.7:1 baseline (3-year horizon); the v2.14 migration extends horizon to 5 years per Rule #24, which is the appropriate frame for a mine-to-magnet capex cycle. The Q1 2026 beat and 10X groundbreaking incrementally shift probabilities toward execution confidence. Analyst median ($80.33) still sits below PW EV — reflecting consensus conservatism on Magnetics and HREE ramp.
 
 ---
 

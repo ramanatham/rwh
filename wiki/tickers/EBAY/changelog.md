@@ -4,6 +4,31 @@
 
 ---
 
+## [2026-05-31] — v3.0 Conciseness Rewrite + Section Renumbering
+
+**Trigger**: Schema v3.0 content-compliance pass — applying Rule #20 (synthesis over transcription), Rule #26 (state-once discipline, per-section word budgets), and v3.0 13-section structural requirements.
+
+### What Changed
+- **Structure**: Renumbered from non-standard 15-section to v3.0 13-section structure: absorbed §1 (Why Does This Company Exist?) into Business Overview; merged §3 Geographic + §4 Revenue Mix → v3.0 §2; shifted §5–§12 → v3.0 §3–§10; merged §13 Bull/Bear + §14 PW EV → v3.0 §11–§12; §15 Recommendation → v3.0 §13.
+- **§4 Management RMC**: Collapsed 3-stage arc table to 2-sentence synthesis.
+- **§6 (→§3) Competitive Landscape**: Cut from 12-row table to 7-row table.
+- **§8 (→§6) Key Risks**: Cut from 10 rows to 6; collapsed 5-year evolution to 2 sentences.
+- **§15 (→§13) Recommendation**: Cut thesis-break triggers from 11 to 6 most critical.
+- **Sources**: Consolidated from 15-item appendix to inline footnote block.
+- Summary, scenarios, R/R, and all analytical content preserved unchanged.
+
+### Thesis Status
+- **Overall**: Unchanged — same thesis, same scenarios, same R/R (≈1.0:1)
+- **Price target delta**: Bull $145 | Base $115 | Bear $60 | PW EV ≈$113 — unchanged
+
+### Recommendation
+- **For a non-holder**: Watch / selective Initiate
+- **For a current holder**: Hold / partial Trim into $115+
+
+**Next review trigger**: Q2 2026 earnings ≈late July 2026.
+
+---
+
 ## [2026-05-01] — Earnings Q1 2026 — beat + 4-firm PT-raise cluster; R/R compresses 1.2:1 → 1.0:1; trim floor $120→$115
 
 **Trigger**: Q1 2026 earnings (Apr 29, post-close) — beat across rev / GMV / NGAAP EPS — followed by 4-firm PT-raise cluster on Apr 30. Stock +5.7% to $103.48 (–3.6% from 52-wk high $107.34).

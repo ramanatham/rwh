@@ -14,7 +14,7 @@ Expected Return     = (EV − Current Price) / Current Price × 100%
 Asymmetry Ratio     = Bull Upside % / Bear Downside %
 ```
 
-A position is compelling when **current price ≤ PW EV − margin of safety** (typ. 15–25% discount to PW EV) per CLAUDE.md Rule #26. Asymmetry Ratio > 2:1 is a useful secondary check but not the primary buy/sell anchor.
+A position is compelling when **current price ≤ PW EV − margin of safety** (typ. 15–25% discount to PW EV) per CLAUDE.md Rule #24. Asymmetry Ratio > 2:1 is a useful secondary check but not the primary buy/sell anchor.
 
 ---
 
